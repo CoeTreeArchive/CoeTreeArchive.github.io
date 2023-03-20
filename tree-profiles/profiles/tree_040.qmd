@@ -1,0 +1,45 @@
+---
+title: "**Silver Birch**"
+description: "Tree ID: 040"
+image: "all_tree_images/040/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  7.9  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 621.1
+
+ Carbon Storage:  420.7  lbs
+
+ Gross Carbon Removal:  21.1  lbs/year
+
+ Avoided Runoff:  21  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  8.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/040/IMG_6447.jpg)
+
+ ![](all_tree_images/040/IMG_6448.jpg)
+
+ ![](all_tree_images/040/IMG_6449.jpg)
+
+ ![](all_tree_images/040/IMG_6450.jpg)
+
+ ![](all_tree_images/040/main.jpg)

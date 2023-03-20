@@ -1,0 +1,41 @@
+---
+title: "**Autumn Brillance Serviceberry**"
+description: "Tree ID: 111"
+image: "all_tree_images/111/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  0.9  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 54.75
+
+ Carbon Storage:  1.9  lbs
+
+ Gross Carbon Removal:  0.9  lbs/year
+
+ Avoided Runoff:  0.3  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/111/IMG_6792.jpg)
+
+ ![](all_tree_images/111/IMG_6794.jpg)
+
+ ![](all_tree_images/111/main.jpg)

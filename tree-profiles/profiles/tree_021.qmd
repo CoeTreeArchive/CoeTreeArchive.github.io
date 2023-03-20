@@ -1,0 +1,39 @@
+---
+title: "**Swamp White Oak**"
+description: "Tree ID: 021"
+image: "all_tree_images/021/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  3.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 106.48
+
+ Carbon Storage:  71.9  lbs
+
+ Gross Carbon Removal:  7.8  lbs/year
+
+ Avoided Runoff:  3.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  1.4  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/021/IMG_6386.jpg)
+
+ ![](all_tree_images/021/main.jpg)

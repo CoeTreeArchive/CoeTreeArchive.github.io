@@ -1,0 +1,39 @@
+---
+title: "**Colorado Blue Spruce**"
+description: "Tree ID: 089"
+image: "all_tree_images/089/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  10.9  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 1379.75
+
+ Carbon Storage:  385  lbs
+
+ Gross Carbon Removal:  7.9  lbs/year
+
+ Avoided Runoff:  22.7  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  9.7  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/089/IMG_6624.jpg)
+
+ ![](all_tree_images/089/main.jpg)

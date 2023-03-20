@@ -1,0 +1,41 @@
+---
+title: "**Red Oak**"
+description: "Tree ID: 150"
+image: "all_tree_images/150/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  35.5  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 12172.97
+
+ Carbon Storage:  8086.3  lbs
+
+ Gross Carbon Removal:  87.8  lbs/year
+
+ Avoided Runoff:  84.5  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  36  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/150/IMG_6920.jpg)
+
+ ![](all_tree_images/150/IMG_6921.jpg)
+
+ ![](all_tree_images/150/main.jpg)

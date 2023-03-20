@@ -1,0 +1,41 @@
+---
+title: "**Sentry Linden**"
+description: "Tree ID: 095"
+image: "all_tree_images/095/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  18  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 2574.91
+
+ Carbon Storage:  908  lbs
+
+ Gross Carbon Removal:  18.9  lbs/year
+
+ Avoided Runoff:  77.6  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  33  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/095/IMG_6642.jpg)
+
+ ![](all_tree_images/095/IMG_6644.jpg)
+
+ ![](all_tree_images/095/main.jpg)

@@ -1,0 +1,41 @@
+---
+title: "**Princeton Elm**"
+description: "Tree ID: 008"
+image: "all_tree_images/008/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/14/2022
+
+Diameter at Breast Height:  2.6  inches
+
+Planters:  A. Ahern, C. Karwowski, A. Welna
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 39.15
+
+ Carbon Storage:  11.3  lbs
+
+ Gross Carbon Removal:  2.3  lbs/year
+
+ Avoided Runoff:  1.9  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.8  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/008/IMG_6335.jpg)
+
+ ![](all_tree_images/008/IMG_6336.jpg)
+
+ ![](all_tree_images/008/main.jpg)

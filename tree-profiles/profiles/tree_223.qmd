@@ -1,0 +1,41 @@
+---
+title: "**Kentucky Coffee Tree**"
+description: "Tree ID: 223"
+image: "all_tree_images/223/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/25/2022
+
+Diameter at Breast Height:  3.3  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 62.56
+
+ Carbon Storage:  35.9  lbs
+
+ Gross Carbon Removal:  3.8  lbs/year
+
+ Avoided Runoff:  2.5  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  1.1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/223/IMG_7174.jpg)
+
+ ![](all_tree_images/223/IMG_7175.jpg)
+
+ ![](all_tree_images/223/main.jpg)

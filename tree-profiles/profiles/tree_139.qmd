@@ -1,0 +1,41 @@
+---
+title: "**Red Maple**"
+description: "Tree ID: 139"
+image: "all_tree_images/139/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  12.3  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 1530.69
+
+ Carbon Storage:  666.9  lbs
+
+ Gross Carbon Removal:  27.2  lbs/year
+
+ Avoided Runoff:  35  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  14.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/139/IMG_6884.jpg)
+
+ ![](all_tree_images/139/IMG_6885.jpg)
+
+ ![](all_tree_images/139/main.jpg)

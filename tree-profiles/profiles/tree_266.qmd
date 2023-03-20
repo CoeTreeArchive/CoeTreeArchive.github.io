@@ -1,0 +1,39 @@
+---
+title: "**White Pine**"
+description: "Tree ID: 266"
+image: "all_tree_images/266/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  11/9/2022
+
+Diameter at Breast Height:  19.8  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 3948.89
+
+ Carbon Storage:  925.7  lbs
+
+ Gross Carbon Removal:  22.5  lbs/year
+
+ Avoided Runoff:  74.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  31.7  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/266/IMG_7326.jpg)
+
+ ![](all_tree_images/266/main.jpg)

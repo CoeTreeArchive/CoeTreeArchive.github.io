@@ -1,0 +1,41 @@
+---
+title: "**Tulip Tree**"
+description: "Tree ID: 041"
+image: "all_tree_images/041/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  13  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 1708.58
+
+ Carbon Storage:  567.1  lbs
+
+ Gross Carbon Removal:  22  lbs/year
+
+ Avoided Runoff:  55.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  23.6  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/041/IMG_6452.jpg)
+
+ ![](all_tree_images/041/IMG_6453.jpg)
+
+ ![](all_tree_images/041/main.jpg)

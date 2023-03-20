@@ -1,0 +1,41 @@
+---
+title: "**White Oak**"
+description: "Tree ID: 043"
+image: "all_tree_images/043/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  1.8  inches
+
+Planters:  A. Jones, S. Letham
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 97.88
+
+ Carbon Storage:  4.7  lbs
+
+ Gross Carbon Removal:  0.9  lbs/year
+
+ Avoided Runoff:  1.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.6  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/043/IMG_6457.jpg)
+
+ ![](all_tree_images/043/IMG_6459.jpg)
+
+ ![](all_tree_images/043/main.jpg)

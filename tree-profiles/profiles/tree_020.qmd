@@ -1,0 +1,39 @@
+---
+title: "**Dogwood**"
+description: "Tree ID: 020"
+image: "all_tree_images/020/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  0.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 54.75
+
+ Carbon Storage:  0.7  lbs
+
+ Gross Carbon Removal:  0.6  lbs/year
+
+ Avoided Runoff:  0.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.2  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/020/IMG_6385.jpg)
+
+ ![](all_tree_images/020/main.jpg)

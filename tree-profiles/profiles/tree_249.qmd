@@ -1,0 +1,37 @@
+---
+title: "**Eastern Red Cedar**"
+description: "Tree ID: 249"
+image: "all_tree_images/249/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  11/9/2022
+
+Diameter at Breast Height:  2.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 70.77
+
+ Carbon Storage:  19.2  lbs
+
+ Gross Carbon Removal:  1.5  lbs/year
+
+ Avoided Runoff:  1.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.6  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/249/main.jpg)

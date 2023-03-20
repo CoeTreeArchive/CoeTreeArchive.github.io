@@ -1,0 +1,41 @@
+---
+title: "**Princeton Elm**"
+description: "Tree ID: 155"
+image: "all_tree_images/155/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  2.6  inches
+
+Planters:  M. Meiers, L. Sweezer
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 39.15
+
+ Carbon Storage:  11.3  lbs
+
+ Gross Carbon Removal:  2.3  lbs/year
+
+ Avoided Runoff:  1.9  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.8  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/155/IMG_6935.jpg)
+
+ ![](all_tree_images/155/IMG_6936.jpg)
+
+ ![](all_tree_images/155/main.jpg)

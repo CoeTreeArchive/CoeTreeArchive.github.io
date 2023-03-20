@@ -1,0 +1,41 @@
+---
+title: "**Little-Leaf Linden**"
+description: "Tree ID: 093"
+image: "all_tree_images/093/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  29.1  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 10520.2
+
+ Carbon Storage:  3699.5  lbs
+
+ Gross Carbon Removal:  47.6  lbs/year
+
+ Avoided Runoff:  82.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  35.1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/093/IMG_6636.jpg)
+
+ ![](all_tree_images/093/IMG_6637.jpg)
+
+ ![](all_tree_images/093/main.jpg)

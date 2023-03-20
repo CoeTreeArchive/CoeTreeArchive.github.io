@@ -1,0 +1,43 @@
+---
+title: "**Pin Oak**"
+description: "Tree ID: 240"
+image: "all_tree_images/240/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  11/9/2022
+
+Diameter at Breast Height:  22.2  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 4961.37
+
+ Carbon Storage:  2218  lbs
+
+ Gross Carbon Removal:  41.3  lbs/year
+
+ Avoided Runoff:  112.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  47.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/240/IMG_7258.jpg)
+
+ ![](all_tree_images/240/IMG_7259.jpg)
+
+ ![](all_tree_images/240/IMG_7260.jpg)
+
+ ![](all_tree_images/240/main.jpg)

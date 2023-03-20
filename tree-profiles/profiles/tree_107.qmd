@@ -1,0 +1,41 @@
+---
+title: "**Green Ash**"
+description: "Tree ID: 107"
+image: "all_tree_images/107/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  37.7  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 13432.83
+
+ Carbon Storage:  4415.9  lbs
+
+ Gross Carbon Removal:  44.1  lbs/year
+
+ Avoided Runoff:  175.8  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  74.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/107/IMG_6679.jpg)
+
+ ![](all_tree_images/107/IMG_6680.jpg)
+
+ ![](all_tree_images/107/main.jpg)

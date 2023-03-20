@@ -1,0 +1,43 @@
+---
+title: "**Unidentified**"
+description: "Tree ID: 228"
+image: "all_tree_images/228/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/25/2022
+
+Diameter at Breast Height:  2  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: Not Available
+
+ Carbon Storage: Not Available
+
+ Gross Carbon Removal: Not Available
+
+ Avoided Runoff: Not Available
+
+ Air Pollution Removal: Not Available
+
+## **Images**
+
+
+ ![](all_tree_images/228/IMG_7189.jpg)
+
+ ![](all_tree_images/228/IMG_7190.jpg)
+
+ ![](all_tree_images/228/IMG_7191.jpg)
+
+ ![](all_tree_images/228/main.jpg)

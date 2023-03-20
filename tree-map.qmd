@@ -1,0 +1,163 @@
+---
+title: "**Tree Map**"
+---
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+
+# Importing packages
+library(tidyverse)
+library(sf)
+library(tmap)
+library(leaflet)
+library(leaflet.extras)
+
+# Remove scientific notation
+options(scipen = 999)
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Formatting Set Up -----------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+tree_shp <- st_read("data analysis/cleaned data/coe_tree_archive.shp",
+                    quiet = TRUE) 
+
+# Formatting the names of planters
+format_names <- function(x){
+  if(is.na(x)){
+    output = "Unknown"
+  } else {
+    output = str_replace_all(x, pattern = ", ", replacement="<br>")
+    output = paste("<br>", output, sep="")
+  }
+  return(output)
+}
+
+# Setting up the tree icons
+treeIcons <- iconList(
+  Oak = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/oak.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Maple = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/maple.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  `Honey Locust` = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/honeylocust.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Elm = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/elm.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Ash = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/ash.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Evergreen = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/evergreen.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Crabapple = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/crabapple.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Other = makeIcon(
+    iconUrl = "data analysis/raw data/tree_icons/other.png",
+    iconWidth = 25, iconHeight = 50
+  )
+)
+
+icon_legend <- "<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/oak.png'
+style='width:15px;height:30px;'>\tOak<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/maple.png'  
+style='width:15px;height:30px;'>\tMaple<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/honeylocust.png'  
+style='width:15px;height:30px;'>\tHoney Locust<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/elm.png' style='width:15px;height:30px;'>\tElm<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/ash.png' style='width:15px;height:30px;'>\tAsh<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/evergreen.png'  
+style='width:15px;height:30px;'>\tEvergreen<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/crabapple.png'  
+style='width:15px;height:30px;'>\tCrabapple<br/> 
+
+<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/other.png'  
+style='width:15px;height:30px;'>\tOther
+"
+
+# Processing
+
+tree_shp  <- tree_shp %>% 
+  rowwise %>% 
+  mutate(
+    formatted_names = format_names(planters),
+    ID = str_pad(ID, width = 3, side="left", pad="0"),
+    my_url = paste("https://eaperry.github.io/CoeTreeArchive/tree-profiles/profiles/tree_", ID, ".html", sep="")
+  )
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# The Map ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNativeZoom=20)) %>%
+  addMarkers(
+    icon = ~treeIcons[tree_grp], 
+    popup = ~paste(
+      '<h3>',species,"</h3>",
+      "<hr> </hr>",
+      "<table>
+        <tr>
+        <th>Tree ID#:</th>
+        <th>", ID, "</th>
+        </tr>",
+      "<tr>
+        <td>Diameter:</td>
+        <td>", dbh, "in.</td>
+        </tr>",
+      "<tr>
+        <td>Carbon Sequestration: &nbsp; &nbsp; &nbsp;</td>
+        <td>", c_stor_1, "lbs</td>
+        </tr>",
+      "<tr>
+        <td>Avoided Runoff:</td>
+        <td>", runoff_1, "ft.<sup>3</sup>/yr</td>
+        </tr>",
+      "<tr>
+        <td>Pollution Removal:</td>
+        <td>", poll_1, "oz/yr</td>
+        </tr>",
+      "<tr>
+        <td>Planted By:</td>
+        <td>", formatted_names, "</td>
+        </tr>",
+      "</table>",
+      "<a href=", my_url, ">More About This Tree</a>"
+    )
+  ) %>% 
+  addResetMapButton() %>%
+  addFullscreenControl()%>% 
+  addProviderTiles(providers$OpenStreetMap.France) %>% 
+  addControl(html = icon_legend, position = "bottomleft") 
+```
+
+## **About the Tree Map**
+
+The Tree Map from the Coe Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them. For more detailed data on the our trees, see [By the Numbers](/tree-numbers.qmd).
+
+In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service.
+
+Finally, the Tree Map displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all appreciate the opportunities we have support others through the environment.

@@ -1,0 +1,41 @@
+---
+title: "**Black Oak**"
+description: "Tree ID: 171"
+image: "all_tree_images/171/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  32.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 10697.51
+
+ Carbon Storage:  8542.4  lbs
+
+ Gross Carbon Removal:  97.5  lbs/year
+
+ Avoided Runoff:  77  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  32.8  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/171/IMG_6985.jpg)
+
+ ![](all_tree_images/171/IMG_6986.jpg)
+
+ ![](all_tree_images/171/main.jpg)

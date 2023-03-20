@@ -1,0 +1,41 @@
+---
+title: "**Princeton Sentry Ginkgo**"
+description: "Tree ID: 164"
+image: "all_tree_images/164/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  1.4  inches
+
+Planters:  D. Robertson, H. Schipper, A. Ward
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 97.88
+
+ Carbon Storage:  1  lbs
+
+ Gross Carbon Removal:  0.2  lbs/year
+
+ Avoided Runoff:  0.7  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.3  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/164/IMG_6963.jpg)
+
+ ![](all_tree_images/164/IMG_6964.jpg)
+
+ ![](all_tree_images/164/main.jpg)

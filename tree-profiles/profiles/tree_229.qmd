@@ -1,0 +1,43 @@
+---
+title: "**Scotch Pine**"
+description: "Tree ID: 229"
+image: "all_tree_images/229/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/25/2022
+
+Diameter at Breast Height:  23.8  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 5700.64
+
+ Carbon Storage:  1612.8  lbs
+
+ Gross Carbon Removal:  28.6  lbs/year
+
+ Avoided Runoff:  61.8  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  26.3  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/229/IMG_7193.jpg)
+
+ ![](all_tree_images/229/IMG_7194.jpg)
+
+ ![](all_tree_images/229/IMG_7195.jpg)
+
+ ![](all_tree_images/229/main.jpg)

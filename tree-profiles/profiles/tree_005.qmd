@@ -1,0 +1,39 @@
+---
+title: "**Ginkgo**"
+description: "Tree ID: 005"
+image: "all_tree_images/005/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/14/2022
+
+Diameter at Breast Height:  3.1  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 98.7
+
+ Carbon Storage:  7.4  lbs
+
+ Gross Carbon Removal:  0.7  lbs/year
+
+ Avoided Runoff:  2.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/005/IMG_6327.jpg)
+
+ ![](all_tree_images/005/main.jpg)

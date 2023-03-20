@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Coe Tree Archive"
+  favicon: "images/logo.png"
+  navbar:
+    logo: "images/logo.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Tree Map"
+        file: tree-map.qmd
+      - text: "Our Trees"
+        file: our-trees.qmd
+      - text: "By the Numbers"
+        file: tree-numbers.qmd
+      - text: "Tree Identification"
+        file: tree-identification.qmd        
+      - text: "Get Connected"
+        file: get-connected.qmd
+
+format:
+  html:
+    theme: 
+      - mint
+      - custom.scss
+    fontsize: 1.1rem
+    fontcolor: "#666666"
+    linkcolor: "#89b04c"
+    css: styles.css
+    toc: true
+
+editor: visual

@@ -1,0 +1,41 @@
+---
+title: "**Magnolia**"
+description: "Tree ID: 255"
+image: "all_tree_images/255/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  11/9/2022
+
+Diameter at Breast Height:  5.4  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 167.52
+
+ Carbon Storage:  94.3  lbs
+
+ Gross Carbon Removal:  4.7  lbs/year
+
+ Avoided Runoff:  8  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  3.4  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/255/IMG_7296.jpg)
+
+ ![](all_tree_images/255/IMG_7297.jpg)
+
+ ![](all_tree_images/255/main.jpg)

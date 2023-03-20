@@ -1,0 +1,41 @@
+---
+title: "**White Ash**"
+description: "Tree ID: 094"
+image: "all_tree_images/094/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  18.2  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 3338.19
+
+ Carbon Storage:  1621  lbs
+
+ Gross Carbon Removal:  33.7  lbs/year
+
+ Avoided Runoff:  78.8  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  33.6  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/094/IMG_6640.jpg)
+
+ ![](all_tree_images/094/IMG_6641.jpg)
+
+ ![](all_tree_images/094/main.jpg)

@@ -1,0 +1,39 @@
+---
+title: "**Crabapple**"
+description: "Tree ID: 026"
+image: "all_tree_images/026/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  2.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 54.75
+
+ Carbon Storage:  15.3  lbs
+
+ Gross Carbon Removal:  2.4  lbs/year
+
+ Avoided Runoff:  1.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.6  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/026/IMG_6396.jpg)
+
+ ![](all_tree_images/026/main.jpg)

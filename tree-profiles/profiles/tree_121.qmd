@@ -1,0 +1,43 @@
+---
+title: "**Hawthorn**"
+description: "Tree ID: 121"
+image: "all_tree_images/121/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  7.8  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 586.4
+
+ Carbon Storage:  190.9  lbs
+
+ Gross Carbon Removal:  9.6  lbs/year
+
+ Avoided Runoff:  5  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  2.1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/121/IMG_6825.jpg)
+
+ ![](all_tree_images/121/IMG_6827.jpg)
+
+ ![](all_tree_images/121/IMG_6828.jpg)
+
+ ![](all_tree_images/121/main.jpg)

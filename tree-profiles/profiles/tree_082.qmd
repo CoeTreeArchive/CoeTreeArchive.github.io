@@ -1,0 +1,43 @@
+---
+title: "**Autumn Fest Maple**"
+description: "Tree ID: 082"
+image: "all_tree_images/082/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/30/2022
+
+Diameter at Breast Height:  2.3  inches
+
+Planters:  C. Doty, L. Homeister
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 97.88
+
+ Carbon Storage:  14  lbs
+
+ Gross Carbon Removal:  1.7  lbs/year
+
+ Avoided Runoff:  2.1  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/082/IMG_6600.jpg)
+
+ ![](all_tree_images/082/IMG_6603.jpg)
+
+ ![](all_tree_images/082/IMG_6604.jpg)
+
+ ![](all_tree_images/082/main.jpg)

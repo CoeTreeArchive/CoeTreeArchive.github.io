@@ -1,0 +1,41 @@
+---
+title: "**Common Hackberry**"
+description: "Tree ID: 120"
+image: "all_tree_images/120/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  14.2  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 2036.43
+
+ Carbon Storage:  154.6  lbs
+
+ Gross Carbon Removal:  3.9  lbs/year
+
+ Avoided Runoff:  61.4  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  26.2  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/120/IMG_6823.jpg)
+
+ ![](all_tree_images/120/IMG_6824.jpg)
+
+ ![](all_tree_images/120/main.jpg)

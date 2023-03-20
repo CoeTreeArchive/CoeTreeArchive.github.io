@@ -1,0 +1,41 @@
+---
+title: "**Cathedral Elm**"
+description: "Tree ID: 011"
+image: "all_tree_images/011/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/14/2022
+
+Diameter at Breast Height:  2.9  inches
+
+Planters:  N. Gehling, Z. Nowobilski
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 19.58
+
+ Carbon Storage:  17.3  lbs
+
+ Gross Carbon Removal:  3.1  lbs/year
+
+ Avoided Runoff:  2.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  0.9  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/011/IMG_6339.jpg)
+
+ ![](all_tree_images/011/IMG_6346.jpg)
+
+ ![](all_tree_images/011/main.jpg)

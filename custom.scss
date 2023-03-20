@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+$primary:       #89b04c !default;
+$navbar-fg:     #FFFFFF !default;
+
+.button {
+  background-color: #89b04c; /* Green */
+  border: 2px solid #89b04c;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.1rem;
+  border-radius: 12px;
+}
+
+.button:hover {
+  background-color: white; 
+  color: #89b04c;
+  border: 2px solid #89b04c;
+}

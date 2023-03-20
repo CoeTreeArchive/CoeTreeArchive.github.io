@@ -1,0 +1,43 @@
+---
+title: "**Ohio Buckeye**"
+description: "Tree ID: 195"
+image: "all_tree_images/195/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/25/2022
+
+Diameter at Breast Height:  9.1  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 757.94
+
+ Carbon Storage:  627.8  lbs
+
+ Gross Carbon Removal:  34.1  lbs/year
+
+ Avoided Runoff:  33.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  14.1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/195/IMG_7077.jpg)
+
+ ![](all_tree_images/195/IMG_7079.jpg)
+
+ ![](all_tree_images/195/IMG_7080.jpg)
+
+ ![](all_tree_images/195/main.jpg)

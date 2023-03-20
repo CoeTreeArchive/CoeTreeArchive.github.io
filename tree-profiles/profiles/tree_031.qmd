@@ -1,0 +1,43 @@
+---
+title: "**Cottonwood**"
+description: "Tree ID: 031"
+image: "all_tree_images/031/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  25.4  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 2000.27
+
+ Carbon Storage:  7822.2  lbs
+
+ Gross Carbon Removal:  121.5  lbs/year
+
+ Avoided Runoff:  108.7  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  46.3  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/031/IMG_6416.jpg)
+
+ ![](all_tree_images/031/IMG_6417.jpg)
+
+ ![](all_tree_images/031/IMG_6419.jpg)
+
+ ![](all_tree_images/031/main.jpg)

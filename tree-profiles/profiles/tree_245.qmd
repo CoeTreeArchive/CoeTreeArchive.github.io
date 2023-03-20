@@ -1,0 +1,37 @@
+---
+title: "**Unidentified**"
+description: "Tree ID: 245"
+image: "all_tree_images/245/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  11/9/2022
+
+Diameter at Breast Height:  7.3  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: Not Available
+
+ Carbon Storage: Not Available
+
+ Gross Carbon Removal: Not Available
+
+ Avoided Runoff: Not Available
+
+ Air Pollution Removal: Not Available
+
+## **Images**
+
+
+ ![](all_tree_images/245/main.jpg)

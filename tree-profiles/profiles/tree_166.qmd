@@ -1,0 +1,41 @@
+---
+title: "**Norway Maple**"
+description: "Tree ID: 166"
+image: "all_tree_images/166/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  17.8  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 3193.55
+
+ Carbon Storage:  1573.8  lbs
+
+ Gross Carbon Removal:  41.3  lbs/year
+
+ Avoided Runoff:  52.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  22.2  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/166/IMG_6969.jpg)
+
+ ![](all_tree_images/166/IMG_6970.jpg)
+
+ ![](all_tree_images/166/main.jpg)

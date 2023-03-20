@@ -1,0 +1,41 @@
+---
+title: "**Freeman Maple**"
+description: "Tree ID: 159"
+image: "all_tree_images/159/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  6.6  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 268.42
+
+ Carbon Storage:  332.2  lbs
+
+ Gross Carbon Removal:  22.9  lbs/year
+
+ Avoided Runoff:  17  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  7.2  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/159/IMG_6945.jpg)
+
+ ![](all_tree_images/159/IMG_6948.jpg)
+
+ ![](all_tree_images/159/main.jpg)

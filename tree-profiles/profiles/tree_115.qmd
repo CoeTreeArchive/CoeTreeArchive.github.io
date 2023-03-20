@@ -1,0 +1,43 @@
+---
+title: "**Sugar Maple**"
+description: "Tree ID: 115"
+image: "all_tree_images/115/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/23/2022
+
+Diameter at Breast Height:  13.9  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 2313.88
+
+ Carbon Storage:  976.3  lbs
+
+ Gross Carbon Removal:  18.3  lbs/year
+
+ Avoided Runoff:  49.2  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  21  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/115/IMG_6805.jpg)
+
+ ![](all_tree_images/115/IMG_6806.jpg)
+
+ ![](all_tree_images/115/IMG_6807.jpg)
+
+ ![](all_tree_images/115/main.jpg)

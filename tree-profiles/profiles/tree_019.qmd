@@ -1,0 +1,39 @@
+---
+title: "**Bur Oak**"
+description: "Tree ID: 019"
+image: "all_tree_images/019/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  9/21/2022
+
+Diameter at Breast Height:  2.7  inches
+
+Planters:  R. Dufoe, A. Montalbano, B. Sanfort
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 78.3
+
+ Carbon Storage:  12.7  lbs
+
+ Gross Carbon Removal:  1.3  lbs/year
+
+ Avoided Runoff:  2.3  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  1  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/019/IMG_6382.jpg)
+
+ ![](all_tree_images/019/main.jpg)

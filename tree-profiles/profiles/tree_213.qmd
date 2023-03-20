@@ -1,0 +1,41 @@
+---
+title: "**Honey Locust**"
+description: "Tree ID: 213"
+image: "all_tree_images/213/main.jpg"
+---
+
+<br>
+
+## **More Information**
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::
+
+
+Date Recorded:  10/25/2022
+
+Diameter at Breast Height:  22.7  inches
+
+Planters:  Unknown
+
+## **i-Tree Eco Estimates**
+
+
+ Replacement Value: $ 4015.96
+
+ Carbon Storage:  3369.6  lbs
+
+ Gross Carbon Removal:  58.7  lbs/year
+
+ Avoided Runoff:  59.1  ft<sup>3</sup>/year
+
+ Air Pollution Removal:  25.2  oz/year
+
+## **Images**
+
+
+ ![](all_tree_images/213/IMG_7142.jpg)
+
+ ![](all_tree_images/213/IMG_7143.jpg)
+
+ ![](all_tree_images/213/main.jpg)
