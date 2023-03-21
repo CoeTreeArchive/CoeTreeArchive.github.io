@@ -4,63 +4,47 @@ title: "**By the Numbers**"
 
 <br>
 
-------------------------------------------------------------------------
+---
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 396,000 pounds </p>
 
-396,000 pounds
-
-</p>
-
-The Total Carbon Sequestered by Trees on the West Side of Coe's Campus
+The total carbon sequestered by trees on the west side of Coe's campus
 
 </center>
 
-------------------------------------------------------------------------
+---
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 6,100 pounds </p>
 
-6,100 pounds
-
-</p>
-
-New Carbon Sequestered by Trees on the West Side of Coe's Campus Every Year
+The additional carbon sequestered by trees on the west side of Coe's campus every year
 
 </center>
 
-------------------------------------------------------------------------
+---
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 11,800 cubic feet </p>
 
-11,800 cubic feet
-
-</p>
-
-The Annual Water Runoff Avoided from Trees on the West Side of Coe's Campus
+The annual water runoff avoided from trees on the west side of Coe's campus
 
 </center>
 
-------------------------------------------------------------------------
+---
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 313 pounds </p>
 
-313 pounds
-
-</p>
-
-The Annual Removal of Hazardous Ambient Air Pollutants from Trees on the West Side of Coe's Campus
+The annual removal of hazardous ambient air pollutants from trees on the west side of Coe's campus
 
 </center>
 
-------------------------------------------------------------------------
+---
 
 <br>
 
@@ -78,17 +62,17 @@ A central goal of the Coe Tree Archive is to make engaging with Coe's natural en
 
 <center>
 
-<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a>
+<a class="button" href="https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a>
 
-<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a>
+<a class="button" href="https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a>
 
-<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
+<a class="button" href="https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
 
 </center>
 
 <br>
 
-Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://github.com/EAPerry/CoeTreeArchive). This repository includes all images on the website. All software used in the project are open source and available for free.
+Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io). This repository includes all images on the website. All software used in the project are open source and available for free.
 
 <br>
 
@@ -96,8 +80,8 @@ Additionally, all raw data and the code needed to reproduce both the final datas
 
 The US Forest Service's i-Tree Eco tool provides additional reports summarizing information on our trees. You can download these reports at the links below:
 
--   [i-Tree Eco Project Metadata](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/iTreeEcoMetadata.pdf)
+-   [i-Tree Eco Project Metadata](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/itree_reports/iTreeEcoMetadata.pdf)
 
--   [Composition & Structure of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
+-   [Composition & Structure of Individual Trees](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
 
--   [Benefits & Costs of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)
+-   [Benefits & Costs of Individual Trees](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)

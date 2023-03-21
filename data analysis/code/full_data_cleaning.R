@@ -33,7 +33,7 @@ library(pdftools)
 library(stringr)
 
 # Setting working directory
-setwd("C:/Users/eaper/Tree Census/CoeTreeArchive/data analysis")
+setwd("C:/Users/eaper/CoeTreeArchive.github.io/data analysis")
 
 # Remove scientific notation
 options(scipen = 999)
@@ -198,7 +198,15 @@ colnames(main) <- c(
 
 # Export CSV
 
-main_csv <- as_tibble(main)
+main_csv <- as_tibble(main) %>% 
+  select(-c("geometry"))
+
+coords <- as_tibble(st_coordinates(main)) %>% 
+  rename(latitude = X, longitude = Y) %>% 
+  select(latitude, longitude)
+
+main_csv <- cbind(main_csv, coords)
+  
 write_csv(main_csv, "cleaned data/coe_tree_archive.csv", na = "")
 
 # Export as .kml
@@ -232,30 +240,7 @@ colnames(main_kml) <- c(
 )
 
 st_write(main_kml, "cleaned data/coe_tree_archive.shp", append=FALSE)
-st_write(main_kml, "cleaned data/coe_tree_archive.kml", append=FALSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+st_write(main_kml %>% 
+           select(ID, species, geometry) %>% 
+           rename(Name = ID, Description = species), 
+         "cleaned data/coe_tree_archive.kml", driver = "kml", delete_dsn = TRUE)

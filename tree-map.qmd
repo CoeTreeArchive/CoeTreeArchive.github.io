@@ -2,6 +2,8 @@
 title: "**Tree Map**"
 ---
 
+<br>
+
 ```{r}
 #| error: false
 #| echo: false
@@ -76,26 +78,26 @@ treeIcons <- iconList(
   )
 )
 
-icon_legend <- "<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/oak.png'
+icon_legend <- "<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/oak.png'
 style='width:15px;height:30px;'>\tOak<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/maple.png'  
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/maple.png'  
 style='width:15px;height:30px;'>\tMaple<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/honeylocust.png'  
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/honeylocust.png'  
 style='width:15px;height:30px;'>\tHoney Locust<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/elm.png' style='width:15px;height:30px;'>\tElm<br/> 
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/elm.png' style='width:15px;height:30px;'>\tElm<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/ash.png' style='width:15px;height:30px;'>\tAsh<br/> 
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/ash.png' style='width:15px;height:30px;'>\tAsh<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/evergreen.png'  
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/evergreen.png'  
 style='width:15px;height:30px;'>\tEvergreen<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/crabapple.png'  
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/crabapple.png'  
 style='width:15px;height:30px;'>\tCrabapple<br/> 
 
-<img src='https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/tree_icons/other.png'  
+<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/other.png'  
 style='width:15px;height:30px;'>\tOther
 "
 
@@ -106,7 +108,7 @@ tree_shp  <- tree_shp %>%
   mutate(
     formatted_names = format_names(planters),
     ID = str_pad(ID, width = 3, side="left", pad="0"),
-    my_url = paste("https://eaperry.github.io/CoeTreeArchive/tree-profiles/profiles/tree_", ID, ".html", sep="")
+    my_url = paste("https://coetreearchive.github.io/tree-profiles/profiles/tree_", ID, ".html", sep="")
   )
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

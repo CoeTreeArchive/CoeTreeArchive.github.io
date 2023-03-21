@@ -1,7 +1,6 @@
 ---
 title: "**Sentry Linden**"
 description: "Tree ID: 012"
-author: "Evan Perry"
 image: "all_tree_images/012/main.jpg"
 ---
 
