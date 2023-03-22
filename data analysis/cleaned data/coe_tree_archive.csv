@@ -1,320 +1,320 @@
 TreeID,Species,Circumference (cm),Planters,Date of Collection,i-Tree Species ID,i-Tree Species Code,i-Tree Species Scientific Name,i-Tree Species Common Name,Tree Map Group,DBH (inches),DBH Height (ft),i-Tree Land Use,Replacement Value ($),Carbon Storage (lb),Carbon Storage ($),Gross Carbon (lb/yr),Gross Carbon ($/yr),Avoided Runoff (ft3/yr),Avoided Runoff ($/yr),Removed Pollution (oz/yr),Removed Pollution ($/yr),Total Benefits ($/yr),latitude,longitude
-1,Autumn Brillance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,-91.6562834179619,41.98658200719589
-2,Autumn Brillance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,-91.65618814356377,41.98658723637167
-3,Autumn Brillance Serviceberry,6.5,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.8,4.5,Institutional,54.75,1.4,0.12,0.8,0.07,0.3,0.02,0.1,0.04,0.12,-91.65623513154664,41.98661128082747
-4,Autumn Brillance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,-91.65629041325059,41.98666613936655
-5,Ginkgo,25,,9/14/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,3.1,4.5,Institutional,98.7,7.4,0.63,0.7,0.06,2.2,0.15,1,0.27,0.48,-91.65656020517862,41.98650858018138
-6,European Beech,76,,9/14/2022,3313,FASY,Fagus sylvatica,European beech,Other,9.5,4.5,Institutional,1021.16,424.2,36.17,11.5,0.98,51.3,3.43,21.8,6.23,10.65,-91.65665073447013,41.98643617320311
-7,Bur Oak,19,,9/14/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.4,4.5,Institutional,78.3,9.5,0.81,1.1,0.1,2,0.13,0.8,0.24,0.46,-91.65676997952771,41.98636096061271
-8,Princeton Elm,20.5,"A. Ahern, C. Karwowski, A. Welna",9/14/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.6,4.5,Institutional,39.15,11.3,0.97,2.3,0.19,1.9,0.13,0.8,0.23,0.56,-91.65695992490588,41.98654473479197
-9,Norway Maple,22,,9/14/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,2.8,4.5,Institutional,78.3,24,2.05,4,0.34,1.9,0.13,0.8,0.23,0.7,-91.656952084906,41.98657786881581
-10,Ginkgo,190,,9/14/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,23.8,4.5,Institutional,7000,1267.9,108.12,14.9,1.27,76.1,5.08,32.4,9.25,15.6,-91.65684930003518,41.98627056276531
-11,Cathedral Elm,23.5,"N. Gehling, Z. Nowobilski",9/14/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,2.9,4.5,Institutional,19.58,17.3,1.47,3.1,0.26,2.2,0.15,0.9,0.27,0.68,-91.65696603705479,41.98638610405104
-12,Sentry Linden,81.5,,9/14/2022,5857,TIAM,Tilia americana,American basswood,Other,10.2,4.5,Institutional,917.88,237.9,20.29,8.8,0.75,27.9,1.87,11.9,3.4,6.01,-91.65698655269594,41.98646649907076
-13,Pin Oak,268,,9/14/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,33.6,4.5,Institutional,11051.53,5074.4,432.72,62.4,5.32,229.1,15.31,97.6,27.85,48.49,-91.65701825730078,41.98664458949511
-14,Green Ash,199,,9/14/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,24.9,4.5,Institutional,6238.73,1846.5,157.46,29.6,2.53,97.8,6.54,41.7,11.89,20.96,-91.6569293595069,41.98667698339622
-15,Unidentified,24,,9/14/2022,,,,,Other,3,4.5,Institutional,,,,,,,,,,,-91.65679363018555,41.98672193519847
-16,Red Oak,246,,9/14/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,30.8,4.5,Institutional,9342.5,5726.7,488.35,71.7,6.11,85,5.68,36.2,10.34,22.14,-91.65665224830235,41.98658311987565
-17,Autumn Brillance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,-91.6563974824066,41.9865917858038
-18,Japanese Maple,59,,9/21/2022,1674,ACPA,Acer palmatum,Japanese maple,Maple,7.4,4.5,Institutional,546.63,166.3,14.18,5.6,0.48,7.7,0.52,3.3,0.94,1.94,-91.65715636105021,41.98667681090217
-19,Bur Oak,21.5,"R. Dufoe, A. Montalbano, B. Sanfort",9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.7,4.5,Institutional,78.3,12.7,1.08,1.3,0.11,2.3,0.15,1,0.28,0.55,-91.65720079428878,41.98658199563413
-20,Dogwood,5,,9/21/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,-91.65741561936792,41.98663000394573
-21,Swamp White Oak,29,,9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.6,4.5,Institutional,106.48,71.9,6.13,7.8,0.66,3.2,0.21,1.4,0.39,1.27,-91.65749938204151,41.98664147421036
-22,Bur Oak,18,,9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.3,4.5,Institutional,78.3,8.5,0.73,1.1,0.09,1.8,0.12,0.8,0.22,0.44,-91.6575228869998,41.98658557415834
-23,Swamp White Oak,27,,9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.4,4.5,Institutional,94.98,64.7,5.52,7.4,0.63,2.9,0.19,1.2,0.35,1.17,-91.65764460981163,41.98657798243858
-24,Tulip Tree,22,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,2.8,4.5,Institutional,78.3,13.9,1.18,2.6,0.22,2.8,0.19,1.2,0.34,0.75,-91.65767732822873,41.98650195123355
-25,Black Maple,171,,9/21/2022,1673,ACNI,Acer nigrum,Black maple,Maple,21.4,4.5,Institutional,3584.08,2522.5,215.11,41.7,3.56,85.7,5.73,36.5,10.42,19.71,-91.65759294283568,41.98637449421486
-26,Crabapple,21,,9/21/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.6,4.5,Institutional,54.75,15.3,1.3,2.4,0.2,1.4,0.1,0.6,0.17,0.47,-91.65746523671211,41.98652138407348
-27,Black Oak,113.5,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,14.2,4.5,Institutional,2074.76,1187.4,101.26,31.7,2.7,50.4,3.37,21.5,6.12,12.19,-91.65779408622032,41.98654883018814
-28,Pin Oak,190.5,,9/21/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,23.9,4.5,Institutional,5748.56,2569.9,219.15,44.4,3.79,127.7,8.54,54.4,15.53,27.85,-91.65788064487701,41.98651275484173
-29,Common Hackberry,249,,9/21/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,31.2,4.5,Institutional,9590.76,595.3,50.76,6.7,0.58,139.5,9.33,59.4,16.96,26.86,-91.65788297144081,41.98640108722537
-30,Tulip Tree,6,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,0.8,4.5,Institutional,78.3,0.5,0.05,0.5,0.04,0.6,0.04,0.2,0.07,0.15,-91.65802707631813,41.98656237623958
-31,Cottonwood,203,,9/21/2022,1028,PO,Populus,cottonwood spp,Other,25.4,4.5,Institutional,2000.27,7822.2,667.04,121.5,10.36,108.7,7.27,46.3,13.22,30.85,-91.65810739986671,41.98647518332932
-32,Cottonwood,167,,9/21/2022,1028,PO,Populus,cottonwood spp,Other,20.9,4.5,Institutional,1477.08,4820.3,411.06,91,7.76,85.9,5.74,36.6,10.44,23.95,-91.65815802444098,41.98650239829356
-33,Autumn Fest Maple,6,,9/21/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,0.8,4.5,Institutional,97.88,0.9,0.08,0.4,0.03,0.3,0.02,0.1,0.04,0.09,-91.65816297036348,41.98666645521732
-34,White Ash,234.5,,9/21/2022,3378,FRAM,Fraxinus americana,White ash,Ash,29.4,4.5,Institutional,8693.09,5066.3,432.04,65,5.54,68.6,4.59,29.2,8.34,18.47,-91.65823032775816,41.98657555888154
-35,Sugar Maple,69,,9/21/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,8.6,4.5,Institutional,816.63,315.1,26.87,9.6,0.82,24.7,1.65,10.5,3.01,5.48,-91.65829847877275,41.98655189879533
-36,Bur Oak,75,,9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,9.4,4.5,Institutional,898.59,284.8,24.29,8.4,0.72,27.2,1.82,11.6,3.31,5.84,-91.65828483458486,41.98647155090984
-37,Swamp White Oak,19,"E. Goist, S. Stocking",9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.4,4.5,Institutional,78.3,35.1,2.99,5.3,0.45,1.7,0.11,0.7,0.21,0.77,-91.65838386213748,41.98644766881663
-38,Norway Maple,78,,9/21/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,9.8,4.5,Institutional,975.73,405.2,34.55,19.1,1.63,16.9,1.13,7.2,2.05,4.81,-91.65830039049172,41.98638387041277
-39,Red Oak,17.5,"C. Karwowski, N. Meskell, A. Welna",9/21/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.2,4.5,Institutional,78.3,9.4,0.8,1.7,0.15,1.9,0.13,0.8,0.23,0.5,-91.65832319162953,41.98624592220207
-40,Silver Birch,63,,9/21/2022,14714,BEPEP,Betula pendula ssp. pendula,European silver birch,Other,7.9,4.5,Institutional,621.1,420.7,35.87,21.1,1.8,21,1.4,8.9,2.55,5.75,-91.65842260203739,41.9863343622868
-41,Tulip Tree,104,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,13,4.5,Institutional,1708.58,567.1,48.36,22,1.88,55.4,3.7,23.6,6.73,12.31,-91.65851443008206,41.98641484481204
-42,Bur Oak,21,"A. Jones, S. Letham",9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.6,4.5,Institutional,78.3,11.6,0.99,1.3,0.11,2.2,0.15,0.9,0.27,0.52,-91.65857012066816,41.98633747150569
-43,White Oak,14,"A. Jones, S. Letham",9/21/2022,4824,QUAL,Quercus alba,White oak,Oak,1.8,4.5,Institutional,97.88,4.7,0.4,0.9,0.07,1.4,0.09,0.6,0.17,0.33,-91.65846890225147,41.9862494446438
-44,Black Oak,204.5,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,25.6,4.5,Institutional,6746.06,4825.5,411.5,71.1,6.06,75.4,5.04,32.1,9.17,20.27,-91.65835738996323,41.98613144432757
-45,Black Oak,390,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,48.9,4.5,Institutional,19671.21,16534.7,1410,17.9,1.53,154.7,10.34,65.9,18.8,30.67,-91.65863428270657,41.98629100580941
-46,Unidentified,73,,9/30/2022,,,,,Other,9.1,4.5,Institutional,,,,,,,,,,,-91.65590173036257,41.98639330580568
-47,White Oak,470,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,58.9,4.5,Institutional,29184.17,16534.7,1410,17.9,1.53,329.4,22.02,140.3,40.05,63.6,-91.65590427598343,41.98632028725705
-48,Swamp White Oak,66,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,8.3,4.5,Institutional,703.02,357.7,30.5,17.7,1.51,17.9,1.2,7.6,2.18,4.89,-91.65604987509643,41.98631485827387
-49,Sentry Linden,149,,9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,18.7,4.5,Institutional,2768.44,993.5,84.72,19.9,1.7,80.7,5.4,34.4,9.81,16.91,-91.65602992332781,41.98623168437905
-50,Green Ash,137,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,17.2,4.5,Institutional,2982.61,848.5,72.35,19.3,1.65,69.2,4.63,29.5,8.42,14.69,-91.65609070364509,41.98619385480498
-51,White Oak,315,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,39.5,4.5,Institutional,17915.17,11390.4,971.32,65.8,5.61,133.9,8.95,57,16.28,30.84,-91.6561828072343,41.9861693905027
-52,Red Oak,129,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,16.2,4.5,Institutional,2647.13,1202.2,102.52,28.7,2.45,66.3,4.43,28.3,8.06,14.95,-91.65617314459948,41.98624031669575
-53,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,-91.65633850834688,41.98619153283261
-54,Red Oak,112,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,14,4.5,Institutional,1979.78,843.3,71.91,23.3,1.99,57.4,3.83,24.4,6.97,12.8,-91.65635980837015,41.98612386305794
-55,Swamp White Oak,22,"D. Gayer, R. Verchimak, G. Wahls",9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.8,4.5,Institutional,78.3,45.7,3.9,6.1,0.52,2.1,0.14,0.9,0.26,0.92,-91.65638239204856,41.98603456742385
-56,Red Maple,79,,9/30/2022,1678,ACRU,Acer rubrum,Red maple,Maple,9.9,4.5,Institutional,995.52,395.9,33.76,20.1,1.71,22.4,1.5,9.5,2.72,5.93,-91.65648821177302,41.98610963583047
-57,Cathedral Elm,24,,9/30/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3,4.5,Institutional,19.58,18.8,1.6,3.2,0.28,2.3,0.16,1,0.29,0.72,-91.6564920393477,41.98603500240529
-58,Swamp White Oak,100,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,12.5,4.5,Institutional,1580.51,804.1,68.57,26.5,2.26,43.8,2.93,18.7,5.33,10.52,-91.65650322954633,41.98595910093677
-59,Green Ash,160,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,20.1,4.5,Institutional,4069.12,1177.2,100.39,23.1,1.97,77.6,5.19,33.1,9.44,16.6,-91.65665184715525,41.98588051112632
-60,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,-91.65657584913195,41.98605244023041
-61,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,-91.6566764589909,41.98598836921467
-62,Valley Forge Elm,24,"K. Berry, M. Fink",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,3,4.5,Institutional,39.15,16,1.36,2.8,0.24,2.4,0.16,1,0.29,0.69,-91.65680636123214,41.98596148718633
-63,Bur Oak,21,"K. Kirk, K. Niehaus, M. Pinto",9/30/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.6,4.5,Institutional,78.3,11.6,0.99,1.3,0.11,2.2,0.15,0.9,0.27,0.52,-91.65664607393109,41.98612016439756
-64,Sentry Linden,27,"E. Brinkman, C. Hackenmiller, G. Pisarik, A. Reinstein",9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,3.4,4.5,Institutional,71.23,17.8,1.52,2,0.17,3.1,0.21,1.3,0.38,0.76,-91.65679833809497,41.98608230098127
-65,Sentry Elm,14,"P. Cooper, P. Shevchuk, A. Valdiva",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,1.8,4.5,Institutional,39.15,4.7,0.4,1.4,0.12,1.2,0.08,0.5,0.14,0.34,-91.65679987979797,41.98579481267939
-66,Cathedral Elm,29,"S. Craig, G. Petersen",9/30/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3.6,4.5,Institutional,26.62,29,2.48,4.1,0.35,3.2,0.21,1.4,0.39,0.95,-91.65690217139593,41.98590593144829
-67,Autumn Fest Maple,21,"S. Check, A. Forman, C. Pitstick",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.6,4.5,Institutional,97.88,18.8,1.6,2,0.17,2.8,0.18,1.2,0.34,0.69,-91.65707105306979,41.98592861147052
-68,Swamp White Oak,21,"M. Cargille, E. Lassen, A. Steeber",9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,-91.65701352943762,41.98583711970596
-69,Pin Oak,160,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,20.1,4.5,Institutional,4069.12,1819.1,155.13,37.4,3.19,94.7,6.33,40.3,11.51,21.03,-91.65692743775114,41.98572454129282
-70,Sentry Elm,14,,9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,1.8,4.5,Institutional,39.15,4.7,0.4,1.4,0.12,1.2,0.08,0.5,0.14,0.34,-91.65703858426019,41.98574802989335
-71,Pin Oak,214,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,26.8,4.5,Institutional,7225.39,3230.1,275.45,49.8,4.25,155.6,10.4,66.3,18.92,33.56,-91.65710823075548,41.98561287870719
-72,White Pine,145,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,18.2,4.5,Institutional,3338.19,757.7,64.61,19.9,1.7,66.1,4.42,28.1,8.03,14.15,-91.65717198702512,41.98572410050449
-73,White Pine,141,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,17.7,4.5,Institutional,3157.89,709.4,60.5,19.2,1.63,63.9,4.27,27.2,7.76,13.67,-91.65720509041587,41.98565272447009
-74,White Pine,134,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,16.8,4.5,Institutional,2846.01,627.1,53.48,17.8,1.52,59.8,3.99,25.5,7.27,12.78,-91.65729536889677,41.98565765284684
-75,Red Oak,17,"L. Chambless, M. Northrop",9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,-91.65722077984519,41.98553547948743
-76,Unidentified,59,,9/30/2022,,,,,Other,7.4,4.5,Institutional,,,,,,,,,,,-91.65742796006776,41.98576267445166
-77,Unidentified,66,,9/30/2022,,,,,Other,8.3,4.5,Institutional,,,,,,,,,,,-91.65744895218016,41.98572257460523
-78,Crabapple,59,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,7.4,4.5,Institutional,543.69,196.9,16.79,10.5,0.89,6.6,0.44,2.8,0.8,2.13,-91.65755349414536,41.98562017978937
-79,Crabapple,84,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,10.5,4.5,Institutional,933.42,463.6,39.54,17.3,1.47,12.2,0.81,5.2,1.48,3.77,-91.6576229589036,41.98561612208042
-80,Crabapple,54,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,6.8,4.5,Institutional,265.64,160.1,13.65,9.3,0.79,5.7,0.38,2.4,0.69,1.86,-91.65769895269165,41.98561268238905
-81,Autumn Fest Maple,14.5,"L. Chambless, S. Willis",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,1.8,4.5,Institutional,97.88,7.6,0.65,1.2,0.1,1.3,0.08,0.5,0.15,0.34,-91.6574470226149,41.98558231471539
-82,Autumn Fest Maple,18.5,"C. Doty, L. Homeister",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.3,4.5,Institutional,97.88,14,1.19,1.7,0.14,2.1,0.14,0.9,0.26,0.55,-91.65754936179255,41.98555773968071
-83,Autumn Fest Maple,19.5,"M. Kenworthy, C. Ramos",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.4,4.5,Institutional,97.88,15.5,1.32,1.8,0.15,2.3,0.16,1,0.28,0.59,-91.65764299622352,41.98554013248856
-84,Red Oak,239,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,30,4.5,Institutional,9051.07,5372,458.1,69.1,5.89,84.7,5.66,36.1,10.3,21.85,-91.65735796308255,41.9854800702664
-85,Valley Forge Elm,23.5,"K. Ammon, M. Niedfeldt",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,-91.6574608874541,41.98546850111001
-86,Magnolia,76,,9/30/2022,3961,MAST,Magnolia stellata,Star magnolia,Other,9.5,4.5,Institutional,792.95,367.9,31.37,10.4,0.89,21.6,1.44,9.2,2.62,4.95,-91.6575878713401,41.98544968221696
-87,Red Oak,159,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,19.9,4.5,Institutional,3988.77,1981.7,168.99,38.5,3.28,72.7,4.86,30.9,8.83,16.97,-91.65771902504734,41.98543291871147
-88,Norway Maple,83,,9/30/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,10.4,4.5,Institutional,1097.47,463.6,39.53,20.6,1.76,18.9,1.27,8.1,2.3,5.32,-91.65748009357426,41.98537427456898
-89,Colorado Blue Spruce,87,,9/30/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,10.9,4.5,Institutional,1379.75,385,32.83,7.9,0.68,22.7,1.52,9.7,2.76,4.96,-91.65763609677238,41.98537037023226
-90,Black Maple,187,,9/30/2022,1673,ACNI,Acer nigrum,Black maple,Maple,23.4,4.5,Institutional,4259.06,3094.1,263.85,46.8,3.99,97.6,6.52,41.6,11.87,22.38,-91.65771080386769,41.98527222004381
-91,Swamp White Oak,158,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,19.8,4.5,Institutional,3948.89,2008.9,171.31,41.9,3.57,83.6,5.59,35.6,10.16,19.33,-91.65783660788217,41.985237741122
-92,Green Ash,175,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,21.9,4.5,Institutional,4828.48,1409.8,120.22,25.5,2.18,81.7,5.46,34.8,9.93,17.57,-91.65779735521815,41.98531444321434
-93,Little-Leaf Linden,232,,9/30/2022,5858,TICO,Tilia cordata,Littleleaf linden,Other,29.1,4.5,Institutional,10520.2,3699.5,315.48,47.6,4.06,82.4,5.51,35.1,10.02,19.59,-91.65800060535491,41.98538718259486
-94,White Ash,145,,9/30/2022,3378,FRAM,Fraxinus americana,White ash,Ash,18.2,4.5,Institutional,3338.19,1621,138.23,33.7,2.87,78.8,5.27,33.6,9.58,17.71,-91.65776666537197,41.98601945330486
-95,Sentry Linden,144,,9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,18,4.5,Institutional,2574.91,908,77.43,18.9,1.61,77.6,5.19,33,9.43,16.23,-91.65790813118319,41.98604703494446
-96,White Oak,145,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,18.2,4.5,Institutional,4046.93,1649.9,140.7,25,2.13,87.4,5.84,37.2,10.63,18.6,-91.65808242543791,41.98594733752132
-97,Crabapple,51,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,6.4,4.5,Institutional,235.31,138,11.77,8.5,0.72,5.2,0.35,2.2,0.63,1.7,-91.65817362940153,41.98596340382555
-98,Pin Oak,235,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,29.4,4.5,Institutional,8693.09,3886.3,331.4,54.6,4.66,182.4,12.19,77.7,22.17,39.02,-91.65827811672014,41.98602202386881
-99,Honey Locust,191,,9/30/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,23.9,4.5,Institutional,4437.23,3830.5,326.65,63.5,5.41,59.7,3.99,25.4,7.26,16.67,-91.65830845096795,41.98589748066458
-100,Black Oak,256,,9/30/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.1,4.5,Institutional,10385.36,8238,702.5,95.6,8.16,78.6,5.26,33.5,9.56,22.97,-91.65737982960847,41.98688913321064
-101,Red Oak,252,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,31.6,4.5,Institutional,9837.65,6094.8,519.74,74.4,6.34,85.2,5.7,36.3,10.36,22.39,-91.65726202319136,41.98691822773492
-102,Pin Oak,253,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,31.7,4.5,Institutional,9899.16,4517.3,385.22,58.9,5.02,207.5,13.87,88.4,25.22,44.11,-91.65736205167252,41.98699522891669
-103,Crabapple,72.5,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,9.1,4.5,Institutional,740.7,326.6,27.85,14.1,1.2,9.4,0.63,4,1.14,2.97,-91.65720563412798,41.98697592162836
-104,Unidentified,93.5,,9/30/2022,,,,,Other,11.7,4.5,Institutional,,,,,,,,,,,-91.65712300458851,41.98700003873603
-105,Princeton Elm,22.5,"G. Atkinson, S. Coleman, E. Stitt",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.8,4.5,Institutional,39.15,13.5,1.15,2.5,0.21,2.1,0.14,0.9,0.26,0.62,-91.65716214978103,41.98710895314953
-106,Bur Oak,20,"M. Lietsch, C. Maldonado, K. Yang",9/30/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.5,4.5,Institutional,78.3,10.5,0.9,1.2,0.1,2.1,0.14,0.9,0.25,0.49,-91.65706847795803,41.98716180342434
-107,Green Ash,301,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,37.7,4.5,Institutional,13432.83,4415.9,376.56,44.1,3.76,175.8,11.75,74.9,21.37,36.88,-91.65691575031646,41.98711616627285
-108,Red Oak,197,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,24.7,4.5,Institutional,6139.09,3349.9,285.66,52.3,4.46,79.6,5.32,33.9,9.68,19.47,-91.65679280971119,41.98718248770117
-109,Freeman Maple,44,,9/30/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,5.5,4.5,Institutional,186.4,219.8,18.74,18.2,1.55,12,0.8,5.1,1.46,3.81,-91.65668704578364,41.9872409664797
-110,Crabapple,40,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,5,4.5,Institutional,143.62,75.5,6.44,6,0.51,3.5,0.23,1.5,0.43,1.17,-91.65688782002006,41.98735540738671
-111,Autumn Brillance Serviceberry,7.5,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,-91.65629444627874,41.9867089367708
-112,Green Ash,201,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,25.2,4.5,Institutional,6389.69,1893.6,161.48,30,2.56,99.5,6.65,42.4,12.09,21.31,-91.6561784070351,41.98677194303147
-113,Green Ash,284,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,35.6,4.5,Institutional,12231.14,3914.7,333.82,45,3.84,162,10.83,69,19.69,34.36,-91.65655139094824,41.98699728536548
-114,Swamp White Oak,167,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,20.9,4.5,Institutional,4398.58,2237.6,190.82,44.2,3.77,89.4,5.97,38.1,10.87,20.61,-91.65800899362631,41.98586488432012
-115,Sugar Maple,111,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,13.9,4.5,Institutional,2313.88,976.3,83.25,18.3,1.56,49.2,3.29,21,5.99,10.84,-91.65804203094945,41.98578884521584
-116,Sugar Maple,144,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,18,4.5,Institutional,3956.02,1794.6,153.04,25.9,2.21,66.9,4.47,28.5,8.13,14.82,-91.65815788263046,41.98573284001962
-117,Honey Locust,206,,10/23/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.8,4.5,Institutional,5148.6,4635.7,395.32,61.7,5.27,59.7,3.99,25.4,7.25,16.51,-91.65808319241984,41.98566364906055
-118,Common Hackberry,160,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.1,4.5,Institutional,4069.12,280.3,23.9,4.9,0.42,110.9,7.42,47.3,13.49,21.32,-91.65809841171517,41.98560817631176
-119,Norway Maple,172,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,21.6,4.5,Institutional,4697.4,2446.6,208.64,53,4.52,72.1,4.82,30.7,8.77,18.11,-91.65801458335378,41.98557769281658
-120,Common Hackberry,113,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,14.2,4.5,Institutional,2036.43,154.6,13.18,3.9,0.33,61.4,4.11,26.2,7.47,11.91,-91.6579585768569,41.98554199500949
-121,Hawthorn,62,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.8,4.5,Institutional,586.4,190.9,16.28,9.6,0.82,5,0.34,2.1,0.61,1.76,-91.65786644568075,41.98556673700367
-122,Tulip Tree,8,,10/23/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,1,4.5,Institutional,78.3,1,0.08,0.6,0.05,0.7,0.04,0.3,0.08,0.18,-91.65764489293426,41.98667386543758
-123,Red Oak,16.5,"T. Bossom, B. Brokaw, J. Langerud",10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,-91.657806122747985,41.98663623947633
-124,Bur Oak,18,"H. Hoyhtya, S. Reilly",10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.3,4.5,Institutional,78.3,8.5,0.73,1.1,0.09,1.8,0.12,0.8,0.22,0.44,-91.65794559612065,41.98665895733344
-125,Swamp White Oak,20,"S. Gobeli, Q. Peterson, A. Tomes",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.5,4.5,Institutional,78.3,37.6,3.21,5.5,0.47,1.8,0.12,0.8,0.22,0.81,-91.65805991197799,41.98670003289348
-126,Bur Oak,75,,10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,9.4,4.5,Institutional,898.59,284.8,24.29,8.4,0.72,27.2,1.82,11.6,3.31,5.84,-91.65815900464811,41.98678535920747
-127,Freeman Maple,32,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,4,4.5,Institutional,98.59,106.8,9.11,12.2,1.04,6.6,0.44,2.8,0.8,2.28,-91.65825143101776,41.98687050873172
-128,Red Oak,191,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,23.9,4.5,Institutional,5748.56,3092.3,263.7,49.9,4.26,78.4,5.24,33.4,9.53,19.03,-91.65832698235828,41.98697250465202
-129,Sentry Linden,13,"K. Batey, B. Bodermann, A. Cota",10/23/2022,5857,TIAM,Tilia americana,American basswood,Other,1.6,4.5,Institutional,58.73,3,0.26,0.8,0.06,1.2,0.08,0.5,0.15,0.29,-91.6583800013922,41.98711285211981
-130,Bur Oak,242,,10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,30.3,4.5,Institutional,9030.25,5266.2,449.07,47.9,4.08,126.1,8.43,53.7,15.33,27.84,-91.65831114956616,41.98721527506114
-131,Swamp White Oak,202,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,25.3,4.5,Institutional,6440.42,3276.4,279.39,53.5,4.56,107.1,7.16,45.6,13.02,24.74,-91.65808262576662,41.98731860520671
-132,Valley Forge Elm,23,"H. Nguyen, V. Ortega",10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,-91.65791356221939,41.98730125758571
-133,Sentry Linden,293,,10/23/2022,5857,TIAM,Tilia americana,American basswood,Other,36.7,4.5,Institutional,9774.79,4871.6,415.43,47.9,4.09,114.5,7.66,48.8,13.92,25.67,-91.65783796774328,41.98725789598659
-134,White Oak,76,,10/23/2022,4824,QUAL,Quercus alba,White oak,Oak,9.5,4.5,Institutional,1021.16,330.3,28.17,9.5,0.81,29.5,1.97,12.5,3.58,6.36,-91.65769044933867,41.98717024174073
-135,Swamp White Oak,20,"A. Costantino, B. Jungman, K. Koenen, O. Wagner",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.5,4.5,Institutional,78.3,37.6,3.21,5.5,0.47,1.8,0.12,0.8,0.22,0.81,-91.65765936969132,41.98710282292334
-136,Kentucky Coffee Tree,6,,10/23/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,0.8,4.5,Institutional,54.75,2.5,0.22,0.8,0.07,0.5,0.03,0.2,0.06,0.16,-91.65758793978506,41.98704295400747
-137,Swamp White Oak,210,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,26.3,4.5,Institutional,6958.71,3540,301.88,55.6,4.74,109.5,7.32,46.6,13.31,25.37,-91.65752835888635,41.98693000551766
-138,Cathedral Elm,28,,10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3.5,4.5,Institutional,25.16,27.1,2.31,4,0.34,3,0.2,1.3,0.37,0.91,-91.6575296985056,41.98677924823286
-139,Red Maple,98,,10/23/2022,1678,ACRU,Acer rubrum,Red maple,Maple,12.3,4.5,Institutional,1530.69,666.9,56.87,27.2,2.32,35,2.34,14.9,4.26,8.92,-91.65745998178942,41.98709062042695
-140,Pin Oak,247,,10/23/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,31,4.5,Institutional,9466.8,4320.2,368.41,57.6,4.91,199.7,13.35,85.1,24.28,42.54,-91.65756684505214,41.98719122612732
-141,Cathedral Elm,6,"L. Dufoe, M. Jones, A. Phillips",10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,0.8,4.5,Institutional,19.58,0.8,0.07,0.6,0.05,0.5,0.04,0.2,0.07,0.15,-91.65767839383078,41.98728392005409
-142,White Oak,285,,10/23/2022,4824,QUAL,Quercus alba,White oak,Oak,35.7,4.5,Institutional,15235.71,8848.9,754.6,68.3,5.83,107,7.16,45.6,13.01,25.99,-91.65760334808779,41.98738722381252
-143,Common Hackberry,164,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.6,4.5,Institutional,4273.53,292.4,24.93,5,0.43,116.3,7.77,49.5,14.14,22.34,-91.65752349545255,41.98735243352154
-144,Cathedral Elm,21.5,,10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,2.7,4.5,Institutional,19.58,14.6,1.24,2.8,0.24,2,0.13,0.8,0.24,0.61,-91.65743701473257,41.98720101511597
-145,Black Oak,61,,10/23/2022,5001,QUVE,Quercus velutina,Black oak,Oak,7.6,4.5,Institutional,593.43,271.6,23.16,13.4,1.14,15.6,1.04,6.7,1.9,4.09,-91.65721202836146,41.98720975794299
-146,Princeton Sentry Ginkgo,8,"S. Barnes, A. Nuñez, G. Reighard",10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1,4.5,Institutional,97.88,0.4,0.04,0.1,0.01,0.5,0.04,0.2,0.06,0.11,-91.65712094019204,41.98725222965622
-147,Unidentified,9,,10/23/2022,,,,,Other,1.1,4.5,Institutional,,,,,,,,,,,-91.65725053483233,41.98733806916051
-148,Red Oak,329,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,41.2,4.5,Institutional,15351.69,11610.7,990.11,80.6,6.88,112.6,7.53,48,13.7,28.1,-91.65734108857153,41.98728438266227
-149,Silver Birch,40,,10/23/2022,14714,BEPEP,Betula pendula ssp. pendula,European silver birch,Other,5,4.5,Institutional,179.73,136.1,11.61,10.9,0.93,9.2,0.61,3.9,1.11,2.65,-91.65737088915695,41.98736503929292
-150,Red Oak,283,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,35.5,4.5,Institutional,12172.97,8086.3,689.56,87.8,7.49,84.5,5.65,36,10.27,23.4,-91.65733498648132,41.98747648357082
-151,Green Ash,257,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,32.2,4.5,Institutional,10205.41,3170,270.32,40,3.41,140.5,9.39,59.8,17.08,29.87,-91.65833059511074,41.98682781107961
-152,Princeton Elm,204,,10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,25.6,4.5,Institutional,3548.52,2734.7,233.21,53.1,4.53,79.8,5.34,34,9.7,19.57,-91.6584332019969,41.98690382834284
-153,Swamp White Oak,17,"E. La Rosa, B. Runyon, C. Wihlm",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.1,4.5,Institutional,78.3,28.2,2.4,4.6,0.4,1.4,0.1,0.6,0.18,0.67,-91.65862922239454,41.9867913565611
-154,Autumn Fest Maple,17,"C. Howell, R. McMahen, P. Waskow",10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.1,4.5,Institutional,97.88,11.2,0.95,1.5,0.13,1.8,0.12,0.7,0.21,0.46,-91.65864500883117,41.98668819364583
-155,Princeton Elm,20.5,"M. Meiers, L. Sweezer",10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.6,4.5,Institutional,39.15,11.3,0.97,2.3,0.19,1.9,0.13,0.8,0.23,0.56,-91.65841056624728,41.98665703630507
-156,Black Maple,217,,10/23/2022,1673,ACNI,Acer nigrum,Black maple,Maple,27.2,4.5,Institutional,5707.58,4363.3,372.08,56.8,4.84,121,8.09,51.5,14.71,27.64,-91.65851494975715,41.98655428935026
-157,Ginkgo,248,,10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,31.1,4.5,Institutional,11785.22,2491.9,212.5,22.4,1.91,88.8,5.94,37.8,10.8,18.65,-91.65856965987366,41.98647694649181
-158,Freeman Maple,61,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.6,4.5,Institutional,569.23,457.5,39.01,27.4,2.34,22.2,1.49,9.5,2.7,6.52,-91.65911687492923,41.9867651219989
-159,Freeman Maple,53,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,6.6,4.5,Institutional,268.42,332.2,28.33,22.9,1.95,17,1.14,7.2,2.07,5.15,-91.65910997092392,41.98681457890521
-160,Honey Locust,212,,10/23/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,26.6,4.5,Institutional,5464.4,5003.3,426.66,60.2,5.14,59.2,3.96,25.2,7.2,16.3,-91.65804285943324,41.98745269787279
-161,Autumn Fest Maple,19.5,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.4,4.5,Institutional,97.88,15.5,1.32,1.8,0.15,2.3,0.16,1,0.28,0.59,-91.65792229435297,41.98759366101719
-162,Norway Maple,155,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,19.4,4.5,Institutional,3791.39,1915.1,163.31,46.1,3.93,60.6,4.05,25.8,7.36,15.35,-91.65776716784967,41.98767526935033
-163,Green Ash,186,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,23.3,4.5,Institutional,5464.1,1605.9,136.95,27.4,2.34,89.1,5.96,38,10.84,19.13,-91.65755341677315,41.9877710354764
-164,Princeton Sentry Ginkgo,11,"D. Robertson, H. Schipper, A. Ward",10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1.4,4.5,Institutional,97.88,1,0.08,0.2,0.02,0.7,0.05,0.3,0.09,0.16,-91.65755823019096,41.98788256918591
-165,Red Oak,16.5,"M. Macon, J. Meehan, B. Young",10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,-91.65784534406102,41.98777518198354
-166,Norway Maple,142,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,17.8,4.5,Institutional,3193.55,1573.8,134.21,41.3,3.52,52.2,3.49,22.2,6.35,13.36,-91.65794301780856,41.98773522033401
-167,Norway Maple,132,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,16.5,4.5,Institutional,2745.67,1324,112.9,37.4,3.19,45.6,3.05,19.4,5.54,11.78,-91.65803796317616,41.98768753385873
-168,Hawthorn,95,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,11.9,4.5,Institutional,1153.67,536.9,45.79,17.6,1.5,10.9,0.73,4.6,1.32,3.55,-91.65829077522983,41.98751973525356
-169,Hawthorn,62,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.8,4.5,Institutional,586.4,190.9,16.28,9.6,0.82,5,0.34,2.1,0.61,1.76,-91.65850083718723,41.98740179702058
-170,Hawthorn,59,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.4,4.5,Institutional,543.69,167.9,14.31,8.9,0.76,4.6,0.31,1.9,0.56,1.62,-91.65849818784154,41.98733071612258
-171,Black Oak,260,,10/23/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.6,4.5,Institutional,10697.51,8542.4,728.46,97.5,8.32,77,5.15,32.8,9.36,22.82,-91.65855939247082,41.9873449029152
-172,Dogwood,98,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,12.3,4.5,Institutional,1221.65,989.2,84.36,28.4,2.42,17.2,1.15,7.3,2.09,5.65,-91.65867288250584,41.98740026631905
-173,Kentucky Coffee Tree,9,,10/23/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,1.1,4.5,Institutional,54.75,4.3,0.36,1.1,0.1,0.6,0.04,0.3,0.07,0.21,-91.65887237024899,41.9874496207186
-174,Green Ash,186,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,23.3,4.5,Institutional,5464.1,1605.9,136.95,27.4,2.34,89.1,5.96,38,10.84,19.13,-91.65895891810041,41.98765414564393
-175,Freeman Maple,61,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.6,4.5,Institutional,569.23,457.5,39.01,27.4,2.34,22.2,1.49,9.5,2.7,6.52,-91.65877074798343,41.98792271266116
-176,Cottonwood,143,,10/23/2022,1028,PO,Populus,cottonwood spp,Other,17.9,4.5,Institutional,1184.78,3281.1,279.8,72.4,6.18,67.1,4.49,28.6,8.16,18.82,-91.65863400707298,41.98794894392129
-177,Hawthorn,54,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,6.8,4.5,Institutional,265.64,136.5,11.64,7.9,0.67,3.9,0.26,1.7,0.48,1.42,-91.65848936152089,41.98789338357906
-178,Unidentified,34,,10/23/2022,,,,,Other,4.3,4.5,Institutional,,,,,,,,,,,-91.65846201643267,41.98781986955996
-179,Green Ash,320,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,40.1,4.5,Institutional,14759.93,5027.6,428.73,41.2,3.52,191.3,12.79,81.5,23.26,39.57,-91.65839608262027,41.9878717120004
-180,Scotch Pine,125,,10/23/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,15.7,4.5,Institutional,2486.92,687.2,58.6,18.4,1.57,56,3.74,23.8,6.81,12.12,-91.6583427146697,41.98784066623902
-181,Red Sunset Maple,20,"M. Macon, J. Meehan, B. Young",10/23/2022,1678,ACRU,Acer rubrum,Red maple,Maple,2.5,4.5,Institutional,78.3,14.6,1.24,3.1,0.27,1.5,0.1,0.6,0.18,0.55,-91.65827227455725,41.98777329504187
-182,Dogwood,63,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,7.9,4.5,Institutional,597.42,355.9,30.35,16.6,1.42,7.7,0.51,3.3,0.93,2.86,-91.65821724124444,41.98772089068215
-183,Dogwood,147,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,18.4,4.5,Institutional,2536.9,2518.2,214.74,2.6,0.22,33.9,2.27,14.4,4.12,6.61,-91.6582416955494,41.98763867027388
-184,Hawthorn,25,,10/25/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,3.1,4.5,Institutional,55.21,20,1.7,2.6,0.22,1.2,0.08,0.5,0.14,0.44,-91.65796510912988,41.98586351940517
-185,Princeton Elm,23.5,,10/25/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,-91.65883426861433,41.98805532984429
-186,White Ash,149,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,18.7,4.5,Institutional,3523.51,1728.9,147.43,34.9,2.98,80.1,5.36,34.1,9.74,18.08,-91.65891427341153,41.98793567024637
-187,Common Hackberry,161,,10/25/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.2,4.5,Institutional,4109.6,282.7,24.11,5,0.42,112,7.49,47.7,13.62,21.53,-91.65909095977942,41.98789068362466
-188,Freeman Maple,60,,10/25/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.5,4.5,Institutional,557.86,443.9,37.86,27,2.3,21.7,1.45,9.2,2.63,6.38,-91.65921022307444,41.98791661847356
-189,Dogwood,4.5,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,-91.65911010106224,41.98779944907739
-190,Dogwood,4.5,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,-91.65907983947191,41.98779813873465
-191,Dogwood,4,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.5,4.5,Institutional,54.75,0.5,0.04,0.4,0.04,0.4,0.02,0.2,0.04,0.1,-91.65909480479222,41.98777643838713
-192,Swamp White Oak,23,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.9,4.5,Institutional,78.3,48.6,4.15,6.3,0.54,2.3,0.15,1,0.27,0.96,-91.65892238688572,41.98812241318832
-193,Maple Northern Flare,17.5,"H. Blegger, S. Huggins, L. Tierney",10/25/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.2,4.5,Institutional,97.88,12.5,1.07,1.6,0.13,1.9,0.13,0.8,0.24,0.5,-91.65907140109759,41.98822094144253
-194,Unidentified,95,,10/25/2022,,,,,Other,11.9,4.5,Institutional,,,,,,,,,,,-91.65919130674907,41.9881906284495
-195,Ohio Buckeye,73,,10/25/2022,1709,AEGL,Aesculus glabra,Ohio buckeye,Other,9.1,4.5,Institutional,757.94,627.8,53.54,34.1,2.91,33.2,2.22,14.1,4.04,9.16,-91.65929243897797,41.98812613047898
-196,Swamp White Oak,173,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,21.7,4.5,Institutional,4740.9,2411.8,205.67,45.9,3.92,93.3,6.24,39.7,11.34,21.5,-91.65942272724476,41.98812717997639
-197,Honey Locust,154,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,19.3,4.5,Institutional,2940.2,2253.4,192.16,45.9,3.92,53.7,3.59,22.9,6.53,14.03,-91.65961456111252,41.98804792770766
-198,Swamp White Oak,44.5,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,5.6,4.5,Institutional,257.66,165.9,14.15,12,1.02,7.4,0.5,3.2,0.9,2.42,-91.65927358886739,41.98826488910403
-199,Swamp White Oak,209,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,26.2,4.5,Institutional,6905.98,3513.2,299.59,55.4,4.72,109.3,7.3,46.5,13.28,25.31,-91.65944374111517,41.98822673107706
-200,White Ash,293,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,36.7,4.5,Institutional,12865.31,8581.6,731.8,85.1,7.25,96.9,6.48,41.3,11.78,25.51,-91.65963448139458,41.98830916755451
-201,Freeman Maple,57,,10/25/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.1,4.5,Institutional,513.86,392,33.43,25.1,2.14,19.5,1.31,8.3,2.37,5.82,-91.65970065214395,41.98844492760823
-202,Common Hackberry,166,,10/25/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.8,4.5,Institutional,4356.7,297.3,25.35,5.1,0.43,118.4,7.92,50.5,14.4,22.75,-91.65971078780245,41.98862742265734
-203,Swamp White Oak,220,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,27.6,4.5,Institutional,7662.53,3898.1,332.41,58.3,4.97,111.4,7.45,47.5,13.54,25.97,-91.65960071604023,41.98870058096557
-204,Honey Locust,192,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,24.1,4.5,Institutional,4509.55,3910.9,333.5,63.8,5.44,59.8,4,25.5,7.27,16.71,-91.65947431891519,41.98876758104719
-205,Black Oak,22,,10/25/2022,5001,QUVE,Quercus velutina,Black oak,Oak,2.8,4.5,Institutional,80.26,26.7,2.27,3.6,0.31,1.7,0.12,0.7,0.21,0.64,-91.65931603999505,41.98870541355677
-206,Swamp White Oak,43,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,5.4,4.5,Institutional,239.58,154.7,13.19,11.6,0.99,6.9,0.46,2.9,0.84,2.28,-91.65920398138887,41.98859223155522
-207,White Ash,172.5,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,21.6,4.5,Institutional,4697.4,2435.2,207.66,42.6,3.63,83.8,5.6,35.7,10.19,19.42,-91.65918600573565,41.9884463763262
-208,Kentucky Coffee Tree,57,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,7.1,4.5,Institutional,513.14,201.6,17.19,10.7,0.91,10.2,0.68,4.4,1.24,2.84,-91.65920186740247,41.98833894939465
-209,Sentry Linden,21,,10/25/2022,5857,TIAM,Tilia americana,American basswood,Other,2.6,4.5,Institutional,58.73,9.5,0.81,1.4,0.12,2.1,0.14,0.9,0.26,0.52,-91.65940391603284,41.98889954794443
-210,Kentucky Coffee Tree,4.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,0.6,4.5,Institutional,54.75,1.7,0.14,0.7,0.06,0.4,0.03,0.2,0.05,0.14,-91.65926755305932,41.98878603173102
-211,White Oak,26,,10/25/2022,4824,QUAL,Quercus alba,White oak,Oak,3.3,4.5,Institutional,111.84,24,2.05,2.1,0.18,3.2,0.22,1.4,0.39,0.79,-91.65917037020898,41.98868627383462
-212,Kentucky Coffee Tree,27.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,3.4,4.5,Institutional,66.41,38.3,3.26,4,0.34,2.6,0.18,1.1,0.32,0.83,-91.65908057519164,41.98864500263998
-213,Honey Locust,181,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,22.7,4.5,Institutional,4015.96,3369.6,287.34,58.7,5,59.1,3.95,25.2,7.18,16.13,-91.65894238099503,41.98862795927506
-214,Honey Locust,155,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,19.4,4.5,Institutional,2969.36,2282.4,194.63,46.3,3.95,53.9,3.6,23,6.55,14.11,-91.65881143230003,41.98866703747262
-215,Kentucky Coffee Tree,23,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,2.9,4.5,Institutional,54.75,27.3,2.32,3.2,0.28,2,0.14,0.9,0.25,0.66,-91.65880583317406,41.98877779164825
-216,Black Oak,24.5,,10/25/2022,5001,QUVE,Quercus velutina,Black oak,Oak,3.1,4.5,Institutional,80.93,33.8,2.88,4.1,0.35,2.2,0.14,0.9,0.26,0.76,-91.65865618553188,41.98886755813029
-217,Swamp White Oak,24,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3,4.5,Institutional,78.3,51.6,4.4,6.5,0.56,2.4,0.16,1,0.29,1,-91.65854671638606,41.98892596892566
-218,Swamp White Oak,27,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.4,4.5,Institutional,94.98,64.7,5.52,7.4,0.63,2.9,0.19,1.2,0.35,1.17,-91.65849821170532,41.98905743657141
-219,Swamp White Oak,23,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.9,4.5,Institutional,78.3,48.6,4.15,6.3,0.54,2.3,0.15,1,0.27,0.96,-91.65859427316819,41.98915843990142
-220,Red Oak,23,,10/25/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.9,4.5,Institutional,78.3,18.4,1.57,2.5,0.22,3.1,0.21,1.3,0.38,0.8,-91.65907459311806,41.98964467852815
-221,Red Oak,28,,10/25/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,3.5,4.5,Institutional,100.65,29.1,2.48,3.3,0.28,4.5,0.3,1.9,0.54,1.13,-91.65923595797271,41.98980180126896
-222,Sugar Maple,85,,10/25/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,10.7,4.5,Institutional,1325.5,526.9,44.93,12.9,1.1,34.4,2.3,14.7,4.19,7.58,-91.65930000115169,41.98985687173241
-223,Kentucky Coffee Tree,26,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,3.3,4.5,Institutional,62.56,35.9,3.06,3.8,0.32,2.5,0.17,1.1,0.3,0.79,-91.65944348363314,41.98985295866621
-224,Tulip Tree,4,,10/25/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,0.5,4.5,Institutional,78.3,0.2,0.02,0.2,0.02,0.5,0.03,0.2,0.06,0.1,-91.65955683926873,41.98996800455406
-225,Swamp White Oak,16,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2,4.5,Institutional,78.3,26.1,2.23,4.4,0.38,1.4,0.09,0.6,0.17,0.63,-91.65963272481136,41.98993737378748
-226,Kentucky Coffee Tree,20.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,2.6,4.5,Institutional,54.75,21.7,1.85,2.8,0.24,1.7,0.11,0.7,0.21,0.57,-91.65972173841926,41.98988771237492
-227,Swamp White Oak,31.5,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.9,4.5,Institutional,124.97,83.4,7.11,8.4,0.72,3.7,0.24,1.6,0.45,1.41,-91.65982092482682,41.98982652356759
-228,Unidentified,16,,10/25/2022,,,,,Other,2,4.5,Institutional,,,,,,,,,,,-91.6600016057427,41.98972208800074
-229,Scotch Pine,190,,10/25/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,23.8,4.5,Institutional,5700.64,1612.8,137.53,28.6,2.44,61.8,4.13,26.3,7.51,14.08,-91.65985935891952,41.99013704744329
-230,White Ash,171,,11/9/2022,3378,FRAM,Fraxinus americana,White ash,Ash,21.4,4.5,Institutional,4611.02,2382,203.12,42,3.58,83.7,5.6,35.7,10.18,19.36,-91.657646279430793,41.98809662002753
-231,Green Ash,159,,11/9/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,19.9,4.5,Institutional,3988.77,1152.7,98.3,22.8,1.95,77.3,5.17,32.9,9.4,16.51,-91.6577647243877,41.98808846339775
-232,Honey Locust,218,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,27.3,4.5,Institutional,5748.63,5339,455.29,58.6,5,58.7,3.93,25,7.14,16.07,-91.65763816233299,41.98818830198365
-233,Scotch Pine,176,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,22.1,4.5,Institutional,4916.88,1387.9,118.35,26.5,2.26,63.6,4.25,27.1,7.73,14.24,-91.6577890707555,41.98816295477096
-234,Honey Locust,204,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.6,4.5,Institutional,5071.16,4546.5,387.71,62.1,5.29,59.7,3.99,25.4,7.26,16.55,-91.65788824255212,41.98843489793836
-235,Hawthorn,8,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1,4.5,Institutional,54.75,1.3,0.11,0.5,0.05,0.3,0.02,0.1,0.04,0.1,-91.65808236955569,41.98855190517828
-236,Hawthorn,9,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1.1,4.5,Institutional,54.75,1.6,0.14,0.6,0.05,0.3,0.02,0.1,0.04,0.12,-91.65811597532827,41.98858613000795
-237,Hawthorn,9,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1.1,4.5,Institutional,54.75,1.6,0.14,0.6,0.05,0.3,0.02,0.1,0.04,0.12,-91.65814480206778,41.98862134073958
-238,Honey Locust,192,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,24.1,4.5,Institutional,4509.55,3910.9,333.5,63.8,5.44,59.8,4,25.5,7.27,16.71,-91.65822421680251,41.98877314310845
-239,Unidentified,190,,11/9/2022,,,,,Other,23.8,4.5,Institutional,,,,,,,,,,,-91.65847711728291,41.98885377949085
-240,Pin Oak,177,,11/9/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,22.2,4.5,Institutional,4961.37,2218,189.14,41.3,3.52,112.4,7.52,47.9,13.67,24.71,-91.65861622847548,41.98859692468287
-241,Honey Locust,181,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,22.7,4.5,Institutional,4015.96,3369.6,287.34,58.7,5,59.1,3.95,25.2,7.18,16.13,-91.6588932931043,41.98851661360267
-242,Honey Locust,186,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,23.3,4.5,Institutional,4223.88,3595.5,306.61,61,5.21,59.5,3.98,25.3,7.23,16.41,-91.65865908771538,41.9883187009687
-243,Unidentified,52,,11/9/2022,,,,,Other,6.5,4.5,Institutional,,,,,,,,,,,-91.6584869743022,41.98826307195468
-244,Unidentified,99,,11/9/2022,,,,,Other,12.4,4.5,Institutional,,,,,,,,,,,-91.65857325693132,41.9882197406207
-245,Unidentified,58,,11/9/2022,,,,,Other,7.3,4.5,Institutional,,,,,,,,,,,-91.65873921629318,41.98819289489438
-246,Unidentified,52,,11/9/2022,,,,,Other,6.5,4.5,Institutional,,,,,,,,,,,-91.65871625219782,41.98822981380314
-247,Honey Locust,206,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.8,4.5,Institutional,5148.6,4635.7,395.32,61.7,5.27,59.7,3.99,25.4,7.25,16.51,-91.65852759333801,41.98813048084901
-248,Unidentified,97,,11/9/2022,,,,,Other,12.2,4.5,Institutional,,,,,,,,,,,-91.65846440425155,41.98805345915058
-249,Eastern Red Cedar,21,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,2.6,4.5,Institutional,70.77,19.2,1.64,1.5,0.13,1.4,0.1,0.6,0.17,0.4,-91.65842302304372,41.98799915678287
-250,Eastern Red Cedar,22,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,2.8,4.5,Institutional,70.77,22.5,1.92,1.7,0.14,1.6,0.11,0.7,0.2,0.45,-91.65839292557622,41.98801354532915
-251,Unidentified,228,,11/9/2022,,,,,Other,28.6,4.5,Institutional,,,,,,,,,,,-91.65828615572433,41.98795027716288
-252,Scotch Pine,143,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.9,4.5,Institutional,3229.41,902.3,76.94,21.2,1.81,62,4.15,26.4,7.54,13.5,-91.65826660136767,41.98790520988224
-253,Scotch Pine,130,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.3,4.5,Institutional,2679.77,743.1,63.37,19.2,1.63,58,3.88,24.7,7.06,12.57,-91.65821816686632,41.9878916874212
-254,Scotch Pine,153,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,19.2,4.5,Institutional,3713.85,1042,88.86,22.9,1.95,63.7,4.26,27.1,7.75,13.96,-91.6581601258983,41.9878977902261
-255,Magnolia,43,,11/9/2022,3961,MAST,Magnolia stellata,Star magnolia,Other,5.4,4.5,Institutional,167.52,94.3,8.04,4.7,0.4,8,0.54,3.4,0.97,1.91,-91.65809824181873,41.98793434404654
-256,Honey Locust,215,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,26.9,4.5,Institutional,5585.31,5145.5,438.79,59.6,5.08,59.1,3.95,25.2,7.18,16.21,-91.65806053328785,41.98798714747969
-257,Red Oak,10,,11/9/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,1.3,4.5,Institutional,78.3,2.6,0.22,0.8,0.07,0.9,0.06,0.4,0.1,0.23,-91.65817512323332,41.98751659297817
-258,Black Oak,257,,11/9/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.2,4.5,Institutional,10447.97,8298.4,707.65,96,8.19,78.3,5.23,33.3,9.52,22.94,-91.65879559200876,41.98718376987634
-259,Scotch Pine,121,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,15.2,4.5,Institutional,2331.73,642,54.75,17.7,1.51,54,3.61,23,6.57,11.7,-91.65896273155668,41.98724726237807
-260,Scotch Pine,132,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.5,4.5,Institutional,2745.67,762.3,65,19.4,1.66,58.7,3.92,25,7.13,12.71,-91.65891687292405,41.98721587883732
-261,Scotch Pine,106,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.3,4.5,Institutional,1787.83,483.6,41.24,15.3,1.3,45,3.01,19.2,5.47,9.78,-91.65891690678679,41.98718614711836
-262,Scotch Pine,66,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,8.3,4.5,Institutional,703.02,171.5,14.63,8.8,0.75,17,1.13,7.2,2.06,3.95,-91.65889330480049,41.98715372808987
-263,Scotch Pine,110,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.8,4.5,Institutional,1923.93,523.3,44.62,15.9,1.36,47.6,3.18,20.3,5.79,10.33,-91.65886507482725,41.98712300228645
-264,Swamp White Oak,21,"A. Eastburg, C. Robledo",11/9/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,-91.65883082991911,41.98709248008018
-265,White Pine,212,,11/9/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,26.6,4.5,Institutional,7118.12,1866.6,159.17,34.1,2.91,104.6,6.99,44.5,12.71,22.62,-91.65913341847306,41.9870224724454
-266,White Pine,158,,11/9/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,19.8,4.5,Institutional,3948.89,925.7,78.94,22.5,1.92,74.4,4.98,31.7,9.05,15.94,-91.65920353258622,41.98707213034755
-267,Scotch Pine,141,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.7,4.5,Institutional,3157.89,881.6,75.18,21,1.79,61.6,4.12,26.3,7.5,13.4,-91.65921001829628,41.98711728917587
-268,Scotch Pine,62,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,7.8,4.5,Institutional,622.17,149.2,12.72,8.2,0.7,14.6,0.98,6.2,1.78,3.46,-91.65931830613268,41.98718400054225
-269,Scotch Pine,101,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,12.7,4.5,Institutional,1631.13,437.9,37.34,14.5,1.23,41.7,2.79,17.8,5.07,9.09,-91.65936095957841,41.98721385163915
-270,Hawthorn,57,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.1,4.5,Institutional,513.14,151.7,12.94,8.4,0.72,4.3,0.28,1.8,0.52,1.52,-91.65922626411886,41.98727398907771
-271,Sentry Linden,13,"E. Brinkman, M. Huse, R. Staples",11/9/2022,5857,TIAM,Tilia americana,American basswood,Other,1.6,4.5,Institutional,58.73,3,0.26,0.8,0.06,1.2,0.08,0.5,0.15,0.29,-91.65915233177299,41.98726657029014
-272,Green Ash,178,,11/9/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,22.3,4.5,Institutional,5006.07,1464.5,124.88,26.1,2.22,83.8,5.6,35.7,10.19,18.01,-91.65884888401528,41.98726889790717
-273,Unidentified,63,,11/9/2022,,,,,Other,7.9,4.5,Institutional,,,,,,,,,,,-91.65887591885968,41.98731580740549
-274,Unidentified,82,,11/9/2022,,,,,Other,10.3,4.5,Institutional,,,,,,,,,,,-91.65892478173897,41.98733350544176
-275,Scotch Pine,134,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.8,4.5,Institutional,2846.01,791.3,67.48,19.8,1.69,59.5,3.98,25.4,7.24,12.9,-91.65897741152975,41.9873113242648
-276,Red Oak,144,,11/9/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,18,4.5,Institutional,3265.47,1552.9,132.43,33.4,2.84,70.8,4.74,30.2,8.61,16.19,-91.6589651917509,41.98736586744662
-277,Scotch Pine,77,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,9.6,4.5,Institutional,936.76,237.3,20.23,10.5,0.89,23.8,1.59,10.1,2.89,5.37,-91.65903254234483,41.98734043050538
-278,Scotch Pine,92,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,11.5,4.5,Institutional,1339.44,353.1,30.11,12.9,1.1,34.8,2.32,14.8,4.23,7.65,-91.65905646189528,41.98737535287329
-279,Scotch Pine,111,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.9,4.5,Institutional,1951.75,531.4,45.31,16,1.37,48.1,3.22,20.5,5.85,10.43,-91.65904575927391,41.98740717276392
-280,Princeton Sentry Ginkgo,8,"M. Cavanagh, K. Mahlberg, L. Steege",11/9/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1,4.5,Institutional,97.88,0.4,0.04,0.1,0.01,0.5,0.04,0.2,0.06,0.11,-91.65917775331916,41.9874202567232
-281,Common Hackberry,136,,11/9/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,17,4.5,Institutional,2913.91,210.4,17.94,4.4,0.37,80.5,5.38,34.3,9.79,15.54,-91.65928462189565,41.98754168086376
-282,Unidentified,10.5,,11/9/2022,,,,,Other,1.3,4.5,Institutional,,,,,,,,,,,-91.65914378511356,41.9876214925177
-283,Tulip Tree,10.5,,11/9/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,1.3,4.5,Institutional,78.3,2,0.17,0.9,0.08,0.8,0.05,0.3,0.1,0.23,-91.6592117556533,41.98769560117362
-284,Black Oak,30,,11/9/2022,5001,QUVE,Quercus velutina,Black oak,Oak,3.8,4.5,Institutional,121.61,54.2,4.62,5.4,0.46,3.3,0.22,1.4,0.41,1.09,-91.65929216328333,41.9877758379245
-285,Sugar Maple,29,,11/9/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,3.6,4.5,Institutional,133.1,40.7,3.47,3,0.26,5.3,0.35,2.3,0.64,1.26,-91.65951255449924,41.98760927507082
-286,Scotch Pine,138,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.3,4.5,Institutional,3017.27,840.9,71.71,20.5,1.74,60.8,4.06,25.9,7.39,13.2,-91.65961485355729,41.987453378017364
-287,Crabapple,95,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,11.9,4.5,Institutional,1153.67,629.9,53.71,20.7,1.76,15.3,1.02,6.5,1.86,4.65,-91.659714096961,41.9873566633202
-288,Crabapple,93,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,11.7,4.5,Institutional,1120.52,604.3,51.53,20.2,1.72,14.8,0.99,6.3,1.8,4.52,-91.65957090121792,41.98716454903158
-289,Scotch Pine,135,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.9,4.5,Institutional,2879.86,801.1,68.32,19.9,1.7,59.8,4,25.5,7.27,12.97,-91.65949633891509,41.98714404578647
-290,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,-91.66015459602643,41.98817163048724
-291,Colorado Blue Spruce,20,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.5,4.5,Institutional,97.88,16.9,1.44,1.3,0.11,1.1,0.08,0.5,0.14,0.32,-91.66014111771922,41.98823215624937
-292,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,-91.66013213425005,41.98828579397318
-293,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,-91.66012365191848,41.98834147227019
-294,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,-91.66011053425827,41.98839814694699
-295,Honey Locust,130,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,16.3,4.5,Institutional,2135.64,1486.1,126.73,35.7,3.04,44.7,2.99,19,5.43,11.46,-91.66045217782593,41.98843228391025
-296,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,-91.66001361513186,41.98838904020536
-297,Colorado Blue Spruce,24,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,3,4.5,Institutional,97.88,24,2.04,1.6,0.14,1.5,0.1,0.6,0.18,0.42,-91.65997095508789,41.98835066677707
-298,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,-91.65992899463932,41.98831334126052
-299,Crabapple,38,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,4.8,4.5,Institutional,132.36,68.3,5.82,5.6,0.48,3.3,0.22,1.4,0.4,1.1,-91.6599064632618,41.98825572263144
-300,Honey Locust,130,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,16.3,4.5,Institutional,2135.64,1486.1,126.73,35.7,3.04,44.7,2.99,19,5.43,11.46,-91.65999148225629,41.9882310491564
-301,Dogwood,43,,11/9/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,5.4,4.5,Institutional,167.52,148.3,12.65,10.2,0.87,4,0.27,1.7,0.49,1.62,-91.65969451286072,41.98822244745414
-302,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.66002170667412,41.98851052555742
-303,Colorado Blue Spruce,23,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.9,4.5,Institutional,97.88,22.4,1.91,1.6,0.13,1.4,0.09,0.6,0.17,0.4,-91.66002364586004,41.98848772306187
-304,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,-91.66002667881531,41.9884661687356
-305,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.6600107120392,41.98844515841565
-306,Eastern Red Cedar,10,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.3,4.5,Institutional,70.77,4.7,0.4,0.7,0.06,0.6,0.04,0.2,0.07,0.16,-91.65999400722875,41.98843022563271
-307,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.65997773234355,41.98841651390874
-308,Swamp White Oak,21,,11/9/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,-91.65996218121128,41.98840452218703
-309,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.65994287940855,41.98838930547345
-310,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,-91.65991975244938,41.98837478337508
-311,Colorado Blue Spruce,23,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.9,4.5,Institutional,97.88,22.4,1.91,1.6,0.13,1.4,0.09,0.6,0.17,0.4,-91.6598948827431,41.98838026894472
-312,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,-91.65989540553447,41.98835712645737
-313,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.6598812548739,41.98833958011858
-314,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.65986077638524,41.98832735565249
-315,Eastern Red Cedar,10,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.3,4.5,Institutional,70.77,4.7,0.4,0.7,0.06,0.6,0.04,0.2,0.07,0.16,-91.6598452584902,41.98830533136001
-316,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,-91.65982047070364,41.98828169393689
-317,Honey Locust,120,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,15,4.5,Institutional,1829.11,1212.2,103.37,31.5,2.69,39.8,2.66,17,4.84,10.19,-91.65763977328045,41.98801569082287
-318,Norway Maple,60,,11/9/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,7.5,4.5,Institutional,576.06,221.2,18.87,13.6,1.16,10.1,0.67,4.3,1.23,3.06,-91.65774221270112,41.98799237302124
-319,Autumn Brillance Serviceberry,7,,11/9/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,-91.65632543176442,41.98662074252637
+1,Autumn Brillance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658200719589,-91.6562834179619
+2,Autumn Brillance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658723637167,-91.65618814356377
+3,Autumn Brillance Serviceberry,6.5,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.8,4.5,Institutional,54.75,1.4,0.12,0.8,0.07,0.3,0.02,0.1,0.04,0.12,41.98661128082747,-91.65623513154664
+4,Autumn Brillance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.98666613936655,-91.65629041325059
+5,Ginkgo,25,,9/14/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,3.1,4.5,Institutional,98.7,7.4,0.63,0.7,0.06,2.2,0.15,1,0.27,0.48,41.98650858018138,-91.65656020517862
+6,European Beech,76,,9/14/2022,3313,FASY,Fagus sylvatica,European beech,Other,9.5,4.5,Institutional,1021.16,424.2,36.17,11.5,0.98,51.3,3.43,21.8,6.23,10.65,41.98643617320311,-91.65665073447013
+7,Bur Oak,19,,9/14/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.4,4.5,Institutional,78.3,9.5,0.81,1.1,0.1,2,0.13,0.8,0.24,0.46,41.98636096061271,-91.65676997952771
+8,Princeton Elm,20.5,"A. Ahern, C. Karwowski, A. Welna",9/14/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.6,4.5,Institutional,39.15,11.3,0.97,2.3,0.19,1.9,0.13,0.8,0.23,0.56,41.98654473479197,-91.65695992490588
+9,Norway Maple,22,,9/14/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,2.8,4.5,Institutional,78.3,24,2.05,4,0.34,1.9,0.13,0.8,0.23,0.7,41.98657786881581,-91.656952084906
+10,Ginkgo,190,,9/14/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,23.8,4.5,Institutional,7000,1267.9,108.12,14.9,1.27,76.1,5.08,32.4,9.25,15.6,41.98627056276531,-91.65684930003518
+11,Cathedral Elm,23.5,"N. Gehling, Z. Nowobilski",9/14/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,2.9,4.5,Institutional,19.58,17.3,1.47,3.1,0.26,2.2,0.15,0.9,0.27,0.68,41.98638610405104,-91.65696603705479
+12,Sentry Linden,81.5,,9/14/2022,5857,TIAM,Tilia americana,American basswood,Other,10.2,4.5,Institutional,917.88,237.9,20.29,8.8,0.75,27.9,1.87,11.9,3.4,6.01,41.98646649907076,-91.65698655269594
+13,Pin Oak,268,,9/14/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,33.6,4.5,Institutional,11051.53,5074.4,432.72,62.4,5.32,229.1,15.31,97.6,27.85,48.49,41.98664458949511,-91.65701825730078
+14,Green Ash,199,,9/14/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,24.9,4.5,Institutional,6238.73,1846.5,157.46,29.6,2.53,97.8,6.54,41.7,11.89,20.96,41.98667698339622,-91.6569293595069
+15,Unidentified,24,,9/14/2022,,,,,Other,3,4.5,Institutional,,,,,,,,,,,41.98672193519847,-91.65679363018555
+16,Red Oak,246,,9/14/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,30.8,4.5,Institutional,9342.5,5726.7,488.35,71.7,6.11,85,5.68,36.2,10.34,22.14,41.98658311987565,-91.65665224830235
+17,Autumn Brillance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.9865917858038,-91.6563974824066
+18,Japanese Maple,59,,9/21/2022,1674,ACPA,Acer palmatum,Japanese maple,Maple,7.4,4.5,Institutional,546.63,166.3,14.18,5.6,0.48,7.7,0.52,3.3,0.94,1.94,41.98667681090217,-91.65715636105021
+19,Bur Oak,21.5,"R. Dufoe, A. Montalbano, B. Sanfort",9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.7,4.5,Institutional,78.3,12.7,1.08,1.3,0.11,2.3,0.15,1,0.28,0.55,41.98658199563413,-91.65720079428878
+20,Dogwood,5,,9/21/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,41.98663000394573,-91.65741561936792
+21,Swamp White Oak,29,,9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.6,4.5,Institutional,106.48,71.9,6.13,7.8,0.66,3.2,0.21,1.4,0.39,1.27,41.98664147421036,-91.65749938204151
+22,Bur Oak,18,,9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.3,4.5,Institutional,78.3,8.5,0.73,1.1,0.09,1.8,0.12,0.8,0.22,0.44,41.98658557415834,-91.6575228869998
+23,Swamp White Oak,27,,9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.4,4.5,Institutional,94.98,64.7,5.52,7.4,0.63,2.9,0.19,1.2,0.35,1.17,41.98657798243858,-91.65764460981163
+24,Tulip Tree,22,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,2.8,4.5,Institutional,78.3,13.9,1.18,2.6,0.22,2.8,0.19,1.2,0.34,0.75,41.98650195123355,-91.65767732822873
+25,Black Maple,171,,9/21/2022,1673,ACNI,Acer nigrum,Black maple,Maple,21.4,4.5,Institutional,3584.08,2522.5,215.11,41.7,3.56,85.7,5.73,36.5,10.42,19.71,41.98637449421486,-91.65759294283568
+26,Crabapple,21,,9/21/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.6,4.5,Institutional,54.75,15.3,1.3,2.4,0.2,1.4,0.1,0.6,0.17,0.47,41.98652138407348,-91.65746523671211
+27,Black Oak,113.5,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,14.2,4.5,Institutional,2074.76,1187.4,101.26,31.7,2.7,50.4,3.37,21.5,6.12,12.19,41.98654883018814,-91.65779408622032
+28,Pin Oak,190.5,,9/21/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,23.9,4.5,Institutional,5748.56,2569.9,219.15,44.4,3.79,127.7,8.54,54.4,15.53,27.85,41.98651275484173,-91.65788064487701
+29,Common Hackberry,249,,9/21/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,31.2,4.5,Institutional,9590.76,595.3,50.76,6.7,0.58,139.5,9.33,59.4,16.96,26.86,41.98640108722537,-91.65788297144081
+30,Tulip Tree,6,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,0.8,4.5,Institutional,78.3,0.5,0.05,0.5,0.04,0.6,0.04,0.2,0.07,0.15,41.98656237623958,-91.65802707631813
+31,Cottonwood,203,,9/21/2022,1028,PO,Populus,cottonwood spp,Other,25.4,4.5,Institutional,2000.27,7822.2,667.04,121.5,10.36,108.7,7.27,46.3,13.22,30.85,41.98647518332932,-91.65810739986671
+32,Cottonwood,167,,9/21/2022,1028,PO,Populus,cottonwood spp,Other,20.9,4.5,Institutional,1477.08,4820.3,411.06,91,7.76,85.9,5.74,36.6,10.44,23.95,41.98650239829356,-91.65815802444098
+33,Autumn Fest Maple,6,,9/21/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,0.8,4.5,Institutional,97.88,0.9,0.08,0.4,0.03,0.3,0.02,0.1,0.04,0.09,41.98666645521732,-91.65816297036348
+34,White Ash,234.5,,9/21/2022,3378,FRAM,Fraxinus americana,White ash,Ash,29.4,4.5,Institutional,8693.09,5066.3,432.04,65,5.54,68.6,4.59,29.2,8.34,18.47,41.98657555888154,-91.65823032775816
+35,Sugar Maple,69,,9/21/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,8.6,4.5,Institutional,816.63,315.1,26.87,9.6,0.82,24.7,1.65,10.5,3.01,5.48,41.98655189879533,-91.65829847877275
+36,Bur Oak,75,,9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,9.4,4.5,Institutional,898.59,284.8,24.29,8.4,0.72,27.2,1.82,11.6,3.31,5.84,41.98647155090984,-91.65828483458486
+37,Swamp White Oak,19,"E. Goist, S. Stocking",9/21/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.4,4.5,Institutional,78.3,35.1,2.99,5.3,0.45,1.7,0.11,0.7,0.21,0.77,41.98644766881663,-91.65838386213748
+38,Norway Maple,78,,9/21/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,9.8,4.5,Institutional,975.73,405.2,34.55,19.1,1.63,16.9,1.13,7.2,2.05,4.81,41.98638387041277,-91.65830039049172
+39,Red Oak,17.5,"C. Karwowski, N. Meskell, A. Welna",9/21/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.2,4.5,Institutional,78.3,9.4,0.8,1.7,0.15,1.9,0.13,0.8,0.23,0.5,41.98624592220207,-91.65832319162953
+40,Silver Birch,63,,9/21/2022,14714,BEPEP,Betula pendula ssp. pendula,European silver birch,Other,7.9,4.5,Institutional,621.1,420.7,35.87,21.1,1.8,21,1.4,8.9,2.55,5.75,41.9863343622868,-91.65842260203739
+41,Tulip Tree,104,,9/21/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,13,4.5,Institutional,1708.58,567.1,48.36,22,1.88,55.4,3.7,23.6,6.73,12.31,41.98641484481204,-91.65851443008206
+42,Bur Oak,21,"A. Jones, S. Letham",9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.6,4.5,Institutional,78.3,11.6,0.99,1.3,0.11,2.2,0.15,0.9,0.27,0.52,41.98633747150569,-91.65857012066816
+43,White Oak,14,"A. Jones, S. Letham",9/21/2022,4824,QUAL,Quercus alba,White oak,Oak,1.8,4.5,Institutional,97.88,4.7,0.4,0.9,0.07,1.4,0.09,0.6,0.17,0.33,41.9862494446438,-91.65846890225147
+44,Black Oak,204.5,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,25.6,4.5,Institutional,6746.06,4825.5,411.5,71.1,6.06,75.4,5.04,32.1,9.17,20.27,41.98613144432757,-91.65835738996323
+45,Black Oak,390,,9/21/2022,5001,QUVE,Quercus velutina,Black oak,Oak,48.9,4.5,Institutional,19671.21,16534.7,1410,17.9,1.53,154.7,10.34,65.9,18.8,30.67,41.98629100580941,-91.65863428270657
+46,Unidentified,73,,9/30/2022,,,,,Other,9.1,4.5,Institutional,,,,,,,,,,,41.98639330580568,-91.65590173036257
+47,White Oak,470,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,58.9,4.5,Institutional,29184.17,16534.7,1410,17.9,1.53,329.4,22.02,140.3,40.05,63.6,41.98632028725705,-91.65590427598343
+48,Swamp White Oak,66,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,8.3,4.5,Institutional,703.02,357.7,30.5,17.7,1.51,17.9,1.2,7.6,2.18,4.89,41.98631485827387,-91.65604987509643
+49,Sentry Linden,149,,9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,18.7,4.5,Institutional,2768.44,993.5,84.72,19.9,1.7,80.7,5.4,34.4,9.81,16.91,41.98623168437905,-91.65602992332781
+50,Green Ash,137,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,17.2,4.5,Institutional,2982.61,848.5,72.35,19.3,1.65,69.2,4.63,29.5,8.42,14.69,41.98619385480498,-91.65609070364509
+51,White Oak,315,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,39.5,4.5,Institutional,17915.17,11390.4,971.32,65.8,5.61,133.9,8.95,57,16.28,30.84,41.9861693905027,-91.6561828072343
+52,Red Oak,129,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,16.2,4.5,Institutional,2647.13,1202.2,102.52,28.7,2.45,66.3,4.43,28.3,8.06,14.95,41.98624031669575,-91.65617314459948
+53,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,41.98619153283261,-91.65633850834688
+54,Red Oak,112,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,14,4.5,Institutional,1979.78,843.3,71.91,23.3,1.99,57.4,3.83,24.4,6.97,12.8,41.98612386305794,-91.65635980837015
+55,Swamp White Oak,22,"D. Gayer, R. Verchimak, G. Wahls",9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.8,4.5,Institutional,78.3,45.7,3.9,6.1,0.52,2.1,0.14,0.9,0.26,0.92,41.98603456742385,-91.65638239204856
+56,Red Maple,79,,9/30/2022,1678,ACRU,Acer rubrum,Red maple,Maple,9.9,4.5,Institutional,995.52,395.9,33.76,20.1,1.71,22.4,1.5,9.5,2.72,5.93,41.98610963583047,-91.65648821177302
+57,Cathedral Elm,24,,9/30/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3,4.5,Institutional,19.58,18.8,1.6,3.2,0.28,2.3,0.16,1,0.29,0.72,41.98603500240529,-91.6564920393477
+58,Swamp White Oak,100,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,12.5,4.5,Institutional,1580.51,804.1,68.57,26.5,2.26,43.8,2.93,18.7,5.33,10.52,41.98595910093677,-91.65650322954633
+59,Green Ash,160,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,20.1,4.5,Institutional,4069.12,1177.2,100.39,23.1,1.97,77.6,5.19,33.1,9.44,16.6,41.98588051112632,-91.65665184715525
+60,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,41.98605244023041,-91.65657584913195
+61,Crabapple,23,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,2.9,4.5,Institutional,54.75,19.9,1.7,2.8,0.24,1.6,0.11,0.7,0.2,0.54,41.98598836921467,-91.6566764589909
+62,Valley Forge Elm,24,"K. Berry, M. Fink",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,3,4.5,Institutional,39.15,16,1.36,2.8,0.24,2.4,0.16,1,0.29,0.69,41.98596148718633,-91.65680636123214
+63,Bur Oak,21,"K. Kirk, K. Niehaus, M. Pinto",9/30/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.6,4.5,Institutional,78.3,11.6,0.99,1.3,0.11,2.2,0.15,0.9,0.27,0.52,41.98612016439756,-91.65664607393109
+64,Sentry Linden,27,"E. Brinkman, C. Hackenmiller, G. Pisarik, A. Reinstein",9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,3.4,4.5,Institutional,71.23,17.8,1.52,2,0.17,3.1,0.21,1.3,0.38,0.76,41.98608230098127,-91.65679833809497
+65,Sentry Elm,14,"P. Cooper, P. Shevchuk, A. Valdiva",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,1.8,4.5,Institutional,39.15,4.7,0.4,1.4,0.12,1.2,0.08,0.5,0.14,0.34,41.98579481267939,-91.65679987979797
+66,Cathedral Elm,29,"S. Craig, G. Petersen",9/30/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3.6,4.5,Institutional,26.62,29,2.48,4.1,0.35,3.2,0.21,1.4,0.39,0.95,41.98590593144829,-91.65690217139593
+67,Autumn Fest Maple,21,"S. Check, A. Forman, C. Pitstick",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.6,4.5,Institutional,97.88,18.8,1.6,2,0.17,2.8,0.18,1.2,0.34,0.69,41.98592861147052,-91.65707105306979
+68,Swamp White Oak,21,"M. Cargille, E. Lassen, A. Steeber",9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,41.98583711970596,-91.65701352943762
+69,Pin Oak,160,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,20.1,4.5,Institutional,4069.12,1819.1,155.13,37.4,3.19,94.7,6.33,40.3,11.51,21.03,41.98572454129282,-91.65692743775114
+70,Sentry Elm,14,,9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,1.8,4.5,Institutional,39.15,4.7,0.4,1.4,0.12,1.2,0.08,0.5,0.14,0.34,41.98574802989335,-91.65703858426019
+71,Pin Oak,214,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,26.8,4.5,Institutional,7225.39,3230.1,275.45,49.8,4.25,155.6,10.4,66.3,18.92,33.56,41.98561287870719,-91.65710823075548
+72,White Pine,145,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,18.2,4.5,Institutional,3338.19,757.7,64.61,19.9,1.7,66.1,4.42,28.1,8.03,14.15,41.98572410050449,-91.65717198702512
+73,White Pine,141,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,17.7,4.5,Institutional,3157.89,709.4,60.5,19.2,1.63,63.9,4.27,27.2,7.76,13.67,41.98565272447009,-91.65720509041587
+74,White Pine,134,,9/30/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,16.8,4.5,Institutional,2846.01,627.1,53.48,17.8,1.52,59.8,3.99,25.5,7.27,12.78,41.98565765284684,-91.65729536889677
+75,Red Oak,17,"L. Chambless, M. Northrop",9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,41.98553547948743,-91.65722077984519
+76,Unidentified,59,,9/30/2022,,,,,Other,7.4,4.5,Institutional,,,,,,,,,,,41.98576267445166,-91.65742796006776
+77,Unidentified,66,,9/30/2022,,,,,Other,8.3,4.5,Institutional,,,,,,,,,,,41.98572257460523,-91.65744895218016
+78,Crabapple,59,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,7.4,4.5,Institutional,543.69,196.9,16.79,10.5,0.89,6.6,0.44,2.8,0.8,2.13,41.98562017978937,-91.65755349414536
+79,Crabapple,84,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,10.5,4.5,Institutional,933.42,463.6,39.54,17.3,1.47,12.2,0.81,5.2,1.48,3.77,41.98561612208042,-91.6576229589036
+80,Crabapple,54,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,6.8,4.5,Institutional,265.64,160.1,13.65,9.3,0.79,5.7,0.38,2.4,0.69,1.86,41.98561268238905,-91.65769895269165
+81,Autumn Fest Maple,14.5,"L. Chambless, S. Willis",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,1.8,4.5,Institutional,97.88,7.6,0.65,1.2,0.1,1.3,0.08,0.5,0.15,0.34,41.98558231471539,-91.6574470226149
+82,Autumn Fest Maple,18.5,"C. Doty, L. Homeister",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.3,4.5,Institutional,97.88,14,1.19,1.7,0.14,2.1,0.14,0.9,0.26,0.55,41.98555773968071,-91.65754936179255
+83,Autumn Fest Maple,19.5,"M. Kenworthy, C. Ramos",9/30/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.4,4.5,Institutional,97.88,15.5,1.32,1.8,0.15,2.3,0.16,1,0.28,0.59,41.98554013248856,-91.65764299622352
+84,Red Oak,239,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,30,4.5,Institutional,9051.07,5372,458.1,69.1,5.89,84.7,5.66,36.1,10.3,21.85,41.9854800702664,-91.65735796308255
+85,Valley Forge Elm,23.5,"K. Ammon, M. Niedfeldt",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,41.98546850111001,-91.6574608874541
+86,Magnolia,76,,9/30/2022,3961,MAST,Magnolia stellata,Star magnolia,Other,9.5,4.5,Institutional,792.95,367.9,31.37,10.4,0.89,21.6,1.44,9.2,2.62,4.95,41.98544968221696,-91.6575878713401
+87,Red Oak,159,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,19.9,4.5,Institutional,3988.77,1981.7,168.99,38.5,3.28,72.7,4.86,30.9,8.83,16.97,41.98543291871147,-91.65771902504734
+88,Norway Maple,83,,9/30/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,10.4,4.5,Institutional,1097.47,463.6,39.53,20.6,1.76,18.9,1.27,8.1,2.3,5.32,41.98537427456898,-91.65748009357426
+89,Colorado Blue Spruce,87,,9/30/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,10.9,4.5,Institutional,1379.75,385,32.83,7.9,0.68,22.7,1.52,9.7,2.76,4.96,41.98537037023226,-91.65763609677238
+90,Black Maple,187,,9/30/2022,1673,ACNI,Acer nigrum,Black maple,Maple,23.4,4.5,Institutional,4259.06,3094.1,263.85,46.8,3.99,97.6,6.52,41.6,11.87,22.38,41.98527222004381,-91.65771080386769
+91,Swamp White Oak,158,,9/30/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,19.8,4.5,Institutional,3948.89,2008.9,171.31,41.9,3.57,83.6,5.59,35.6,10.16,19.33,41.985237741122,-91.65783660788217
+92,Green Ash,175,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,21.9,4.5,Institutional,4828.48,1409.8,120.22,25.5,2.18,81.7,5.46,34.8,9.93,17.57,41.98531444321434,-91.65779735521815
+93,Little-Leaf Linden,232,,9/30/2022,5858,TICO,Tilia cordata,Littleleaf linden,Other,29.1,4.5,Institutional,10520.2,3699.5,315.48,47.6,4.06,82.4,5.51,35.1,10.02,19.59,41.98538718259486,-91.65800060535491
+94,White Ash,145,,9/30/2022,3378,FRAM,Fraxinus americana,White ash,Ash,18.2,4.5,Institutional,3338.19,1621,138.23,33.7,2.87,78.8,5.27,33.6,9.58,17.71,41.98601945330486,-91.65776666537197
+95,Sentry Linden,144,,9/30/2022,5857,TIAM,Tilia americana,American basswood,Other,18,4.5,Institutional,2574.91,908,77.43,18.9,1.61,77.6,5.19,33,9.43,16.23,41.98604703494446,-91.65790813118319
+96,White Oak,145,,9/30/2022,4824,QUAL,Quercus alba,White oak,Oak,18.2,4.5,Institutional,4046.93,1649.9,140.7,25,2.13,87.4,5.84,37.2,10.63,18.6,41.98594733752132,-91.65808242543791
+97,Crabapple,51,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,6.4,4.5,Institutional,235.31,138,11.77,8.5,0.72,5.2,0.35,2.2,0.63,1.7,41.98596340382555,-91.65817362940153
+98,Pin Oak,235,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,29.4,4.5,Institutional,8693.09,3886.3,331.4,54.6,4.66,182.4,12.19,77.7,22.17,39.02,41.98602202386881,-91.65827811672014
+99,Honey Locust,191,,9/30/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,23.9,4.5,Institutional,4437.23,3830.5,326.65,63.5,5.41,59.7,3.99,25.4,7.26,16.67,41.98589748066458,-91.65830845096795
+100,Black Oak,256,,9/30/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.1,4.5,Institutional,10385.36,8238,702.5,95.6,8.16,78.6,5.26,33.5,9.56,22.97,41.98688913321064,-91.65737982960847
+101,Red Oak,252,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,31.6,4.5,Institutional,9837.65,6094.8,519.74,74.4,6.34,85.2,5.7,36.3,10.36,22.39,41.98691822773492,-91.65726202319136
+102,Pin Oak,253,,9/30/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,31.7,4.5,Institutional,9899.16,4517.3,385.22,58.9,5.02,207.5,13.87,88.4,25.22,44.11,41.98699522891669,-91.65736205167252
+103,Crabapple,72.5,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,9.1,4.5,Institutional,740.7,326.6,27.85,14.1,1.2,9.4,0.63,4,1.14,2.97,41.98697592162836,-91.65720563412798
+104,Unidentified,93.5,,9/30/2022,,,,,Other,11.7,4.5,Institutional,,,,,,,,,,,41.98700003873603,-91.65712300458851
+105,Princeton Elm,22.5,"G. Atkinson, S. Coleman, E. Stitt",9/30/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.8,4.5,Institutional,39.15,13.5,1.15,2.5,0.21,2.1,0.14,0.9,0.26,0.62,41.98710895314953,-91.65716214978103
+106,Bur Oak,20,"M. Lietsch, C. Maldonado, K. Yang",9/30/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.5,4.5,Institutional,78.3,10.5,0.9,1.2,0.1,2.1,0.14,0.9,0.25,0.49,41.98716180342434,-91.65706847795803
+107,Green Ash,301,,9/30/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,37.7,4.5,Institutional,13432.83,4415.9,376.56,44.1,3.76,175.8,11.75,74.9,21.37,36.88,41.98711616627285,-91.65691575031646
+108,Red Oak,197,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,24.7,4.5,Institutional,6139.09,3349.9,285.66,52.3,4.46,79.6,5.32,33.9,9.68,19.47,41.98718248770117,-91.65679280971119
+109,Freeman Maple,44,,9/30/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,5.5,4.5,Institutional,186.4,219.8,18.74,18.2,1.55,12,0.8,5.1,1.46,3.81,41.9872409664797,-91.65668704578364
+110,Crabapple,40,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,5,4.5,Institutional,143.62,75.5,6.44,6,0.51,3.5,0.23,1.5,0.43,1.17,41.98735540738671,-91.65688782002006
+111,Autumn Brillance Serviceberry,7.5,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.9867089367708,-91.65629444627874
+112,Green Ash,201,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,25.2,4.5,Institutional,6389.69,1893.6,161.48,30,2.56,99.5,6.65,42.4,12.09,21.31,41.98677194303147,-91.6561784070351
+113,Green Ash,284,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,35.6,4.5,Institutional,12231.14,3914.7,333.82,45,3.84,162,10.83,69,19.69,34.36,41.98699728536548,-91.65655139094824
+114,Swamp White Oak,167,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,20.9,4.5,Institutional,4398.58,2237.6,190.82,44.2,3.77,89.4,5.97,38.1,10.87,20.61,41.98586488432012,-91.65800899362631
+115,Sugar Maple,111,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,13.9,4.5,Institutional,2313.88,976.3,83.25,18.3,1.56,49.2,3.29,21,5.99,10.84,41.98578884521584,-91.65804203094945
+116,Sugar Maple,144,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,18,4.5,Institutional,3956.02,1794.6,153.04,25.9,2.21,66.9,4.47,28.5,8.13,14.82,41.98573284001962,-91.65815788263046
+117,Honey Locust,206,,10/23/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.8,4.5,Institutional,5148.6,4635.7,395.32,61.7,5.27,59.7,3.99,25.4,7.25,16.51,41.98566364906055,-91.65808319241984
+118,Common Hackberry,160,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.1,4.5,Institutional,4069.12,280.3,23.9,4.9,0.42,110.9,7.42,47.3,13.49,21.32,41.98560817631176,-91.65809841171517
+119,Norway Maple,172,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,21.6,4.5,Institutional,4697.4,2446.6,208.64,53,4.52,72.1,4.82,30.7,8.77,18.11,41.98557769281658,-91.65801458335378
+120,Common Hackberry,113,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,14.2,4.5,Institutional,2036.43,154.6,13.18,3.9,0.33,61.4,4.11,26.2,7.47,11.91,41.98554199500949,-91.6579585768569
+121,Hawthorn,62,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.8,4.5,Institutional,586.4,190.9,16.28,9.6,0.82,5,0.34,2.1,0.61,1.76,41.98556673700367,-91.65786644568075
+122,Tulip Tree,8,,10/23/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,1,4.5,Institutional,78.3,1,0.08,0.6,0.05,0.7,0.04,0.3,0.08,0.18,41.98667386543758,-91.65764489293426
+123,Red Oak,16.5,"T. Bossom, B. Brokaw, J. Langerud",10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,41.98663623947633,-91.657806122747985
+124,Bur Oak,18,"H. Hoyhtya, S. Reilly",10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.3,4.5,Institutional,78.3,8.5,0.73,1.1,0.09,1.8,0.12,0.8,0.22,0.44,41.98665895733344,-91.65794559612065
+125,Swamp White Oak,20,"S. Gobeli, Q. Peterson, A. Tomes",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.5,4.5,Institutional,78.3,37.6,3.21,5.5,0.47,1.8,0.12,0.8,0.22,0.81,41.98670003289348,-91.65805991197799
+126,Bur Oak,75,,10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,9.4,4.5,Institutional,898.59,284.8,24.29,8.4,0.72,27.2,1.82,11.6,3.31,5.84,41.98678535920747,-91.65815900464811
+127,Freeman Maple,32,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,4,4.5,Institutional,98.59,106.8,9.11,12.2,1.04,6.6,0.44,2.8,0.8,2.28,41.98687050873172,-91.65825143101776
+128,Red Oak,191,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,23.9,4.5,Institutional,5748.56,3092.3,263.7,49.9,4.26,78.4,5.24,33.4,9.53,19.03,41.98697250465202,-91.65832698235828
+129,Sentry Linden,13,"K. Batey, B. Bodermann, A. Cota",10/23/2022,5857,TIAM,Tilia americana,American basswood,Other,1.6,4.5,Institutional,58.73,3,0.26,0.8,0.06,1.2,0.08,0.5,0.15,0.29,41.98711285211981,-91.6583800013922
+130,Bur Oak,242,,10/23/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,30.3,4.5,Institutional,9030.25,5266.2,449.07,47.9,4.08,126.1,8.43,53.7,15.33,27.84,41.98721527506114,-91.65831114956616
+131,Swamp White Oak,202,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,25.3,4.5,Institutional,6440.42,3276.4,279.39,53.5,4.56,107.1,7.16,45.6,13.02,24.74,41.98731860520671,-91.65808262576662
+132,Valley Forge Elm,23,"H. Nguyen, V. Ortega",10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,41.98730125758571,-91.65791356221939
+133,Sentry Linden,293,,10/23/2022,5857,TIAM,Tilia americana,American basswood,Other,36.7,4.5,Institutional,9774.79,4871.6,415.43,47.9,4.09,114.5,7.66,48.8,13.92,25.67,41.98725789598659,-91.65783796774328
+134,White Oak,76,,10/23/2022,4824,QUAL,Quercus alba,White oak,Oak,9.5,4.5,Institutional,1021.16,330.3,28.17,9.5,0.81,29.5,1.97,12.5,3.58,6.36,41.98717024174073,-91.65769044933867
+135,Swamp White Oak,20,"A. Costantino, B. Jungman, K. Koenen, O. Wagner",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.5,4.5,Institutional,78.3,37.6,3.21,5.5,0.47,1.8,0.12,0.8,0.22,0.81,41.98710282292334,-91.65765936969132
+136,Kentucky Coffee Tree,6,,10/23/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,0.8,4.5,Institutional,54.75,2.5,0.22,0.8,0.07,0.5,0.03,0.2,0.06,0.16,41.98704295400747,-91.65758793978506
+137,Swamp White Oak,210,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,26.3,4.5,Institutional,6958.71,3540,301.88,55.6,4.74,109.5,7.32,46.6,13.31,25.37,41.98693000551766,-91.65752835888635
+138,Cathedral Elm,28,,10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,3.5,4.5,Institutional,25.16,27.1,2.31,4,0.34,3,0.2,1.3,0.37,0.91,41.98677924823286,-91.6575296985056
+139,Red Maple,98,,10/23/2022,1678,ACRU,Acer rubrum,Red maple,Maple,12.3,4.5,Institutional,1530.69,666.9,56.87,27.2,2.32,35,2.34,14.9,4.26,8.92,41.98709062042695,-91.65745998178942
+140,Pin Oak,247,,10/23/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,31,4.5,Institutional,9466.8,4320.2,368.41,57.6,4.91,199.7,13.35,85.1,24.28,42.54,41.98719122612732,-91.65756684505214
+141,Cathedral Elm,6,"L. Dufoe, M. Jones, A. Phillips",10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,0.8,4.5,Institutional,19.58,0.8,0.07,0.6,0.05,0.5,0.04,0.2,0.07,0.15,41.98728392005409,-91.65767839383078
+142,White Oak,285,,10/23/2022,4824,QUAL,Quercus alba,White oak,Oak,35.7,4.5,Institutional,15235.71,8848.9,754.6,68.3,5.83,107,7.16,45.6,13.01,25.99,41.98738722381252,-91.65760334808779
+143,Common Hackberry,164,,10/23/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.6,4.5,Institutional,4273.53,292.4,24.93,5,0.43,116.3,7.77,49.5,14.14,22.34,41.98735243352154,-91.65752349545255
+144,Cathedral Elm,21.5,,10/23/2022,5909,ULPU,Ulmus pumila,Siberian elm,Elm,2.7,4.5,Institutional,19.58,14.6,1.24,2.8,0.24,2,0.13,0.8,0.24,0.61,41.98720101511597,-91.65743701473257
+145,Black Oak,61,,10/23/2022,5001,QUVE,Quercus velutina,Black oak,Oak,7.6,4.5,Institutional,593.43,271.6,23.16,13.4,1.14,15.6,1.04,6.7,1.9,4.09,41.98720975794299,-91.65721202836146
+146,Princeton Sentry Ginkgo,8,"S. Barnes, A. Nuñez, G. Reighard",10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1,4.5,Institutional,97.88,0.4,0.04,0.1,0.01,0.5,0.04,0.2,0.06,0.11,41.98725222965622,-91.65712094019204
+147,Unidentified,9,,10/23/2022,,,,,Other,1.1,4.5,Institutional,,,,,,,,,,,41.98733806916051,-91.65725053483233
+148,Red Oak,329,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,41.2,4.5,Institutional,15351.69,11610.7,990.11,80.6,6.88,112.6,7.53,48,13.7,28.1,41.98728438266227,-91.65734108857153
+149,Silver Birch,40,,10/23/2022,14714,BEPEP,Betula pendula ssp. pendula,European silver birch,Other,5,4.5,Institutional,179.73,136.1,11.61,10.9,0.93,9.2,0.61,3.9,1.11,2.65,41.98736503929292,-91.65737088915695
+150,Red Oak,283,,10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,35.5,4.5,Institutional,12172.97,8086.3,689.56,87.8,7.49,84.5,5.65,36,10.27,23.4,41.98747648357082,-91.65733498648132
+151,Green Ash,257,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,32.2,4.5,Institutional,10205.41,3170,270.32,40,3.41,140.5,9.39,59.8,17.08,29.87,41.98682781107961,-91.65833059511074
+152,Princeton Elm,204,,10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,25.6,4.5,Institutional,3548.52,2734.7,233.21,53.1,4.53,79.8,5.34,34,9.7,19.57,41.98690382834284,-91.6584332019969
+153,Swamp White Oak,17,"E. La Rosa, B. Runyon, C. Wihlm",10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.1,4.5,Institutional,78.3,28.2,2.4,4.6,0.4,1.4,0.1,0.6,0.18,0.67,41.9867913565611,-91.65862922239454
+154,Autumn Fest Maple,17,"C. Howell, R. McMahen, P. Waskow",10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.1,4.5,Institutional,97.88,11.2,0.95,1.5,0.13,1.8,0.12,0.7,0.21,0.46,41.98668819364583,-91.65864500883117
+155,Princeton Elm,20.5,"M. Meiers, L. Sweezer",10/23/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.6,4.5,Institutional,39.15,11.3,0.97,2.3,0.19,1.9,0.13,0.8,0.23,0.56,41.98665703630507,-91.65841056624728
+156,Black Maple,217,,10/23/2022,1673,ACNI,Acer nigrum,Black maple,Maple,27.2,4.5,Institutional,5707.58,4363.3,372.08,56.8,4.84,121,8.09,51.5,14.71,27.64,41.98655428935026,-91.65851494975715
+157,Ginkgo,248,,10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,31.1,4.5,Institutional,11785.22,2491.9,212.5,22.4,1.91,88.8,5.94,37.8,10.8,18.65,41.98647694649181,-91.65856965987366
+158,Freeman Maple,61,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.6,4.5,Institutional,569.23,457.5,39.01,27.4,2.34,22.2,1.49,9.5,2.7,6.52,41.9867651219989,-91.65911687492923
+159,Freeman Maple,53,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,6.6,4.5,Institutional,268.42,332.2,28.33,22.9,1.95,17,1.14,7.2,2.07,5.15,41.98681457890521,-91.65910997092392
+160,Honey Locust,212,,10/23/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,26.6,4.5,Institutional,5464.4,5003.3,426.66,60.2,5.14,59.2,3.96,25.2,7.2,16.3,41.98745269787279,-91.65804285943324
+161,Autumn Fest Maple,19.5,,10/23/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.4,4.5,Institutional,97.88,15.5,1.32,1.8,0.15,2.3,0.16,1,0.28,0.59,41.98759366101719,-91.65792229435297
+162,Norway Maple,155,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,19.4,4.5,Institutional,3791.39,1915.1,163.31,46.1,3.93,60.6,4.05,25.8,7.36,15.35,41.98767526935033,-91.65776716784967
+163,Green Ash,186,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,23.3,4.5,Institutional,5464.1,1605.9,136.95,27.4,2.34,89.1,5.96,38,10.84,19.13,41.9877710354764,-91.65755341677315
+164,Princeton Sentry Ginkgo,11,"D. Robertson, H. Schipper, A. Ward",10/23/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1.4,4.5,Institutional,97.88,1,0.08,0.2,0.02,0.7,0.05,0.3,0.09,0.16,41.98788256918591,-91.65755823019096
+165,Red Oak,16.5,"M. Macon, J. Meehan, B. Young",10/23/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.1,4.5,Institutional,78.3,8.4,0.72,1.6,0.14,1.7,0.12,0.7,0.21,0.46,41.98777518198354,-91.65784534406102
+166,Norway Maple,142,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,17.8,4.5,Institutional,3193.55,1573.8,134.21,41.3,3.52,52.2,3.49,22.2,6.35,13.36,41.98773522033401,-91.65794301780856
+167,Norway Maple,132,,10/23/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,16.5,4.5,Institutional,2745.67,1324,112.9,37.4,3.19,45.6,3.05,19.4,5.54,11.78,41.98768753385873,-91.65803796317616
+168,Hawthorn,95,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,11.9,4.5,Institutional,1153.67,536.9,45.79,17.6,1.5,10.9,0.73,4.6,1.32,3.55,41.98751973525356,-91.65829077522983
+169,Hawthorn,62,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.8,4.5,Institutional,586.4,190.9,16.28,9.6,0.82,5,0.34,2.1,0.61,1.76,41.98740179702058,-91.65850083718723
+170,Hawthorn,59,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.4,4.5,Institutional,543.69,167.9,14.31,8.9,0.76,4.6,0.31,1.9,0.56,1.62,41.98733071612258,-91.65849818784154
+171,Black Oak,260,,10/23/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.6,4.5,Institutional,10697.51,8542.4,728.46,97.5,8.32,77,5.15,32.8,9.36,22.82,41.9873449029152,-91.65855939247082
+172,Dogwood,98,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,12.3,4.5,Institutional,1221.65,989.2,84.36,28.4,2.42,17.2,1.15,7.3,2.09,5.65,41.98740026631905,-91.65867288250584
+173,Kentucky Coffee Tree,9,,10/23/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,1.1,4.5,Institutional,54.75,4.3,0.36,1.1,0.1,0.6,0.04,0.3,0.07,0.21,41.9874496207186,-91.65887237024899
+174,Green Ash,186,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,23.3,4.5,Institutional,5464.1,1605.9,136.95,27.4,2.34,89.1,5.96,38,10.84,19.13,41.98765414564393,-91.65895891810041
+175,Freeman Maple,61,,10/23/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.6,4.5,Institutional,569.23,457.5,39.01,27.4,2.34,22.2,1.49,9.5,2.7,6.52,41.98792271266116,-91.65877074798343
+176,Cottonwood,143,,10/23/2022,1028,PO,Populus,cottonwood spp,Other,17.9,4.5,Institutional,1184.78,3281.1,279.8,72.4,6.18,67.1,4.49,28.6,8.16,18.82,41.98794894392129,-91.65863400707298
+177,Hawthorn,54,,10/23/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,6.8,4.5,Institutional,265.64,136.5,11.64,7.9,0.67,3.9,0.26,1.7,0.48,1.42,41.98789338357906,-91.65848936152089
+178,Unidentified,34,,10/23/2022,,,,,Other,4.3,4.5,Institutional,,,,,,,,,,,41.98781986955996,-91.65846201643267
+179,Green Ash,320,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,40.1,4.5,Institutional,14759.93,5027.6,428.73,41.2,3.52,191.3,12.79,81.5,23.26,39.57,41.9878717120004,-91.65839608262027
+180,Scotch Pine,125,,10/23/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,15.7,4.5,Institutional,2486.92,687.2,58.6,18.4,1.57,56,3.74,23.8,6.81,12.12,41.98784066623902,-91.6583427146697
+181,Red Sunset Maple,20,"M. Macon, J. Meehan, B. Young",10/23/2022,1678,ACRU,Acer rubrum,Red maple,Maple,2.5,4.5,Institutional,78.3,14.6,1.24,3.1,0.27,1.5,0.1,0.6,0.18,0.55,41.98777329504187,-91.65827227455725
+182,Dogwood,63,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,7.9,4.5,Institutional,597.42,355.9,30.35,16.6,1.42,7.7,0.51,3.3,0.93,2.86,41.98772089068215,-91.65821724124444
+183,Dogwood,147,,10/23/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,18.4,4.5,Institutional,2536.9,2518.2,214.74,2.6,0.22,33.9,2.27,14.4,4.12,6.61,41.98763867027388,-91.6582416955494
+184,Hawthorn,25,,10/25/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,3.1,4.5,Institutional,55.21,20,1.7,2.6,0.22,1.2,0.08,0.5,0.14,0.44,41.98586351940517,-91.65796510912988
+185,Princeton Elm,23.5,,10/25/2022,5903,ULAM,Ulmus americana,American elm,Elm,2.9,4.5,Institutional,39.15,14.7,1.26,2.6,0.22,2.3,0.15,1,0.28,0.65,41.98805532984429,-91.65883426861433
+186,White Ash,149,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,18.7,4.5,Institutional,3523.51,1728.9,147.43,34.9,2.98,80.1,5.36,34.1,9.74,18.08,41.98793567024637,-91.65891427341153
+187,Common Hackberry,161,,10/25/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.2,4.5,Institutional,4109.6,282.7,24.11,5,0.42,112,7.49,47.7,13.62,21.53,41.98789068362466,-91.65909095977942
+188,Freeman Maple,60,,10/25/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.5,4.5,Institutional,557.86,443.9,37.86,27,2.3,21.7,1.45,9.2,2.63,6.38,41.98791661847356,-91.65921022307444
+189,Dogwood,4.5,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,41.98779944907739,-91.65911010106224
+190,Dogwood,4.5,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,41.98779813873465,-91.65907983947191
+191,Dogwood,4,,10/25/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.5,4.5,Institutional,54.75,0.5,0.04,0.4,0.04,0.4,0.02,0.2,0.04,0.1,41.98777643838713,-91.65909480479222
+192,Swamp White Oak,23,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.9,4.5,Institutional,78.3,48.6,4.15,6.3,0.54,2.3,0.15,1,0.27,0.96,41.98812241318832,-91.65892238688572
+193,Maple Northern Flare,17.5,"H. Blegger, S. Huggins, L. Tierney",10/25/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,2.2,4.5,Institutional,97.88,12.5,1.07,1.6,0.13,1.9,0.13,0.8,0.24,0.5,41.98822094144253,-91.65907140109759
+194,Unidentified,95,,10/25/2022,,,,,Other,11.9,4.5,Institutional,,,,,,,,,,,41.9881906284495,-91.65919130674907
+195,Ohio Buckeye,73,,10/25/2022,1709,AEGL,Aesculus glabra,Ohio buckeye,Other,9.1,4.5,Institutional,757.94,627.8,53.54,34.1,2.91,33.2,2.22,14.1,4.04,9.16,41.98812613047898,-91.65929243897797
+196,Swamp White Oak,173,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,21.7,4.5,Institutional,4740.9,2411.8,205.67,45.9,3.92,93.3,6.24,39.7,11.34,21.5,41.98812717997639,-91.65942272724476
+197,Honey Locust,154,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,19.3,4.5,Institutional,2940.2,2253.4,192.16,45.9,3.92,53.7,3.59,22.9,6.53,14.03,41.98804792770766,-91.65961456111252
+198,Swamp White Oak,44.5,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,5.6,4.5,Institutional,257.66,165.9,14.15,12,1.02,7.4,0.5,3.2,0.9,2.42,41.98826488910403,-91.65927358886739
+199,Swamp White Oak,209,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,26.2,4.5,Institutional,6905.98,3513.2,299.59,55.4,4.72,109.3,7.3,46.5,13.28,25.31,41.98822673107706,-91.65944374111517
+200,White Ash,293,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,36.7,4.5,Institutional,12865.31,8581.6,731.8,85.1,7.25,96.9,6.48,41.3,11.78,25.51,41.98830916755451,-91.65963448139458
+201,Freeman Maple,57,,10/25/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,7.1,4.5,Institutional,513.86,392,33.43,25.1,2.14,19.5,1.31,8.3,2.37,5.82,41.98844492760823,-91.65970065214395
+202,Common Hackberry,166,,10/25/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,20.8,4.5,Institutional,4356.7,297.3,25.35,5.1,0.43,118.4,7.92,50.5,14.4,22.75,41.98862742265734,-91.65971078780245
+203,Swamp White Oak,220,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,27.6,4.5,Institutional,7662.53,3898.1,332.41,58.3,4.97,111.4,7.45,47.5,13.54,25.97,41.98870058096557,-91.65960071604023
+204,Honey Locust,192,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,24.1,4.5,Institutional,4509.55,3910.9,333.5,63.8,5.44,59.8,4,25.5,7.27,16.71,41.98876758104719,-91.65947431891519
+205,Black Oak,22,,10/25/2022,5001,QUVE,Quercus velutina,Black oak,Oak,2.8,4.5,Institutional,80.26,26.7,2.27,3.6,0.31,1.7,0.12,0.7,0.21,0.64,41.98870541355677,-91.65931603999505
+206,Swamp White Oak,43,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,5.4,4.5,Institutional,239.58,154.7,13.19,11.6,0.99,6.9,0.46,2.9,0.84,2.28,41.98859223155522,-91.65920398138887
+207,White Ash,172.5,,10/25/2022,3378,FRAM,Fraxinus americana,White ash,Ash,21.6,4.5,Institutional,4697.4,2435.2,207.66,42.6,3.63,83.8,5.6,35.7,10.19,19.42,41.9884463763262,-91.65918600573565
+208,Kentucky Coffee Tree,57,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,7.1,4.5,Institutional,513.14,201.6,17.19,10.7,0.91,10.2,0.68,4.4,1.24,2.84,41.98833894939465,-91.65920186740247
+209,Sentry Linden,21,,10/25/2022,5857,TIAM,Tilia americana,American basswood,Other,2.6,4.5,Institutional,58.73,9.5,0.81,1.4,0.12,2.1,0.14,0.9,0.26,0.52,41.98889954794443,-91.65940391603284
+210,Kentucky Coffee Tree,4.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,0.6,4.5,Institutional,54.75,1.7,0.14,0.7,0.06,0.4,0.03,0.2,0.05,0.14,41.98878603173102,-91.65926755305932
+211,White Oak,26,,10/25/2022,4824,QUAL,Quercus alba,White oak,Oak,3.3,4.5,Institutional,111.84,24,2.05,2.1,0.18,3.2,0.22,1.4,0.39,0.79,41.98868627383462,-91.65917037020898
+212,Kentucky Coffee Tree,27.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,3.4,4.5,Institutional,66.41,38.3,3.26,4,0.34,2.6,0.18,1.1,0.32,0.83,41.98864500263998,-91.65908057519164
+213,Honey Locust,181,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,22.7,4.5,Institutional,4015.96,3369.6,287.34,58.7,5,59.1,3.95,25.2,7.18,16.13,41.98862795927506,-91.65894238099503
+214,Honey Locust,155,,10/25/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,19.4,4.5,Institutional,2969.36,2282.4,194.63,46.3,3.95,53.9,3.6,23,6.55,14.11,41.98866703747262,-91.65881143230003
+215,Kentucky Coffee Tree,23,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,2.9,4.5,Institutional,54.75,27.3,2.32,3.2,0.28,2,0.14,0.9,0.25,0.66,41.98877779164825,-91.65880583317406
+216,Black Oak,24.5,,10/25/2022,5001,QUVE,Quercus velutina,Black oak,Oak,3.1,4.5,Institutional,80.93,33.8,2.88,4.1,0.35,2.2,0.14,0.9,0.26,0.76,41.98886755813029,-91.65865618553188
+217,Swamp White Oak,24,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3,4.5,Institutional,78.3,51.6,4.4,6.5,0.56,2.4,0.16,1,0.29,1,41.98892596892566,-91.65854671638606
+218,Swamp White Oak,27,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.4,4.5,Institutional,94.98,64.7,5.52,7.4,0.63,2.9,0.19,1.2,0.35,1.17,41.98905743657141,-91.65849821170532
+219,Swamp White Oak,23,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.9,4.5,Institutional,78.3,48.6,4.15,6.3,0.54,2.3,0.15,1,0.27,0.96,41.98915843990142,-91.65859427316819
+220,Red Oak,23,,10/25/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,2.9,4.5,Institutional,78.3,18.4,1.57,2.5,0.22,3.1,0.21,1.3,0.38,0.8,41.98964467852815,-91.65907459311806
+221,Red Oak,28,,10/25/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,3.5,4.5,Institutional,100.65,29.1,2.48,3.3,0.28,4.5,0.3,1.9,0.54,1.13,41.98980180126896,-91.65923595797271
+222,Sugar Maple,85,,10/25/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,10.7,4.5,Institutional,1325.5,526.9,44.93,12.9,1.1,34.4,2.3,14.7,4.19,7.58,41.98985687173241,-91.65930000115169
+223,Kentucky Coffee Tree,26,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,3.3,4.5,Institutional,62.56,35.9,3.06,3.8,0.32,2.5,0.17,1.1,0.3,0.79,41.98985295866621,-91.65944348363314
+224,Tulip Tree,4,,10/25/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,0.5,4.5,Institutional,78.3,0.2,0.02,0.2,0.02,0.5,0.03,0.2,0.06,0.1,41.98996800455406,-91.65955683926873
+225,Swamp White Oak,16,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2,4.5,Institutional,78.3,26.1,2.23,4.4,0.38,1.4,0.09,0.6,0.17,0.63,41.98993737378748,-91.65963272481136
+226,Kentucky Coffee Tree,20.5,,10/25/2022,15400,GYDI1,Gymnocladus dioica,Kentucky Coffee tree,Other,2.6,4.5,Institutional,54.75,21.7,1.85,2.8,0.24,1.7,0.11,0.7,0.21,0.57,41.98988771237492,-91.65972173841926
+227,Swamp White Oak,31.5,,10/25/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,3.9,4.5,Institutional,124.97,83.4,7.11,8.4,0.72,3.7,0.24,1.6,0.45,1.41,41.98982652356759,-91.65982092482682
+228,Unidentified,16,,10/25/2022,,,,,Other,2,4.5,Institutional,,,,,,,,,,,41.98972208800074,-91.6600016057427
+229,Scotch Pine,190,,10/25/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,23.8,4.5,Institutional,5700.64,1612.8,137.53,28.6,2.44,61.8,4.13,26.3,7.51,14.08,41.99013704744329,-91.65985935891952
+230,White Ash,171,,11/9/2022,3378,FRAM,Fraxinus americana,White ash,Ash,21.4,4.5,Institutional,4611.02,2382,203.12,42,3.58,83.7,5.6,35.7,10.18,19.36,41.98809662002753,-91.657646279430793
+231,Green Ash,159,,11/9/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,19.9,4.5,Institutional,3988.77,1152.7,98.3,22.8,1.95,77.3,5.17,32.9,9.4,16.51,41.98808846339775,-91.6577647243877
+232,Honey Locust,218,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,27.3,4.5,Institutional,5748.63,5339,455.29,58.6,5,58.7,3.93,25,7.14,16.07,41.98818830198365,-91.65763816233299
+233,Scotch Pine,176,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,22.1,4.5,Institutional,4916.88,1387.9,118.35,26.5,2.26,63.6,4.25,27.1,7.73,14.24,41.98816295477096,-91.6577890707555
+234,Honey Locust,204,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.6,4.5,Institutional,5071.16,4546.5,387.71,62.1,5.29,59.7,3.99,25.4,7.26,16.55,41.98843489793836,-91.65788824255212
+235,Hawthorn,8,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1,4.5,Institutional,54.75,1.3,0.11,0.5,0.05,0.3,0.02,0.1,0.04,0.1,41.98855190517828,-91.65808236955569
+236,Hawthorn,9,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1.1,4.5,Institutional,54.75,1.6,0.14,0.6,0.05,0.3,0.02,0.1,0.04,0.12,41.98858613000795,-91.65811597532827
+237,Hawthorn,9,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,1.1,4.5,Institutional,54.75,1.6,0.14,0.6,0.05,0.3,0.02,0.1,0.04,0.12,41.98862134073958,-91.65814480206778
+238,Honey Locust,192,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,24.1,4.5,Institutional,4509.55,3910.9,333.5,63.8,5.44,59.8,4,25.5,7.27,16.71,41.98877314310845,-91.65822421680251
+239,Unidentified,190,,11/9/2022,,,,,Other,23.8,4.5,Institutional,,,,,,,,,,,41.98885377949085,-91.65847711728291
+240,Pin Oak,177,,11/9/2022,4952,QUPA,Quercus palustris,Pin oak,Oak,22.2,4.5,Institutional,4961.37,2218,189.14,41.3,3.52,112.4,7.52,47.9,13.67,24.71,41.98859692468287,-91.65861622847548
+241,Honey Locust,181,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,22.7,4.5,Institutional,4015.96,3369.6,287.34,58.7,5,59.1,3.95,25.2,7.18,16.13,41.98851661360267,-91.6588932931043
+242,Honey Locust,186,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,23.3,4.5,Institutional,4223.88,3595.5,306.61,61,5.21,59.5,3.98,25.3,7.23,16.41,41.9883187009687,-91.65865908771538
+243,Unidentified,52,,11/9/2022,,,,,Other,6.5,4.5,Institutional,,,,,,,,,,,41.98826307195468,-91.6584869743022
+244,Unidentified,99,,11/9/2022,,,,,Other,12.4,4.5,Institutional,,,,,,,,,,,41.9882197406207,-91.65857325693132
+245,Unidentified,58,,11/9/2022,,,,,Other,7.3,4.5,Institutional,,,,,,,,,,,41.98819289489438,-91.65873921629318
+246,Unidentified,52,,11/9/2022,,,,,Other,6.5,4.5,Institutional,,,,,,,,,,,41.98822981380314,-91.65871625219782
+247,Honey Locust,206,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,25.8,4.5,Institutional,5148.6,4635.7,395.32,61.7,5.27,59.7,3.99,25.4,7.25,16.51,41.98813048084901,-91.65852759333801
+248,Unidentified,97,,11/9/2022,,,,,Other,12.2,4.5,Institutional,,,,,,,,,,,41.98805345915058,-91.65846440425155
+249,Eastern Red Cedar,21,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,2.6,4.5,Institutional,70.77,19.2,1.64,1.5,0.13,1.4,0.1,0.6,0.17,0.4,41.98799915678287,-91.65842302304372
+250,Eastern Red Cedar,22,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,2.8,4.5,Institutional,70.77,22.5,1.92,1.7,0.14,1.6,0.11,0.7,0.2,0.45,41.98801354532915,-91.65839292557622
+251,Unidentified,228,,11/9/2022,,,,,Other,28.6,4.5,Institutional,,,,,,,,,,,41.98795027716288,-91.65828615572433
+252,Scotch Pine,143,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.9,4.5,Institutional,3229.41,902.3,76.94,21.2,1.81,62,4.15,26.4,7.54,13.5,41.98790520988224,-91.65826660136767
+253,Scotch Pine,130,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.3,4.5,Institutional,2679.77,743.1,63.37,19.2,1.63,58,3.88,24.7,7.06,12.57,41.9878916874212,-91.65821816686632
+254,Scotch Pine,153,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,19.2,4.5,Institutional,3713.85,1042,88.86,22.9,1.95,63.7,4.26,27.1,7.75,13.96,41.9878977902261,-91.6581601258983
+255,Magnolia,43,,11/9/2022,3961,MAST,Magnolia stellata,Star magnolia,Other,5.4,4.5,Institutional,167.52,94.3,8.04,4.7,0.4,8,0.54,3.4,0.97,1.91,41.98793434404654,-91.65809824181873
+256,Honey Locust,215,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,26.9,4.5,Institutional,5585.31,5145.5,438.79,59.6,5.08,59.1,3.95,25.2,7.18,16.21,41.98798714747969,-91.65806053328785
+257,Red Oak,10,,11/9/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,1.3,4.5,Institutional,78.3,2.6,0.22,0.8,0.07,0.9,0.06,0.4,0.1,0.23,41.98751659297817,-91.65817512323332
+258,Black Oak,257,,11/9/2022,5001,QUVE,Quercus velutina,Black oak,Oak,32.2,4.5,Institutional,10447.97,8298.4,707.65,96,8.19,78.3,5.23,33.3,9.52,22.94,41.98718376987634,-91.65879559200876
+259,Scotch Pine,121,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,15.2,4.5,Institutional,2331.73,642,54.75,17.7,1.51,54,3.61,23,6.57,11.7,41.98724726237807,-91.65896273155668
+260,Scotch Pine,132,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.5,4.5,Institutional,2745.67,762.3,65,19.4,1.66,58.7,3.92,25,7.13,12.71,41.98721587883732,-91.65891687292405
+261,Scotch Pine,106,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.3,4.5,Institutional,1787.83,483.6,41.24,15.3,1.3,45,3.01,19.2,5.47,9.78,41.98718614711836,-91.65891690678679
+262,Scotch Pine,66,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,8.3,4.5,Institutional,703.02,171.5,14.63,8.8,0.75,17,1.13,7.2,2.06,3.95,41.98715372808987,-91.65889330480049
+263,Scotch Pine,110,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.8,4.5,Institutional,1923.93,523.3,44.62,15.9,1.36,47.6,3.18,20.3,5.79,10.33,41.98712300228645,-91.65886507482725
+264,Swamp White Oak,21,"A. Eastburg, C. Robledo",11/9/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,41.98709248008018,-91.65883082991911
+265,White Pine,212,,11/9/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,26.6,4.5,Institutional,7118.12,1866.6,159.17,34.1,2.91,104.6,6.99,44.5,12.71,22.62,41.9870224724454,-91.65913341847306
+266,White Pine,158,,11/9/2022,4497,PIST,Pinus strobus,Eastern white pine,Evergreen,19.8,4.5,Institutional,3948.89,925.7,78.94,22.5,1.92,74.4,4.98,31.7,9.05,15.94,41.98707213034755,-91.65920353258622
+267,Scotch Pine,141,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.7,4.5,Institutional,3157.89,881.6,75.18,21,1.79,61.6,4.12,26.3,7.5,13.4,41.98711728917587,-91.65921001829628
+268,Scotch Pine,62,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,7.8,4.5,Institutional,622.17,149.2,12.72,8.2,0.7,14.6,0.98,6.2,1.78,3.46,41.98718400054225,-91.65931830613268
+269,Scotch Pine,101,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,12.7,4.5,Institutional,1631.13,437.9,37.34,14.5,1.23,41.7,2.79,17.8,5.07,9.09,41.98721385163915,-91.65936095957841
+270,Hawthorn,57,,11/9/2022,2733,CRPH,Crataegus phaenopyrum,Washington hawthorn,Other,7.1,4.5,Institutional,513.14,151.7,12.94,8.4,0.72,4.3,0.28,1.8,0.52,1.52,41.98727398907771,-91.65922626411886
+271,Sentry Linden,13,"E. Brinkman, M. Huse, R. Staples",11/9/2022,5857,TIAM,Tilia americana,American basswood,Other,1.6,4.5,Institutional,58.73,3,0.26,0.8,0.06,1.2,0.08,0.5,0.15,0.29,41.98726657029014,-91.65915233177299
+272,Green Ash,178,,11/9/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,22.3,4.5,Institutional,5006.07,1464.5,124.88,26.1,2.22,83.8,5.6,35.7,10.19,18.01,41.98726889790717,-91.65884888401528
+273,Unidentified,63,,11/9/2022,,,,,Other,7.9,4.5,Institutional,,,,,,,,,,,41.98731580740549,-91.65887591885968
+274,Unidentified,82,,11/9/2022,,,,,Other,10.3,4.5,Institutional,,,,,,,,,,,41.98733350544176,-91.65892478173897
+275,Scotch Pine,134,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.8,4.5,Institutional,2846.01,791.3,67.48,19.8,1.69,59.5,3.98,25.4,7.24,12.9,41.9873113242648,-91.65897741152975
+276,Red Oak,144,,11/9/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,18,4.5,Institutional,3265.47,1552.9,132.43,33.4,2.84,70.8,4.74,30.2,8.61,16.19,41.98736586744662,-91.6589651917509
+277,Scotch Pine,77,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,9.6,4.5,Institutional,936.76,237.3,20.23,10.5,0.89,23.8,1.59,10.1,2.89,5.37,41.98734043050538,-91.65903254234483
+278,Scotch Pine,92,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,11.5,4.5,Institutional,1339.44,353.1,30.11,12.9,1.1,34.8,2.32,14.8,4.23,7.65,41.98737535287329,-91.65905646189528
+279,Scotch Pine,111,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,13.9,4.5,Institutional,1951.75,531.4,45.31,16,1.37,48.1,3.22,20.5,5.85,10.43,41.98740717276392,-91.65904575927391
+280,Princeton Sentry Ginkgo,8,"M. Cavanagh, K. Mahlberg, L. Steege",11/9/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,1,4.5,Institutional,97.88,0.4,0.04,0.1,0.01,0.5,0.04,0.2,0.06,0.11,41.9874202567232,-91.65917775331916
+281,Common Hackberry,136,,11/9/2022,2302,CEOC,Celtis occidentalis,Northern hackberry,Other,17,4.5,Institutional,2913.91,210.4,17.94,4.4,0.37,80.5,5.38,34.3,9.79,15.54,41.98754168086376,-91.65928462189565
+282,Unidentified,10.5,,11/9/2022,,,,,Other,1.3,4.5,Institutional,,,,,,,,,,,41.9876214925177,-91.65914378511356
+283,Tulip Tree,10.5,,11/9/2022,3852,LITU,Liriodendron tulipifera,Tulip tree,Other,1.3,4.5,Institutional,78.3,2,0.17,0.9,0.08,0.8,0.05,0.3,0.1,0.23,41.98769560117362,-91.6592117556533
+284,Black Oak,30,,11/9/2022,5001,QUVE,Quercus velutina,Black oak,Oak,3.8,4.5,Institutional,121.61,54.2,4.62,5.4,0.46,3.3,0.22,1.4,0.41,1.09,41.9877758379245,-91.65929216328333
+285,Sugar Maple,29,,11/9/2022,1680,ACSA2,Acer saccharum,Sugar maple,Maple,3.6,4.5,Institutional,133.1,40.7,3.47,3,0.26,5.3,0.35,2.3,0.64,1.26,41.98760927507082,-91.65951255449924
+286,Scotch Pine,138,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,17.3,4.5,Institutional,3017.27,840.9,71.71,20.5,1.74,60.8,4.06,25.9,7.39,13.2,41.987453378017364,-91.65961485355729
+287,Crabapple,95,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,11.9,4.5,Institutional,1153.67,629.9,53.71,20.7,1.76,15.3,1.02,6.5,1.86,4.65,41.9873566633202,-91.659714096961
+288,Crabapple,93,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,11.7,4.5,Institutional,1120.52,604.3,51.53,20.2,1.72,14.8,0.99,6.3,1.8,4.52,41.98716454903158,-91.65957090121792
+289,Scotch Pine,135,,11/9/2022,4498,PISY,Pinus sylvestris,Scots pine,Evergreen,16.9,4.5,Institutional,2879.86,801.1,68.32,19.9,1.7,59.8,4,25.5,7.27,12.97,41.98714404578647,-91.65949633891509
+290,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,41.98817163048724,-91.66015459602643
+291,Colorado Blue Spruce,20,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.5,4.5,Institutional,97.88,16.9,1.44,1.3,0.11,1.1,0.08,0.5,0.14,0.32,41.98823215624937,-91.66014111771922
+292,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,41.98828579397318,-91.66013213425005
+293,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,41.98834147227019,-91.66012365191848
+294,Colorado Blue Spruce,21,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.6,4.5,Institutional,97.88,18.2,1.55,1.4,0.12,1.2,0.08,0.5,0.15,0.34,41.98839814694699,-91.66011053425827
+295,Honey Locust,130,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,16.3,4.5,Institutional,2135.64,1486.1,126.73,35.7,3.04,44.7,2.99,19,5.43,11.46,41.98843228391025,-91.66045217782593
+296,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,41.98838904020536,-91.66001361513186
+297,Colorado Blue Spruce,24,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,3,4.5,Institutional,97.88,24,2.04,1.6,0.14,1.5,0.1,0.6,0.18,0.42,41.98835066677707,-91.65997095508789
+298,Colorado Blue Spruce,22,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.8,4.5,Institutional,97.88,21,1.79,1.5,0.13,1.3,0.09,0.6,0.16,0.38,41.98831334126052,-91.65992899463932
+299,Crabapple,38,,11/9/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,4.8,4.5,Institutional,132.36,68.3,5.82,5.6,0.48,3.3,0.22,1.4,0.4,1.1,41.98825572263144,-91.6599064632618
+300,Honey Locust,130,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,16.3,4.5,Institutional,2135.64,1486.1,126.73,35.7,3.04,44.7,2.99,19,5.43,11.46,41.9882310491564,-91.65999148225629
+301,Dogwood,43,,11/9/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,5.4,4.5,Institutional,167.52,148.3,12.65,10.2,0.87,4,0.27,1.7,0.49,1.62,41.98822244745414,-91.65969451286072
+302,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98851052555742,-91.66002170667412
+303,Colorado Blue Spruce,23,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.9,4.5,Institutional,97.88,22.4,1.91,1.6,0.13,1.4,0.09,0.6,0.17,0.4,41.98848772306187,-91.66002364586004
+304,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,41.9884661687356,-91.66002667881531
+305,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98844515841565,-91.6600107120392
+306,Eastern Red Cedar,10,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.3,4.5,Institutional,70.77,4.7,0.4,0.7,0.06,0.6,0.04,0.2,0.07,0.16,41.98843022563271,-91.65999400722875
+307,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98841651390874,-91.65997773234355
+308,Swamp White Oak,21,,11/9/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,2.6,4.5,Institutional,78.3,40.2,3.43,5.7,0.49,1.9,0.13,0.8,0.23,0.85,41.98840452218703,-91.65996218121128
+309,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98838930547345,-91.65994287940855
+310,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,41.98837478337508,-91.65991975244938
+311,Colorado Blue Spruce,23,,11/9/2022,4431,PIPU,Picea pungens,Blue spruce,Evergreen,2.9,4.5,Institutional,97.88,22.4,1.91,1.6,0.13,1.4,0.09,0.6,0.17,0.4,41.98838026894472,-91.6598948827431
+312,Eastern Red Cedar,12,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.5,4.5,Institutional,70.77,6.2,0.53,0.8,0.07,0.7,0.04,0.3,0.08,0.19,41.98835712645737,-91.65989540553447
+313,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98833958011858,-91.6598812548739
+314,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98832735565249,-91.65986077638524
+315,Eastern Red Cedar,10,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.3,4.5,Institutional,70.77,4.7,0.4,0.7,0.06,0.6,0.04,0.2,0.07,0.16,41.98830533136001,-91.6598452584902
+316,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98828169393689,-91.65982047070364
+317,Honey Locust,120,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,15,4.5,Institutional,1829.11,1212.2,103.37,31.5,2.69,39.8,2.66,17,4.84,10.19,41.98801569082287,-91.65763977328045
+318,Norway Maple,60,,11/9/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,7.5,4.5,Institutional,576.06,221.2,18.87,13.6,1.16,10.1,0.67,4.3,1.23,3.06,41.98799237302124,-91.65774221270112
+319,Autumn Brillance Serviceberry,7,,11/9/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98662074252637,-91.65632543176442

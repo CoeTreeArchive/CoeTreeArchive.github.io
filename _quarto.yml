@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Coe Tree Archive"
+  title: "Coe College Tree Archive"
   favicon: "images/logo.png"
   navbar:
     logo: "images/logo.png"

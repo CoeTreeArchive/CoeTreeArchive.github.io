@@ -62,9 +62,80 @@ df <- df %>%
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Writing the Files -----------------------------------------------------------
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+map_builder <- function(i){
+  map_code <- c(
+    "```{r}", "#| error: false", "#| echo: false", "#| message: false", 
+    "#| warning: false", paste("my_tree <- '", df$TreeID[i], "'", sep=""),
+    "# Importing packages", "library(tidyverse)", 
+    "library(sf)", "library(tmap)", "library(leaflet)", 
+    "library(leaflet.extras)", "", "# Remove scientific notation", 
+    "options(scipen = 999)", "", 
+    "#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::", 
+    "", "", 
+    "#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::", 
+    "## Formatting Set Up -----------------------------------------------------------", 
+    "#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::", 
+    "", "tree_shp <- st_read(\"all_tree_images/coe_tree_archive.shp\", quiet = TRUE) ", 
+    "", "# Formatting the names of planters", "format_names <- function(x){", 
+    "  if(is.na(x)){", "    output = \"Unknown\"", "  } else {", 
+    "    output = str_replace_all(x, pattern = \", \", replacement=\"<br>\")", 
+    "    output = paste(\"<br>\", output, sep=\"\")", "  }", 
+    "  return(output)", "}", "", "# Setting up the tree icons", 
+    "treeIcons <- iconList(", "  Oak = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/oak.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", "  Maple = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/maple.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", 
+    "  `Honey Locust` = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/honeylocust.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", "  Elm = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/elm.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", 
+    "  Ash = makeIcon(", "    iconUrl = \"all_tree_images/tree_icons/ash.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", "  Evergreen = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/evergreen.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", "  Crabapple = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/crabapple.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  ),", "  Other = makeIcon(", 
+    "    iconUrl = \"all_tree_images/tree_icons/other.png\",", 
+    "    iconWidth = 25, iconHeight = 50", "  )", ")", "", 
+    "# Processing", "", "tree_shp  <- tree_shp %>% ", "  rowwise %>% ", 
+    "  mutate(", "    formatted_names = format_names(planters),", 
+    "    ID = str_pad(ID, width = 3, side=\"left\", pad=\"0\")", "  )", "", 
+    "#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::", 
+    "# The Map ----------------------------------------------------------------------", 
+    "#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::", 
+    "", "mini_map <- tree_shp %>% filter(ID == my_tree)", 
+    "my_coords <- st_coordinates(mini_map)", "", "leaflet(mini_map, ", 
+    "        options = leafletOptions(minZoom = 15, maxZoom = 20, maxNativeZoom=20)) %>%", 
+    "  addMarkers(", "    icon = ~treeIcons[tree_grp], ", "    popup = ~paste(", 
+    "      '<h3>',species,\"</h3>\",", "      \"<hr> </hr>\",", 
+    "      \"<table>", "        <tr>", "        <th>Tree ID#:</th>", 
+    "        <th>\", ID, \"</th>", "        </tr>\",", "      \"<tr>", 
+    "        <td>Diameter:</td>", "        <td>\", dbh, \"in.</td>", 
+    "        </tr>\",", "      \"<tr>", 
+    "        <td>Carbon Sequestration: &nbsp; &nbsp; &nbsp;</td>", 
+    "        <td>\", c_stor_1, \"lbs</td>", "        </tr>\",", 
+    "      \"<tr>", "        <td>Avoided Runoff:</td>", 
+    "        <td>\", runoff_1, \"ft.<sup>3</sup>/yr</td>", 
+    "        </tr>\",", "      \"<tr>", "        <td>Air Pollution Removal:</td>", 
+    "        <td>\", poll_1, \"oz/yr</td>", "        </tr>\",", "      \"<tr>", 
+    "        <td>Planted By:</td>", "        <td>\", formatted_names, \"</td>", 
+    "        </tr>\",", "      \"</table>\"", "    )", "  ) %>% ", 
+    "  addResetMapButton() %>%", "  addFullscreenControl()%>% ", 
+    "  addProviderTiles(providers$OpenStreetMap.France) %>% ", 
+    "  setView(lat = my_coords[2], lng = my_coords[1], zoom = 18)", "", 
+    "```"
+  )
+  
+  return(map_code)
+}
+
 
 for (i in 1:length(df$TreeID)){
   
@@ -88,7 +159,7 @@ for (i in 1:length(df$TreeID)){
     )
   } else {
     i_tree_lines <- c(
-      paste("\n Replacement Value: $", df$`Replacement Value ($)`[i]),
+      paste("\n Replacement Value: $", df$`Replacement Value ($)`[i], sep = ""),
       paste("\n Carbon Storage: ", df$`Carbon Storage (lb)`[i], " lbs"),
       paste("\n Gross Carbon Removal: ", df$`Gross Carbon (lb/yr)`[i], " lbs/year"),
       paste("\n Avoided Runoff: ", df$`Avoided Runoff (ft3/yr)`[i], " ft<sup>3</sup>/year"),
@@ -138,6 +209,12 @@ for (i in 1:length(df$TreeID)){
     "",
     i_tree_lines,
     "",
+    "## **Location**",
+    "",
+    paste("Latitude, Longitude: ", df$latitude[i], ", ", df$longitude[i], sep=""),
+    "",
+    map_builder(i),
+    "",
     "## **Images**",
     "",
     image_lines
@@ -150,5 +227,4 @@ for (i in 1:length(df$TreeID)){
 }
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 

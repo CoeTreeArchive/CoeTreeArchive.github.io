@@ -202,7 +202,7 @@ main_csv <- as_tibble(main) %>%
   select(-c("geometry"))
 
 coords <- as_tibble(st_coordinates(main)) %>% 
-  rename(latitude = X, longitude = Y) %>% 
+  rename(latitude = Y, longitude = X) %>% 
   select(latitude, longitude)
 
 main_csv <- cbind(main_csv, coords)

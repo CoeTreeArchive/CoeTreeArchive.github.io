@@ -4,17 +4,17 @@ title: "**By the Numbers**"
 
 <br>
 
----
+------------------------------------------------------------------------
 
 <center>
 
 <p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 396,000 pounds </p>
 
-The total carbon sequestered by trees on the west side of Coe's campus
+The total carbon sequestered by trees on the west side of Coe's campus 
 
 </center>
 
----
+------------------------------------------------------------------------
 
 <center>
 
@@ -24,7 +24,7 @@ The additional carbon sequestered by trees on the west side of Coe's campus ever
 
 </center>
 
----
+------------------------------------------------------------------------
 
 <center>
 
@@ -34,7 +34,7 @@ The annual water runoff avoided from trees on the west side of Coe's campus
 
 </center>
 
----
+------------------------------------------------------------------------
 
 <center>
 
@@ -44,7 +44,7 @@ The annual removal of hazardous ambient air pollutants from trees on the west si
 
 </center>
 
----
+------------------------------------------------------------------------
 
 <br>
 
@@ -58,7 +58,7 @@ This all sounds quite complicated, so thankfully there is software that will do 
 
 ## **Access the Tree Data**
 
-A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in .CSV, .SHP (easiest for mapping in R and Python), and .KML (easiest for mapping in Google Earth and ArcGIS) formats.
+A central goal of the Coe College Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in .CSV, .SHP (easiest for mapping in R and Python), and .KML (easiest for mapping in Google Earth and ArcGIS) formats.
 
 <center>
 
@@ -72,7 +72,7 @@ A central goal of the Coe Tree Archive is to make engaging with Coe's natural en
 
 <br>
 
-Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io). This repository includes all images on the website. All software used in the project are open source and available for free.
+Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe College Tree Archive's GitHub repository linked here](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io). This repository includes all images on the website. All software used in the project are open source and available for free.
 
 <br>
 

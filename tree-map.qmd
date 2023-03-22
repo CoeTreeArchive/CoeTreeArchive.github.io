@@ -2,6 +2,10 @@
 title: "**Tree Map**"
 ---
 
+---
+The Tree Map from the Coe College Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them.
+
+
 <br>
 
 ```{r}
@@ -139,7 +143,7 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
         <td>", runoff_1, "ft.<sup>3</sup>/yr</td>
         </tr>",
       "<tr>
-        <td>Pollution Removal:</td>
+        <td>Air Pollution Removal:</td>
         <td>", poll_1, "oz/yr</td>
         </tr>",
       "<tr>
@@ -156,10 +160,10 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
   addControl(html = icon_legend, position = "bottomleft") 
 ```
 
+<br>
+
 ## **About the Tree Map**
 
-The Tree Map from the Coe Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them. For more detailed data on the our trees, see [By the Numbers](/tree-numbers.qmd).
+In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service. For more detailed data on the trees, see [By the Numbers](/tree-numbers.qmd).
 
-In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service.
-
-Finally, the Tree Map displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all appreciate the opportunities we have support others through the environment.
+The Tree Map also displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all appreciate the opportunities we have support others through nature.
