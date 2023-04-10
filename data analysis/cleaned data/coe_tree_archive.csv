@@ -1,8 +1,8 @@
 TreeID,Species,Circumference (cm),Planters,Date of Collection,i-Tree Species ID,i-Tree Species Code,i-Tree Species Scientific Name,i-Tree Species Common Name,Tree Map Group,DBH (inches),DBH Height (ft),i-Tree Land Use,Replacement Value ($),Carbon Storage (lb),Carbon Storage ($),Gross Carbon (lb/yr),Gross Carbon ($/yr),Avoided Runoff (ft3/yr),Avoided Runoff ($/yr),Removed Pollution (oz/yr),Removed Pollution ($/yr),Total Benefits ($/yr),latitude,longitude
-1,Autumn Brillance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658200719589,-91.6562834179619
-2,Autumn Brillance Serviceberry,7,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658723637167,-91.65618814356377
-3,Autumn Brillance Serviceberry,6.5,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.8,4.5,Institutional,54.75,1.4,0.12,0.8,0.07,0.3,0.02,0.1,0.04,0.12,41.98661128082747,-91.65623513154664
-4,Autumn Brillance Serviceberry,8,"D. Hayes, E. Nagao, K. VonBehren, T. Lister",11/9/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.98666613936655,-91.65629041325059
+1,Autumn Brilliance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658200719589,-91.6562834179619
+2,Autumn Brilliance Serviceberry,7,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98658723637167,-91.65618814356377
+3,Autumn Brilliance Serviceberry,6.5,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.8,4.5,Institutional,54.75,1.4,0.12,0.8,0.07,0.3,0.02,0.1,0.04,0.12,41.98661128082747,-91.65623513154664
+4,Autumn Brilliance Serviceberry,8,"D. Hayes, E. Nagao, K. VonBehren, T. Lister",11/9/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.98666613936655,-91.65629041325059
 5,Ginkgo,25,,9/14/2022,3452,GIBI,Ginkgo biloba,Ginkgo,Other,3.1,4.5,Institutional,98.7,7.4,0.63,0.7,0.06,2.2,0.15,1,0.27,0.48,41.98650858018138,-91.65656020517862
 6,European Beech,76,,9/14/2022,3313,FASY,Fagus sylvatica,European beech,Other,9.5,4.5,Institutional,1021.16,424.2,36.17,11.5,0.98,51.3,3.43,21.8,6.23,10.65,41.98643617320311,-91.65665073447013
 7,Bur Oak,19,,9/14/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.4,4.5,Institutional,78.3,9.5,0.81,1.1,0.1,2,0.13,0.8,0.24,0.46,41.98636096061271,-91.65676997952771
@@ -15,7 +15,7 @@ TreeID,Species,Circumference (cm),Planters,Date of Collection,i-Tree Species ID,
 14,Green Ash,199,,9/14/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,24.9,4.5,Institutional,6238.73,1846.5,157.46,29.6,2.53,97.8,6.54,41.7,11.89,20.96,41.98667698339622,-91.6569293595069
 15,Unidentified,24,,9/14/2022,,,,,Other,3,4.5,Institutional,,,,,,,,,,,41.98672193519847,-91.65679363018555
 16,Red Oak,246,,9/14/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,30.8,4.5,Institutional,9342.5,5726.7,488.35,71.7,6.11,85,5.68,36.2,10.34,22.14,41.98658311987565,-91.65665224830235
-17,Autumn Brillance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.9865917858038,-91.6563974824066
+17,Autumn Brilliance Serviceberry,8,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,1,4.5,Institutional,54.75,2.4,0.21,1,0.09,0.4,0.02,0.2,0.04,0.16,41.9865917858038,-91.6563974824066
 18,Japanese Maple,59,,9/21/2022,1674,ACPA,Acer palmatum,Japanese maple,Maple,7.4,4.5,Institutional,546.63,166.3,14.18,5.6,0.48,7.7,0.52,3.3,0.94,1.94,41.98667681090217,-91.65715636105021
 19,Bur Oak,21.5,"R. Dufoe, A. Montalbano, B. Sanfort",9/21/2022,4926,QUMA1,Quercus macrocarpa,Bur oak,Oak,2.7,4.5,Institutional,78.3,12.7,1.08,1.3,0.11,2.3,0.15,1,0.28,0.55,41.98658199563413,-91.65720079428878
 20,Dogwood,5,,9/21/2022,2572,CODR,Cornus drummondii,Roughleaf dogwood,Other,0.6,4.5,Institutional,54.75,0.7,0.06,0.6,0.05,0.4,0.03,0.2,0.05,0.12,41.98663000394573,-91.65741561936792
@@ -109,7 +109,7 @@ TreeID,Species,Circumference (cm),Planters,Date of Collection,i-Tree Species ID,
 108,Red Oak,197,,9/30/2022,4970,QURU,Quercus rubra,Northern red oak,Oak,24.7,4.5,Institutional,6139.09,3349.9,285.66,52.3,4.46,79.6,5.32,33.9,9.68,19.47,41.98718248770117,-91.65679280971119
 109,Freeman Maple,44,,9/30/2022,1683,ACFR,Acer x freemanii,Freeman maple,Maple,5.5,4.5,Institutional,186.4,219.8,18.74,18.2,1.55,12,0.8,5.1,1.46,3.81,41.9872409664797,-91.65668704578364
 110,Crabapple,40,,9/30/2022,3995,PYIO,Malus ioensis,Prairie crabapple,Crabapple,5,4.5,Institutional,143.62,75.5,6.44,6,0.51,3.5,0.23,1.5,0.43,1.17,41.98735540738671,-91.65688782002006
-111,Autumn Brillance Serviceberry,7.5,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.9867089367708,-91.65629444627874
+111,Autumn Brilliance Serviceberry,7.5,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.9867089367708,-91.65629444627874
 112,Green Ash,201,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,25.2,4.5,Institutional,6389.69,1893.6,161.48,30,2.56,99.5,6.65,42.4,12.09,21.31,41.98677194303147,-91.6561784070351
 113,Green Ash,284,,10/23/2022,3394,FRPE,Fraxinus pennsylvanica,Green ash,Ash,35.6,4.5,Institutional,12231.14,3914.7,333.82,45,3.84,162,10.83,69,19.69,34.36,41.98699728536548,-91.65655139094824
 114,Swamp White Oak,167,,10/23/2022,4839,QUBI,Quercus bicolor,Swamp white oak,Oak,20.9,4.5,Institutional,4398.58,2237.6,190.82,44.2,3.77,89.4,5.97,38.1,10.87,20.61,41.98586488432012,-91.65800899362631
@@ -317,4 +317,4 @@ TreeID,Species,Circumference (cm),Planters,Date of Collection,i-Tree Species ID,
 316,Eastern Red Cedar,11,,11/9/2022,3721,JUVI,Juniperus virginiana,Eastern red cedar,Evergreen,1.4,4.5,Institutional,70.77,5.4,0.46,0.7,0.06,0.6,0.04,0.3,0.07,0.18,41.98828169393689,-91.65982047070364
 317,Honey Locust,120,,11/9/2022,15105,GLTR1,Gleditsia triacanthos v. inermis,Thornless honeylocust,Honey Locust,15,4.5,Institutional,1829.11,1212.2,103.37,31.5,2.69,39.8,2.66,17,4.84,10.19,41.98801569082287,-91.65763977328045
 318,Norway Maple,60,,11/9/2022,1676,ACPL,Acer platanoides,Norway maple,Maple,7.5,4.5,Institutional,576.06,221.2,18.87,13.6,1.16,10.1,0.67,4.3,1.23,3.06,41.98799237302124,-91.65774221270112
-319,Autumn Brillance Serviceberry,7,,10/23/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98662074252637,-91.65632543176442
+319,Autumn Brilliance Serviceberry,7,,9/14/2022,324,AM,Amelanchier,serviceberry spp,Other,0.9,4.5,Institutional,54.75,1.9,0.16,0.9,0.08,0.3,0.02,0.1,0.04,0.14,41.98662074252637,-91.65632543176442
