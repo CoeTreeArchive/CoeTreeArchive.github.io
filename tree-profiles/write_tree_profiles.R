@@ -61,11 +61,31 @@ df <- df %>%
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Writing the Files -----------------------------------------------------------
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+table0_lines <- c(
+  "```{r}",
+  "#| error: false",
+  "#| echo: false",
+  "#| message: false",
+  "#| warning: false",
+  "#| tbl-colwidths: [30,40,30]",
+  "kable(df0)",
+  "```"
+)
+
+table1_lines <- c(
+  "```{r}",
+  "#| error: false",
+  "#| echo: false",
+  "#| message: false",
+  "#| warning: false",
+  "#| tbl-colwidths: [30,40,30]",
+  "kable(df1)",
+  "```"
+)
 
 map_builder <- function(i){
   map_code <- c(
@@ -136,6 +156,46 @@ map_builder <- function(i){
   return(map_code)
 }
 
+table_builder <- function(i){
+  table_code <- c(
+    "```{r}",                                                                             
+    "#| error: false",                                                                     
+    "#| echo: false",                                                                      
+    "#| message: false",                                                                   
+    "#| warning: false",                                                                   
+    paste("my_tree <- '", df$TreeID[i], "'", sep=""),                                                               
+    "library(tidyverse)",                                                                  
+    "library(sf)",                                                                         
+    "library(knitr)",                                                                      
+    "",                                                                                    
+    "tree_shp <- st_read(\"all_tree_images/coe_tree_archive.shp\", quiet = TRUE)",        
+    "",                                                                                    
+    "df <- st_drop_geometry(tree_shp) %>% ",                                               
+    "  filter(str_pad(ID, width = 3, side = \"left\", pad = \"0\") == my_tree) %>% ",      
+    "  select(",                                                                           
+    "    plant, dbh, rep_val, c_stor_1, gr_c_1, runoff_1, poll_1",                         
+    "  ) %>% ",                                                                            
+    "  pivot_longer(cols = 2:7, values_to = 'i-Tree Eco Estimate', names_to = 'Variable')",
+    "",                                                                                    
+    "df$Variable <- c(",                                                                   
+    "  'Diameter at Breast Height (inches)',",                                             
+    "  'Replacement Value ($)',",                                                          
+    "  'Carbon Storage (lbs)',",                                                           
+    "  'Gross Carbon Removal (lbs/year)',",                                                
+    "  'Avoided Runoff (ft<sup>3</sup>/year)',",                                           
+    "  'Air Pollution Removal (oz/year)'",                                                 
+    ")",                                                                                   
+    "",                                                                                    
+    "df0 <- df[1,]",                                                                       
+    "colnames(df0) <- c('Measurement Date', 'Variable', 'Measured Value')",                
+    "",                                                                                    
+    "df1 <- df[2:6,]",                                                                     
+    "colnames(df1) <- c('Measurement Date', 'Variable', 'i-Tree Eco Estimated Value')",    
+    "```"
+  )
+  
+  return(table_code)
+}
 
 for (i in 1:length(df$TreeID)){
   
@@ -148,24 +208,24 @@ for (i in 1:length(df$TreeID)){
     names <- df$Planters[i]
   }
   
-  # Write the i-Tree Eco Estimate lines
-  if (df$Species[i] == "Unidentified"){
-    i_tree_lines <- c(
-      "\n Replacement Value: Not Available",
-      "\n Carbon Storage: Not Available", 
-      "\n Gross Carbon Removal: Not Available",
-      "\n Avoided Runoff: Not Available",
-      "\n Air Pollution Removal: Not Available"
-    )
-  } else {
-    i_tree_lines <- c(
-      paste("\n Replacement Value: $", df$`Replacement Value ($)`[i], sep = ""),
-      paste("\n Carbon Storage: ", df$`Carbon Storage (lb)`[i], " lbs"),
-      paste("\n Gross Carbon Removal: ", df$`Gross Carbon (lb/yr)`[i], " lbs/year"),
-      paste("\n Avoided Runoff: ", df$`Avoided Runoff (ft3/yr)`[i], " ft<sup>3</sup>/year"),
-      paste("\n Air Pollution Removal: ", df$`Removed Pollution (oz/yr)`[i], " oz/year")
-    )
-  }
+  # # Write the i-Tree Eco Estimate lines
+  # if (df$Species[i] == "Unidentified"){
+  #   i_tree_lines <- c(
+  #     "\n Replacement Value: Not Available",
+  #     "\n Carbon Storage: Not Available", 
+  #     "\n Gross Carbon Removal: Not Available",
+  #     "\n Avoided Runoff: Not Available",
+  #     "\n Air Pollution Removal: Not Available"
+  #   )
+  # } else {
+  #   i_tree_lines <- c(
+  #     paste("\n Replacement Value: $", df$`Replacement Value ($)`[i], sep = ""),
+  #     paste("\n Carbon Storage: ", df$`Carbon Storage (lb)`[i], " lbs"),
+  #     paste("\n Gross Carbon Removal: ", df$`Gross Carbon (lb/yr)`[i], " lbs/year"),
+  #     paste("\n Avoided Runoff: ", df$`Avoided Runoff (ft3/yr)`[i], " ft<sup>3</sup>/year"),
+  #     paste("\n Air Pollution Removal: ", df$`Removed Pollution (oz/yr)`[i], " oz/year")
+  #   )
+  # }
   
   # Write the image lines
   
@@ -196,18 +256,18 @@ for (i in 1:length(df$TreeID)){
     "",
     "<br>",
     "",
-    "## **More Information**",
-    "::: column-margin",
-    '<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>',
-    ":::",
+    paste("\nPlanted By: ", names),
     "",
-    paste("\nDate Recorded: ", df$`Date of Collection`[i]),
-    paste("\nDiameter at Breast Height: ", df$`DBH (inches)`[i], " inches"),
-    paste("\nPlanters: ", names),
+    table_builder(i),
+    "## **Size Measurements**",
+    "",
+    table0_lines,
     "",
     "## **i-Tree Eco Estimates**",
     "",
-    i_tree_lines,
+    table1_lines,
+    "",
+    "[Read more about these estimates](https://www.itreetools.org/support/resources-overview/i-tree-methods-and-files).",
     "",
     "## **Location**",
     "",
@@ -217,7 +277,11 @@ for (i in 1:length(df$TreeID)){
     "",
     "## **Images**",
     "",
-    image_lines
+    image_lines,
+    "",
+    "::: column-margin",
+    '<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>',
+    ":::"
   )
   
   writeLines(my_lines, fileConn)
@@ -227,4 +291,3 @@ for (i in 1:length(df$TreeID)){
 }
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-

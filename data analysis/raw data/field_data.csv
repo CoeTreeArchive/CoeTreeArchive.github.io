@@ -1,8 +1,8 @@
 ﻿tree_id,identification,circum (inches),planters,date
 1,Autumn Brillance Serviceberry,7,,9/14/2022
-2,Autumn Brillance Serviceberry,7,,9/14/2022
+2,Autumn Brillance Serviceberry,7,,10/23/2022
 3,Autumn Brillance Serviceberry,6.5,,9/14/2022
-4,Autumn Brillance Serviceberry,8,,9/14/2022
+4,Autumn Brillance Serviceberry,8,"D. Hayes, E. Nagao, K. VonBehren, T. Lister",11/9/2022
 5,Ginkgo,25,,9/14/2022
 6,European Beech,76,,9/14/2022
 7,Bur Oak,19,,9/14/2022
@@ -28,7 +28,7 @@
 27,Black Oak,113.5,,9/21/2022
 28,Pin Oak,190.5,,9/21/2022
 29,Common Hackberry,249,,9/21/2022
-30,Tulip Tree,6,,9/21/2022
+30,Tulip Tree,6,"B. Ellsworth, N. Mirelez",9/21/2022
 31,Cottonwood,203,,9/21/2022
 32,Cottonwood,167,,9/21/2022
 33,Autumn Fest Maple,6,,9/21/2022
@@ -65,7 +65,7 @@
 64,Sentry Linden,27,"E. Brinkman, C. Hackenmiller, G. Pisarik, A. Reinstein",9/30/2022
 65,Sentry Elm,14,"P. Cooper, P. Shevchuk, A. Valdiva",9/30/2022
 66,Cathedral Elm,29,"S. Craig, G. Petersen",9/30/2022
-67,Autumn Fest Maple,21,"S. Check, A. Forman, C. Pitstick",9/30/2022
+67,Autumn Fest Maple,21,"S. Cheek, A. Forman, C. Pitstick",9/30/2022
 68,Swamp White Oak,21,"M. Cargille, E. Lassen, A. Steeber",9/30/2022
 69,Pin Oak,160,,9/30/2022
 70,Sentry Elm,14,,9/30/2022
@@ -159,7 +159,7 @@
 158,Freeman Maple,61,,10/23/2022
 159,Freeman Maple,53,,10/23/2022
 160,Honey Locust,212,,10/23/2022
-161,Autumn Fest Maple,19.5,,10/23/2022
+161,Autumn Fest Maple,19.5,"D. Robertson, H. Schipper, A. Ward",10/23/2022
 162,Norway Maple,155,,10/23/2022
 163,Green Ash,186,,10/23/2022
 164,Princeton Sentry Ginkgo,11,"D. Robertson, H. Schipper, A. Ward",10/23/2022
@@ -317,4 +317,4 @@
 316,Eastern Red Cedar,11,,11/9/2022
 317,Honey Locust,120,,11/9/2022
 318,Norway Maple,60,,11/9/2022
-319,Autumn Brillance Serviceberry,7,,11/9/2022
+319,Autumn Brillance Serviceberry,7,,9/14/2022
