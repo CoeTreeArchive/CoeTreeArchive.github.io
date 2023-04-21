@@ -2,6 +2,8 @@
 title: "**Norway Maple**"
 description: "Tree ID: 009"
 image: "all_tree_images/009/main.jpg"
+author: "Cacao Bragatto"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Freeman Maple**"
 description: "Tree ID: 175"
 image: "all_tree_images/175/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

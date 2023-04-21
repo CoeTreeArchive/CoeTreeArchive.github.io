@@ -2,6 +2,8 @@
 title: "**Swamp White Oak**"
 description: "Tree ID: 131"
 image: "all_tree_images/131/main.jpg"
+author: "David Hayes-zelnut"
+author-title: 'Tree Name'
 ---
 
 <br>

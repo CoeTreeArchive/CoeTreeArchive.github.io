@@ -2,6 +2,8 @@
 title: "**Scotch Pine**"
 description: "Tree ID: 233"
 image: "all_tree_images/233/main.jpg"
+author: "Keniese Evergreen"
+author-title: 'Tree Name'
 ---
 
 <br>

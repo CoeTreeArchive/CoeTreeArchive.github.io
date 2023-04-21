@@ -2,6 +2,8 @@
 title: "**Valley Forge Elm**"
 description: "Tree ID: 085"
 image: "all_tree_images/085/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

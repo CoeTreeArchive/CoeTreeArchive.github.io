@@ -2,6 +2,8 @@
 title: "**Autumn Fest Maple**"
 description: "Tree ID: 081"
 image: "all_tree_images/081/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

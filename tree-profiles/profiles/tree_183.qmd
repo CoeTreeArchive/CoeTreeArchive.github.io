@@ -2,6 +2,8 @@
 title: "**Dogwood**"
 description: "Tree ID: 183"
 image: "all_tree_images/183/main.jpg"
+author: "Laurel Riskedahl"
+author-title: 'Tree Name'
 ---
 
 <br>

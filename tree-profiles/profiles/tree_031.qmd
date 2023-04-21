@@ -2,6 +2,8 @@
 title: "**Cottonwood**"
 description: "Tree ID: 031"
 image: "all_tree_images/031/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

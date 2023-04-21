@@ -2,6 +2,8 @@
 title: "**Sentry Linden**"
 description: "Tree ID: 095"
 image: "all_tree_images/095/main.jpg"
+author: "Niall Peach Tree"
+author-title: 'Tree Name'
 ---
 
 <br>

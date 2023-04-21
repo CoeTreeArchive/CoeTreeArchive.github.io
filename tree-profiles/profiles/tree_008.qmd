@@ -2,6 +2,8 @@
 title: "**Princeton Elm**"
 description: "Tree ID: 008"
 image: "all_tree_images/008/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

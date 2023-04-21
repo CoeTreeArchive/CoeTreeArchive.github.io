@@ -2,6 +2,8 @@
 title: "**Scotch Pine**"
 description: "Tree ID: 267"
 image: "all_tree_images/267/main.jpg"
+author: "Russell Palm-y"
+author-title: 'Tree Name'
 ---
 
 <br>

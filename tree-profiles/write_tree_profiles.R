@@ -3,7 +3,7 @@
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 # 
 # Contributor(s) : Evan Perry
-# Last Revised : 2022-12-13
+# Last Revised : 2023-04-21
 # Version : 1
 # 
 # Purpose : 
@@ -45,6 +45,12 @@ options(scipen = 999)
 
 # Read in the data on each tree
 df <- read_csv("data analysis/cleaned data/coe_tree_archive.csv")
+temp <- read_csv("data analysis/cleaned data/faculty-tree-names.csv")
+df <- merge(df, temp, by = "TreeID", all.x = T)
+df <- df %>% 
+  mutate(
+    Name = ifelse(is.na(Name), "Unnamed", Name)
+  )
 
 # Add a variable indicating that 
 trees_w_pics <- list.files("tree-profiles/profiles/all_tree_images")
@@ -58,6 +64,7 @@ df <- df %>%
                        paste("all_tree_images/", TreeID, "/main.jpg", sep=""),
                        "all_tree_images/not_available.png")
   )
+
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -252,6 +259,8 @@ for (i in 1:length(df$TreeID)){
     paste("title: ", '"**', df$Species[i], '**"', sep=""),
     paste("description: ", '"Tree ID: ', df$TreeID[i], '"', sep=""),
     paste("image: ", '"', df$cover_pic[i], '"', sep=""),
+    paste('author: ', '"', df$Name[i], '"', sep = ""),
+    "author-title: 'Tree Name'",
     "---",
     "",
     "<br>",

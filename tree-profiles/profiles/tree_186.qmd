@@ -2,6 +2,8 @@
 title: "**White Ash**"
 description: "Tree ID: 186"
 image: "all_tree_images/186/main.jpg"
+author: "Michelle Um-bark-er Mackey"
+author-title: 'Tree Name'
 ---
 
 <br>

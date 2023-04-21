@@ -2,6 +2,8 @@
 title: "**White Pine**"
 description: "Tree ID: 266"
 image: "all_tree_images/266/main.jpg"
+author: "Cooper Jacks Pine"
+author-title: 'Tree Name'
 ---
 
 <br>

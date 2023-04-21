@@ -2,6 +2,8 @@
 title: "**White Pine**"
 description: "Tree ID: 265"
 image: "all_tree_images/265/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Common Hackberry**"
 description: "Tree ID: 120"
 image: "all_tree_images/120/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

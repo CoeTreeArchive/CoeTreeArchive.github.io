@@ -2,6 +2,8 @@
 title: "**Kentucky Coffee Tree**"
 description: "Tree ID: 173"
 image: "all_tree_images/173/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Sentry Linden**"
 description: "Tree ID: 012"
 image: "all_tree_images/012/main.jpg"
+author: "Cass-tree Cozine"
+author-title: 'Tree Name'
 ---
 
 <br>

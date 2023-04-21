@@ -2,6 +2,8 @@
 title: "**Honey Locust**"
 description: "Tree ID: 099"
 image: "all_tree_images/099/main.jpg"
+author: "Christo-fir Hatchell"
+author-title: 'Tree Name'
 ---
 
 <br>

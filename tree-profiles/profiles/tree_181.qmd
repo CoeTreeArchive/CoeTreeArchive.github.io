@@ -2,6 +2,8 @@
 title: "**Red Sunset Maple**"
 description: "Tree ID: 181"
 image: "all_tree_images/181/main.jpg"
+author: "Spencer Sprout"
+author-title: 'Tree Name'
 ---
 
 <br>

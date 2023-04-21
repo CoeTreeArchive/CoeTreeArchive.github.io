@@ -2,6 +2,8 @@
 title: "**Sugar Maple**"
 description: "Tree ID: 035"
 image: "all_tree_images/035/main.jpg"
+author: "Jen Fir-guson"
+author-title: 'Tree Name'
 ---
 
 <br>

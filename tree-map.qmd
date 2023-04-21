@@ -2,9 +2,11 @@
 title: "**Tree Map**"
 ---
 
----
+------------------------------------------------------------------------
+
 The Tree Map from the Coe College Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them.
 
+[Learn more about tree names.](tree-names.qmd)
 
 <br>
 
@@ -34,6 +36,14 @@ options(scipen = 999)
 
 tree_shp <- st_read("data analysis/cleaned data/coe_tree_archive.shp",
                     quiet = TRUE) 
+my_names <- read_csv("data analysis/cleaned data/faculty-tree-names.csv")
+colnames(my_names) <- c("ID", "tree_name")
+
+tree_shp <- merge(tree_shp, my_names, by="ID", all.x = T)
+tree_shp <- tree_shp %>% 
+  mutate(
+    tree_name = ifelse(is.na(tree_name), "Unnamed", tree_name)
+  )
 
 # Formatting the names of planters
 format_names <- function(x){
@@ -129,6 +139,10 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
         <tr>
         <th>Tree ID#:</th>
         <th>", ID, "</th>
+        </tr>",
+      "<tr>
+        <td>Name:</td>
+        <td>", tree_name, "</td>
         </tr>",
       "<tr>
         <td>Diameter:</td>

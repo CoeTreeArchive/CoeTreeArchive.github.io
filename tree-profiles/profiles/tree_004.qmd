@@ -2,11 +2,14 @@
 title: "**Autumn Brilliance Serviceberry**"
 description: "Tree ID: 004"
 image: "all_tree_images/004/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>
 
-Planted By: D. Hayes, E. Nagao, K. VonBehren, T. Lister
+
+Planted By:  D. Hayes, E. Nagao, K. VonBehren, T. Lister
 
 ```{r}
 #| error: false
@@ -42,7 +45,6 @@ colnames(df0) <- c('Measurement Date', 'Variable', 'Measured Value')
 df1 <- df[2:6,]
 colnames(df1) <- c('Measurement Date', 'Variable', 'i-Tree Eco Estimated Value')
 ```
-
 ## **Size Measurements**
 
 ```{r}
@@ -203,7 +205,8 @@ leaflet(mini_map,
 
 ## **Images**
 
-![This special tree was planted as a part of the inauguration of Coe College's 16th president, David Hayes. From left to right, President David Hayes ('91), Enzo Nagao ('20) of Trees Forever, Kent VonBehren ('91) of Trees Forever, and Student Body President Toby Lister ('24), all plant the Autumn Brilliance Serviceberry on the morning of October 1, 2022.](all_tree_images/004/main.jpg)
+
+ ![](all_tree_images/004/main.jpg)
 
 ::: column-margin
 <center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>

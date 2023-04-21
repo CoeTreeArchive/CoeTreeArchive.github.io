@@ -2,6 +2,8 @@
 title: "**Black Oak**"
 description: "Tree ID: 258"
 image: "all_tree_images/258/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Crabapple**"
 description: "Tree ID: 060"
 image: "all_tree_images/060/main.jpg"
+author: "Vanessa Cas-tree-llo"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Sentry Elm**"
 description: "Tree ID: 065"
 image: "all_tree_images/065/main.jpg"
+author: "Amy Cherry"
+author-title: 'Tree Name'
 ---
 
 <br>

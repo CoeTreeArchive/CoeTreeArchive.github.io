@@ -2,6 +2,8 @@
 title: "**Autumn Brilliance Serviceberry**"
 description: "Tree ID: 111"
 image: "all_tree_images/111/main.jpg"
+author: "Marie Pear"
+author-title: 'Tree Name'
 ---
 
 <br>

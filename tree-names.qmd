@@ -1,0 +1,42 @@
+---
+title: "**Named Trees**"
+---
+
+You might notice that some trees have names that sound pretty familiar. Each tree name in the Coe College Tree Archive is a tree pun based on the name of a member of Coe's staff or faculty. The current version of the archive contains 86 named trees, playing off the names of these individuals from all around the College. These names are the product of an effort from staff and faculty members who submitted their best tree puns to include in the Coe College Tree Archive. A special thank you for this **phenomenal** addition to the project goes to Caio Bragatto (Cacao Bragatto) and Marc Falk (Bark Falk) for conceiving and leading the effort.
+
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+#| tbl-colwidths: [30, 70]
+library(tidyverse)
+library(kableExtra)
+df <- read_csv("data analysis/cleaned data/faculty-tree-names.csv")
+df <- df[order(df$TreeID),]
+df$TreeID <- str_pad(df$TreeID, width =3, side = "left", pad = "0")
+
+dt_url <- paste(
+  'https://coetreearchive.github.io/tree-profiles/profiles/tree_', 
+  df$TreeID, '.html', sep = "")
+
+df <- df %>% 
+  mutate(TreeID = cell_spec(TreeID, "html", link = dt_url)) 
+
+colnames(df) <- c("Tree ID #", "Tree Name")
+
+df %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(bootstrap_options = c("hover", "condensed")) 
+# df <- df %>% 
+#   mutate(TreeID = cell_spec(TreeID, "html", dt_url)) 
+# # %>%
+# #   kable("html", escape = FALSE) %>%
+# #   kable_styling(bootstrap_options = c("hover", "condensed")) 
+# 
+# kable(df, "html", escape = FALSE)
+# 
+# ?kable()
+
+```

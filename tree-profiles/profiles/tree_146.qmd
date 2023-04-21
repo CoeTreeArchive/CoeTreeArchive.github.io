@@ -2,6 +2,8 @@
 title: "**Princeton Sentry Ginkgo**"
 description: "Tree ID: 146"
 image: "all_tree_images/146/main.jpg"
+author: "Jesse Pawpaw"
+author-title: 'Tree Name'
 ---
 
 <br>

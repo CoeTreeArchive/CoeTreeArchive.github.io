@@ -2,6 +2,8 @@
 title: "**Sentry Linden**"
 description: "Tree ID: 064"
 image: "all_tree_images/064/main.jpg"
+author: "Chestnut Lensing"
+author-title: 'Tree Name'
 ---
 
 <br>

@@ -2,6 +2,8 @@
 title: "**Tulip Tree**"
 description: "Tree ID: 041"
 image: "all_tree_images/041/main.jpg"
+author: "Kate Aspen-gren"
+author-title: 'Tree Name'
 ---
 
 <br>

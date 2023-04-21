@@ -2,6 +2,8 @@
 title: "**Hawthorn**"
 description: "Tree ID: 121"
 image: "all_tree_images/121/main.jpg"
+author: "Dennis Bark-nett"
+author-title: 'Tree Name'
 ---
 
 <br>

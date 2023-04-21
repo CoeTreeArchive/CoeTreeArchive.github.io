@@ -2,6 +2,8 @@
 title: "**Red Maple**"
 description: "Tree ID: 139"
 image: "all_tree_images/139/main.jpg"
+author: "Mario Affa-tree-gato"
+author-title: 'Tree Name'
 ---
 
 <br>

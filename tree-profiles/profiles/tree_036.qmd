@@ -2,6 +2,8 @@
 title: "**Bur Oak**"
 description: "Tree ID: 036"
 image: "all_tree_images/036/main.jpg"
+author: "Am-Bur Shaw"
+author-title: 'Tree Name'
 ---
 
 <br>

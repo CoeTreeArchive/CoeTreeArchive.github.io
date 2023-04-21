@@ -2,6 +2,8 @@
 title: "**Eastern Red Cedar**"
 description: "Tree ID: 310"
 image: "all_tree_images/not_available.png"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

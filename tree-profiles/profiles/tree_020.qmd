@@ -2,6 +2,8 @@
 title: "**Dogwood**"
 description: "Tree ID: 020"
 image: "all_tree_images/020/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

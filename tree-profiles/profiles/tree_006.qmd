@@ -2,6 +2,8 @@
 title: "**European Beech**"
 description: "Tree ID: 006"
 image: "all_tree_images/006/main.jpg"
+author: "Ellen Leaf"
+author-title: 'Tree Name'
 ---
 
 <br>

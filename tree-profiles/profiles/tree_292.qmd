@@ -2,6 +2,8 @@
 title: "**Colorado Blue Spruce**"
 description: "Tree ID: 292"
 image: "all_tree_images/not_available.png"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>

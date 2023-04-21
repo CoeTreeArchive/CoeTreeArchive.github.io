@@ -2,6 +2,8 @@
 title: "**Hawthorn**"
 description: "Tree ID: 169"
 image: "all_tree_images/169/main.jpg"
+author: "Harleaf Hansen"
+author-title: 'Tree Name'
 ---
 
 <br>

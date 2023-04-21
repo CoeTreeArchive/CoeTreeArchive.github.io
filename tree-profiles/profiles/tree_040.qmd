@@ -2,6 +2,8 @@
 title: "**Silver Birch**"
 description: "Tree ID: 040"
 image: "all_tree_images/040/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
 ---
 
 <br>
