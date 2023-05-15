@@ -1,0 +1,302 @@
+Tree ID,Species Name,DBH (in),Height (ft),Crown Height (ft),Crown Width (ft),Canopy Cover (ft^2),Tree Condition,Leaf Area (ft^2),Leaf Biomass (lb),Leaf Area Index,Basal Area (ft^2),Street Tree,Date,Crew,Land Use
+1,Serviceberry spp,0.9,11.8,6.0,6.8,36.7,FAIR,28.7,0.4,0.8,0.004,NO,,,Institutional
+2,Serviceberry spp,0.9,11.8,6.0,6.8,36.7,FAIR,28.7,0.4,0.8,0.004,NO,,,Institutional
+3,Serviceberry spp,0.8,11.8,6.0,6.6,34.3,FAIR,26.4,0.4,0.8,0.003,NO,,,Institutional
+4,Serviceberry spp,1.0,11.8,6.0,7.1,39.0,FAIR,31.0,0.5,0.8,0.005,NO,,,Institutional
+5,Ginkgo,3.1,22.1,11.6,11.8,108.5,FAIR,191.2,3.8,1.8,0.052,NO,,,Institutional
+6,European beech,9.5,55.2,39.5,26.8,562.0,FAIR,"4,371.3",44.8,7.8,0.492,NO,,,Institutional
+7,Bur oak,2.4,21.9,11.5,9.9,76.9,FAIR,166.8,3.4,2.2,0.031,NO,,,Institutional
+8,American elm,2.6,21.3,11.2,11.4,102.0,FAIR,163.7,2.4,1.6,0.037,NO,,,Institutional
+9,Norway maple,2.8,21.6,12.8,8.3,54.5,FAIR,160.4,1.8,2.9,0.043,NO,,,Institutional
+10,Ginkgo,23.8,72.9,42.8,38.7,"1,175.4",FAIR,"6,482.4",127.6,5.5,3.090,NO,,,Institutional
+11,Siberian elm,2.9,19.7,10.5,11.4,102.0,FAIR,189.5,2.6,1.9,0.046,NO,,,Institutional
+12,American basswood,10.2,47.0,24.8,21.1,350.5,FAIR,"2,381.4",14.2,6.8,0.568,NO,,,Institutional
+13,Pin oak,33.6,100.8,69.3,50.5,"2,000.7",FAIR,"19,527.6",362.0,9.8,6.159,NO,,,Institutional
+14,Green ash,24.9,70.4,43.0,40.5,"1,286.1",FAIR,"8,338.0",111.4,6.5,3.383,NO,,,Institutional
+15,Northern red oak,30.8,90.7,44.3,48.8,"1,872.4",FAIR,"7,247.7",118.3,3.9,5.176,NO,,,Institutional
+16,Serviceberry spp,1.0,11.8,6.0,7.1,39.0,FAIR,31.0,0.5,0.8,0.005,NO,,,Institutional
+17,Japanese maple,7.4,19.2,12.7,16.7,218.8,FAIR,659.4,7.6,3.0,0.299,NO,,,Institutional
+18,Bur oak,2.7,23.1,12.2,10.4,84.2,FAIR,196.5,4.0,2.3,0.040,NO,,,Institutional
+19,Roughleaf dogwood,0.6,13.3,4.8,8.3,53.7,FAIR,33.0,0.4,0.6,0.002,NO,,,Institutional
+20,Swamp white oak,3.6,26.8,14.5,11.7,108.3,FAIR,271.5,5.5,2.5,0.071,NO,,,Institutional
+21,Bur oak,2.3,21.5,11.2,9.7,74.5,FAIR,157.6,3.2,2.1,0.029,NO,,,Institutional
+22,Swamp white oak,3.4,26.0,14.0,11.4,102.7,FAIR,246.6,5.0,2.4,0.063,NO,,,Institutional
+23,Tulip tree,2.8,32.7,14.3,10.6,88.6,FAIR,236.5,2.9,2.7,0.043,NO,,,Institutional
+24,Black maple,21.4,69.6,45.7,26.2,538.4,FAIR,"7,306.1",84.2,13.6,2.499,NO,,,Institutional
+25,Prairie crabapple,2.6,14.6,9.5,10.1,80.1,FAIR,121.9,2.2,1.5,0.037,NO,,,Institutional
+26,Black oak,14.2,63.0,34.0,27.6,597.7,FAIR,"4,292.9",62.1,7.2,1.100,NO,,,Institutional
+27,Pin oak,23.9,82.0,54.6,41.3,"1,336.9",FAIR,"10,887.1",201.8,8.1,3.116,NO,,,Institutional
+28,Northern hackberry,31.2,96.2,52.6,52.4,"2,160.4",FAIR,"11,892.0",126.7,5.5,5.311,NO,,,Institutional
+29,Tulip tree,0.8,11.5,9.0,6.1,28.8,FAIR,49.8,0.6,1.7,0.003,NO,,,Institutional
+30,Cottonwood spp,25.4,75.9,49.1,38.0,"1,133.6",FAIR,"9,267.9",128.3,8.2,3.520,NO,,,Institutional
+31,Cottonwood spp,20.9,74.3,45.8,32.7,840.8,FAIR,"7,320.8",101.3,8.7,2.383,NO,,,Institutional
+32,Sugar maple,0.8,11.3,4.0,4.6,16.5,FAIR,25.1,0.3,1.5,0.003,NO,,,Institutional
+33,White ash,29.4,78.4,39.5,45.0,"1,589.1",FAIR,"5,850.2",68.1,3.7,4.716,NO,,,Institutional
+34,Sugar maple,8.6,53.4,30.4,18.4,265.7,FAIR,"2,109.6",26.0,7.9,0.404,NO,,,Institutional
+35,Bur oak,9.4,47.3,27.3,20.8,341.0,FAIR,"2,318.0",46.7,6.8,0.482,NO,,,Institutional
+36,Swamp white oak,2.4,21.9,11.5,9.9,76.9,FAIR,146.6,2.9,1.9,0.031,NO,,,Institutional
+37,Norway maple,9.8,38.1,25.0,15.9,198.0,FAIR,"1,437.3",15.9,7.3,0.524,NO,,,Institutional
+38,Northern red oak,2.2,21.9,10.5,10.4,85.5,FAIR,159.6,2.6,1.9,0.026,NO,,,Institutional
+39,European silver birch,7.9,41.7,24.8,21.1,349.2,FAIR,"1,790.0",21.8,5.1,0.341,NO,,,Institutional
+40,Tulip tree,13.0,75.0,35.9,25.6,515.8,FAIR,"4,720.1",57.0,9.2,0.922,NO,,,Institutional
+41,Bur oak,2.6,22.7,12.0,10.2,81.7,FAIR,186.2,3.7,2.3,0.037,NO,,,Institutional
+42,White oak,1.8,20.5,10.6,9.1,64.8,FAIR,117.9,1.8,1.8,0.018,NO,,,Institutional
+43,Black oak,25.6,83.8,41.8,42.1,"1,392.7",FAIR,"6,427.0",93.0,4.6,3.576,NO,,,Institutional
+44,Black oak,48.9,87.0,44.7,69.0,"3,743.7",FAIR,"13,183.2",190.8,3.5,13.046,NO,,,Institutional
+45,White oak,58.9,92.2,51.7,92.2,"6,670.7",FAIR,"28,081.0",418.4,4.2,18.928,NO,,,Institutional
+46,Swamp white oak,8.3,43.8,25.1,19.1,286.5,FAIR,"1,529.7",30.8,5.3,0.376,NO,,,Institutional
+47,American basswood,18.7,64.6,37.2,31.7,787.6,FAIR,"6,879.4",41.1,8.7,1.908,NO,,,Institutional
+48,Green ash,17.2,58.5,34.8,31.5,778.9,FAIR,"5,901.7",78.8,7.6,1.614,NO,,,Institutional
+49,White oak,39.5,91.2,51.7,66.2,"3,438.4",FAIR,"11,413.1",170.1,3.3,8.513,NO,,,Institutional
+50,Northern red oak,16.2,67.7,36.1,31.7,790.2,FAIR,"5,654.2",92.3,7.2,1.432,NO,,,Institutional
+51,Prairie crabapple,2.9,15.1,9.8,10.6,88.0,FAIR,139.8,2.5,1.6,0.046,NO,,,Institutional
+52,Northern red oak,14.0,62.1,34.2,28.8,649.9,FAIR,"4,889.9",79.8,7.5,1.069,NO,,,Institutional
+53,Swamp white oak,2.8,23.6,12.5,10.5,86.8,FAIR,182.1,3.7,2.1,0.043,NO,,,Institutional
+54,Red maple,9.9,50.7,29.0,18.4,266.9,FAIR,"1,907.2",26.3,7.1,0.535,NO,,,Institutional
+55,Siberian elm,3.0,20.1,10.7,11.6,105.3,FAIR,200.0,2.8,1.9,0.049,NO,,,Institutional
+56,Swamp white oak,12.5,56.5,33.0,25.7,520.6,FAIR,"3,734.9",75.2,7.2,0.852,NO,,,Institutional
+57,Green ash,20.1,63.2,38.0,35.0,963.5,FAIR,"6,615.9",88.4,6.9,2.204,NO,,,Institutional
+58,Prairie crabapple,2.9,15.1,9.8,10.6,88.0,FAIR,139.8,2.5,1.6,0.046,NO,,,Institutional
+59,Prairie crabapple,2.9,15.1,9.8,10.6,88.0,FAIR,139.8,2.5,1.6,0.046,NO,,,Institutional
+60,American elm,3.0,23.0,12.2,12.1,115.1,FAIR,204.1,3.0,1.8,0.049,NO,,,Institutional
+61,Bur oak,2.6,22.7,12.0,10.2,81.7,FAIR,186.2,3.7,2.3,0.037,NO,,,Institutional
+62,American basswood,3.4,24.2,12.2,11.3,100.2,FAIR,267.7,1.6,2.7,0.063,NO,,,Institutional
+63,American elm,1.8,17.5,8.9,9.9,77.5,FAIR,98.6,1.5,1.3,0.018,NO,,,Institutional
+64,Siberian elm,3.6,22.5,12.0,12.7,125.7,FAIR,270.3,3.8,2.2,0.071,NO,,,Institutional
+65,Sugar maple,2.6,30.0,15.7,10.2,82.0,FAIR,235.0,2.9,2.9,0.037,NO,,,Institutional
+66,Swamp white oak,2.6,22.7,12.0,10.2,81.7,FAIR,163.6,3.3,2.0,0.037,NO,,,Institutional
+67,Pin oak,20.1,73.8,48.4,37.1,"1,082.1",FAIR,"8,070.0",149.6,7.5,2.204,NO,,,Institutional
+68,American elm,1.8,17.5,8.9,9.9,77.5,FAIR,98.6,1.5,1.3,0.018,NO,,,Institutional
+69,Pin oak,26.8,87.9,59.1,44.2,"1,534.5",FAIR,"13,261.9",245.8,8.6,3.919,NO,,,Institutional
+70,Eastern white pine,18.2,67.0,39.5,29.3,674.6,FAIR,"5,632.6",74.2,8.3,1.807,NO,,,Institutional
+71,Eastern white pine,17.7,65.5,38.9,28.8,652.7,FAIR,"5,443.6",71.7,8.3,1.709,NO,,,Institutional
+72,Eastern white pine,16.8,62.8,37.8,27.9,612.7,FAIR,"5,093.7",67.1,8.3,1.540,NO,,,Institutional
+73,Northern red oak,2.1,21.5,9.9,10.3,82.7,FAIR,146.7,2.4,1.8,0.024,NO,,,Institutional
+74,Prairie crabapple,7.4,19.8,13.1,16.8,221.6,FAIR,560.2,9.9,2.5,0.299,NO,,,Institutional
+75,Prairie crabapple,10.5,21.9,14.5,20.5,331.3,FAIR,"1,038.1",18.3,3.1,0.602,NO,,,Institutional
+76,Prairie crabapple,6.8,19.3,12.7,16.0,202.0,FAIR,486.2,8.6,2.4,0.252,NO,,,Institutional
+77,Sugar maple,1.8,22.8,11.2,8.0,50.6,FAIR,107.4,1.3,2.1,0.018,NO,,,Institutional
+78,Sugar maple,2.3,27.6,14.2,9.5,70.5,FAIR,182.0,2.2,2.6,0.029,NO,,,Institutional
+79,Sugar maple,2.4,28.4,14.8,9.7,74.4,FAIR,199.0,2.5,2.7,0.031,NO,,,Institutional
+80,Northern red oak,30.0,90.1,44.0,48.0,"1,807.4",FAIR,"7,222.7",117.9,4.0,4.910,NO,,,Institutional
+81,American elm,2.9,22.6,12.0,11.9,111.8,FAIR,193.5,2.9,1.7,0.046,NO,,,Institutional
+82,Star magnolia,9.5,34.1,24.6,20.9,344.4,FAIR,"1,830.2",25.0,5.3,0.492,NO,,,Institutional
+83,Northern red oak,19.9,76.0,38.7,36.4,"1,041.9",FAIR,"6,193.3",101.1,5.9,2.161,NO,,,Institutional
+84,Norway maple,10.4,39.1,25.8,16.4,211.1,FAIR,"1,613.6",17.8,7.6,0.590,NO,,,Institutional
+85,Blue spruce,10.9,33.6,27.1,18.4,264.9,FAIR,"1,937.7",66.1,7.3,0.648,NO,,,Institutional
+86,Black maple,23.4,73.0,48.3,27.3,585.3,FAIR,"8,319.4",95.9,14.2,2.987,NO,,,Institutional
+87,Swamp white oak,19.8,72.9,43.4,37.2,"1,086.5",FAIR,"7,125.8",143.4,6.6,2.139,NO,,,Institutional
+88,Green ash,21.9,66.0,39.9,37.1,"1,082.3",FAIR,"6,963.0",93.0,6.4,2.617,NO,,,Institutional
+89,Littleleaf linden,29.1,44.3,37.4,41.2,"1,331.7",FAIR,"7,025.5",107.8,5.3,4.620,NO,,,Institutional
+90,White ash,18.2,76.2,37.1,32.7,840.8,FAIR,"6,714.1",78.1,8.0,1.807,NO,,,Institutional
+91,American basswood,18.0,63.6,36.4,30.9,748.5,FAIR,"6,612.0",39.5,8.8,1.768,NO,,,Institutional
+92,White oak,18.2,78.1,43.2,36.0,"1,015.6",FAIR,"7,451.2",111.0,7.3,1.807,NO,,,Institutional
+93,Prairie crabapple,6.4,19.0,12.5,15.5,189.3,FAIR,440.1,7.8,2.3,0.223,NO,,,Institutional
+94,Pin oak,29.4,93.0,63.1,46.7,"1,712.8",FAIR,"15,546.0",288.2,9.1,4.716,NO,,,Institutional
+95,Thornless honeylocust,23.9,55.2,33.4,38.3,"1,155.1",FAIR,"5,092.2",109.2,4.4,3.116,NO,,,Institutional
+96,Black oak,32.1,86.8,44.7,49.7,"1,937.1",FAIR,"6,700.8",97.0,3.5,5.622,NO,,,Institutional
+97,Northern red oak,31.6,91.2,44.6,49.7,"1,938.2",FAIR,"7,261.8",118.5,3.7,5.448,NO,,,Institutional
+98,Pin oak,31.7,97.3,66.5,48.8,"1,870.6",FAIR,"17,683.4",327.8,9.5,5.483,NO,,,Institutional
+99,Prairie crabapple,9.1,21.0,13.9,18.9,279.9,FAIR,802.6,14.2,2.9,0.452,NO,,,Institutional
+100,American elm,2.8,22.2,11.7,11.8,108.5,FAIR,183.2,2.7,1.7,0.043,NO,,,Institutional
+101,Bur oak,2.5,22.3,11.7,10.0,79.3,FAIR,176.3,3.5,2.2,0.034,NO,,,Institutional
+102,Green ash,37.7,86.7,54.3,52.9,"2,196.5",FAIR,"14,985.3",200.2,6.8,7.754,NO,,,Institutional
+103,Northern red oak,24.7,84.2,41.5,42.1,"1,392.6",FAIR,"6,788.6",110.8,4.9,3.329,NO,,,Institutional
+104,Freeman maple,5.5,34.0,19.6,18.4,265.8,FAIR,"1,020.3",11.8,3.8,0.165,NO,,,Institutional
+105,Prairie crabapple,5.0,17.7,11.6,13.7,146.7,FAIR,298.4,5.3,2.0,0.136,NO,,,Institutional
+106,Serviceberry spp,0.9,11.8,6.0,6.8,36.7,FAIR,28.7,0.4,0.8,0.004,NO,,,Institutional
+107,Green ash,25.2,70.8,43.2,40.8,"1,306.9",FAIR,"8,479.5",113.3,6.5,3.465,NO,,,Institutional
+108,Green ash,35.6,84.2,52.6,51.0,"2,045.6",FAIR,"13,806.1",184.4,6.7,6.915,NO,,,Institutional
+109,Swamp white oak,20.9,74.7,44.5,38.9,"1,187.4",FAIR,"7,618.4",153.3,6.4,2.383,NO,,,Institutional
+110,Sugar maple,13.9,62.7,36.3,22.4,392.7,FAIR,"4,196.6",51.8,10.7,1.054,NO,,,Institutional
+111,Sugar maple,18.0,67.8,39.5,24.7,479.9,FAIR,"5,702.7",70.4,11.9,1.768,NO,,,Institutional
+112,Thornless honeylocust,25.8,57.5,34.5,40.1,"1,260.7",FAIR,"5,084.8",109.1,4.0,3.632,NO,,,Institutional
+113,Northern hackberry,20.1,72.4,47.8,38.4,"1,157.2",FAIR,"9,456.0",100.8,8.2,2.204,NO,,,Institutional
+114,Norway maple,21.6,54.5,38.0,24.2,460.7,FAIR,"6,147.1",68.0,13.3,2.545,NO,,,Institutional
+115,Northern hackberry,14.2,58.1,36.5,30.1,711.1,FAIR,"5,236.7",55.8,7.4,1.100,NO,,,Institutional
+116,Washington hawthorn,7.8,24.2,11.1,17.9,251.8,FAIR,427.3,6.6,1.7,0.332,NO,,,Institutional
+117,Tulip tree,1.0,11.5,9.0,6.3,31.7,FAIR,56.7,0.7,1.8,0.005,NO,,,Institutional
+118,Northern red oak,2.1,21.5,9.9,10.3,82.7,FAIR,146.7,2.4,1.8,0.024,NO,,,Institutional
+119,Bur oak,2.3,21.5,11.2,9.7,74.5,FAIR,157.6,3.2,2.1,0.029,NO,,,Institutional
+120,Swamp white oak,2.5,22.3,11.7,10.0,79.3,FAIR,155.0,3.1,2.0,0.034,NO,,,Institutional
+121,Bur oak,9.4,47.3,27.3,20.8,341.0,FAIR,"2,318.0",46.7,6.8,0.482,NO,,,Institutional
+122,Freeman maple,4.0,28.7,16.1,15.7,193.4,FAIR,561.0,6.5,2.9,0.087,NO,,,Institutional
+123,Northern red oak,23.9,83.0,41.1,41.2,"1,332.5",FAIR,"6,680.1",109.0,5.0,3.116,NO,,,Institutional
+124,American basswood,1.6,16.8,8.5,8.5,56.6,FAIR,102.0,0.6,1.8,0.014,NO,,,Institutional
+125,Bur oak,30.3,83.7,50.5,52.6,"2,169.9",FAIR,"10,749.4",216.3,5.0,5.009,NO,,,Institutional
+126,Swamp white oak,25.3,80.4,48.2,45.5,"1,624.4",FAIR,"9,127.3",183.7,5.6,3.492,NO,,,Institutional
+127,American elm,2.9,22.6,12.0,11.9,111.8,FAIR,193.5,2.9,1.7,0.046,NO,,,Institutional
+128,American basswood,36.7,70.1,45.7,49.0,"1,882.0",FAIR,"9,762.0",58.4,5.2,7.348,NO,,,Institutional
+129,White oak,9.5,53.4,28.9,21.7,369.9,FAIR,"2,511.4",37.4,6.8,0.492,NO,,,Institutional
+130,Swamp white oak,2.5,22.3,11.7,10.0,79.3,FAIR,155.0,3.1,2.0,0.034,NO,,,Institutional
+131,Kentucky Coffee tree,0.8,11.7,7.4,7.6,45.2,FAIR,65.2,1.2,1.4,0.003,NO,,,Institutional
+132,Swamp white oak,26.3,81.3,48.8,46.9,"1,730.1",FAIR,"9,330.2",187.8,5.4,3.774,NO,,,Institutional
+133,Siberian elm,3.5,22.1,11.8,12.5,122.2,FAIR,257.6,3.6,2.1,0.067,NO,,,Institutional
+134,Red maple,12.3,57.3,33.4,20.7,337.6,FAIR,"2,985.9",41.2,8.8,0.825,NO,,,Institutional
+135,Pin oak,31.0,96.0,65.5,48.2,"1,822.6",FAIR,"17,021.3",315.5,9.3,5.243,NO,,,Institutional
+136,Siberian elm,0.8,10.1,5.5,7.7,47.0,FAIR,46.6,0.7,1.0,0.003,NO,,,Institutional
+137,White oak,35.7,91.0,51.7,61.1,"2,930.9",FAIR,"9,123.9",135.9,3.1,6.953,NO,,,Institutional
+138,Northern hackberry,20.6,73.6,48.8,39.1,"1,198.1",FAIR,"9,911.2",105.6,8.3,2.315,NO,,,Institutional
+139,Siberian elm,2.7,18.8,10.1,11.0,95.6,FAIR,169.8,2.4,1.8,0.040,NO,,,Institutional
+140,Black oak,7.6,41.9,25.6,17.6,243.3,FAIR,"1,331.4",19.3,5.5,0.315,NO,,,Institutional
+141,Ginkgo,1.0,13.2,6.5,7.4,43.5,FAIR,45.0,0.9,1.0,0.005,NO,,,Institutional
+142,Northern red oak,41.2,92.9,46.5,59.6,"2,791.4",FAIR,"9,601.6",156.7,3.4,9.261,NO,,,Institutional
+143,European silver birch,5.0,32.9,20.1,16.4,212.0,FAIR,781.0,9.5,3.7,0.136,NO,,,Institutional
+144,Northern red oak,35.5,92.7,46.1,53.8,"2,269.1",FAIR,"7,201.2",117.5,3.2,6.876,NO,,,Institutional
+145,Green ash,32.2,80.1,49.7,47.9,"1,801.3",FAIR,"11,971.9",159.9,6.6,5.657,NO,,,Institutional
+146,American elm,25.6,72.4,45.3,44.6,"1,563.1",FAIR,"6,803.7",101.4,4.4,3.576,NO,,,Institutional
+147,Swamp white oak,2.1,20.7,10.7,9.4,69.9,FAIR,123.3,2.5,1.8,0.024,NO,,,Institutional
+148,Sugar maple,2.1,25.8,13.1,8.9,62.6,FAIR,149.9,1.9,2.4,0.024,NO,,,Institutional
+149,American elm,2.6,21.3,11.2,11.4,102.0,FAIR,163.7,2.4,1.6,0.037,NO,,,Institutional
+150,Black maple,27.2,79.0,53.1,29.2,668.7,FAIR,"10,312.6",118.9,15.4,4.036,NO,,,Institutional
+151,Ginkgo,31.1,75.1,45.4,43.9,"1,511.9",FAIR,"7,572.4",149.0,5.0,5.277,NO,,,Institutional
+152,Freeman maple,7.6,40.3,24.0,21.8,373.0,FAIR,"1,893.6",21.8,5.1,0.315,NO,,,Institutional
+153,Freeman maple,6.6,37.4,22.0,20.2,321.2,FAIR,"1,447.9",16.7,4.5,0.238,NO,,,Institutional
+154,Thornless honeylocust,26.6,58.5,34.9,40.8,"1,305.0",FAIR,"5,050.3",108.3,3.9,3.860,NO,,,Institutional
+155,Sugar maple,2.4,28.4,14.8,9.7,74.4,FAIR,199.0,2.5,2.7,0.031,NO,,,Institutional
+156,Norway maple,19.4,51.9,35.9,22.9,411.6,FAIR,"5,162.2",57.1,12.5,2.053,NO,,,Institutional
+157,Green ash,23.3,68.1,41.4,38.7,"1,176.6",FAIR,"7,596.4",101.5,6.5,2.962,NO,,,Institutional
+158,Ginkgo,1.4,15.0,7.5,8.3,54.0,FAIR,63.1,1.2,1.2,0.011,NO,,,Institutional
+159,Northern red oak,2.1,21.5,9.9,10.3,82.7,FAIR,146.7,2.4,1.8,0.024,NO,,,Institutional
+160,Norway maple,17.8,49.9,34.3,21.9,375.8,FAIR,"4,451.2",49.2,11.8,1.729,NO,,,Institutional
+161,Norway maple,16.5,48.2,32.9,21.0,346.6,FAIR,"3,887.2",43.0,11.2,1.485,NO,,,Institutional
+162,Washington hawthorn,11.9,27.1,13.2,22.8,407.1,FAIR,926.2,14.3,2.3,0.773,NO,,,Institutional
+163,Washington hawthorn,7.8,24.2,11.1,17.9,251.8,FAIR,427.3,6.6,1.7,0.332,NO,,,Institutional
+164,Washington hawthorn,7.4,23.8,10.8,17.4,237.8,FAIR,389.5,6.0,1.6,0.299,NO,,,Institutional
+165,Black oak,32.6,86.8,44.7,50.2,"1,982.5",FAIR,"6,561.2",95.0,3.3,5.798,NO,,,Institutional
+166,Roughleaf dogwood,12.3,29.5,18.1,23.7,442.2,FAIR,"1,462.6",18.4,3.3,0.825,NO,,,Institutional
+167,Kentucky Coffee tree,1.1,12.4,7.6,8.1,51.9,FAIR,81.4,1.4,1.6,0.007,NO,,,Institutional
+168,Green ash,23.3,68.1,41.4,38.7,"1,176.6",FAIR,"7,596.4",101.5,6.5,2.962,NO,,,Institutional
+169,Freeman maple,7.6,40.3,24.0,21.8,373.0,FAIR,"1,893.6",21.8,5.1,0.315,NO,,,Institutional
+170,Cottonwood spp,17.9,70.7,41.8,29.2,671.9,FAIR,"5,721.0",79.2,8.5,1.748,NO,,,Institutional
+171,Washington hawthorn,6.8,23.2,10.5,16.6,217.3,FAIR,336.4,5.2,1.5,0.252,NO,,,Institutional
+172,Green ash,40.1,89.4,56.2,54.9,"2,368.5",FAIR,"16,307.3",217.9,6.9,8.773,NO,,,Institutional
+173,Scots pine,15.7,68.8,29.4,33.1,863.0,FAIR,"4,772.3",94.2,5.5,1.345,NO,,,Institutional
+174,Red maple,2.5,23.4,11.8,8.6,58.0,FAIR,127.0,1.8,2.2,0.034,NO,,,Institutional
+175,Roughleaf dogwood,7.9,25.7,14.3,18.7,274.2,FAIR,653.1,8.2,2.4,0.341,NO,,,Institutional
+176,Roughleaf dogwood,18.4,33.5,22.3,30.2,714.8,FAIR,"2,888.6",36.3,4.0,1.847,NO,,,Institutional
+177,Washington hawthorn,3.1,17.8,7.6,11.3,99.8,FAIR,99.8,1.5,1.0,0.052,NO,,,Institutional
+178,American elm,2.9,22.6,12.0,11.9,111.8,FAIR,193.5,2.9,1.7,0.046,NO,,,Institutional
+179,White ash,18.7,76.7,37.5,33.3,869.1,FAIR,"6,829.3",79.5,7.9,1.908,NO,,,Institutional
+180,Northern hackberry,20.2,72.7,48.0,38.5,"1,165.4",FAIR,"9,546.6",101.7,8.2,2.226,NO,,,Institutional
+181,Freeman maple,7.5,40.0,23.8,21.6,367.8,FAIR,"1,846.9",21.3,5.0,0.307,NO,,,Institutional
+182,Roughleaf dogwood,0.6,13.3,4.8,8.3,53.7,FAIR,33.0,0.4,0.6,0.002,NO,,,Institutional
+183,Roughleaf dogwood,0.6,13.3,4.8,8.3,53.7,FAIR,33.0,0.4,0.6,0.002,NO,,,Institutional
+184,Roughleaf dogwood,0.5,13.3,4.8,8.2,52.4,FAIR,30.4,0.4,0.6,0.001,NO,,,Institutional
+185,Swamp white oak,2.9,24.0,12.7,10.7,89.3,FAIR,191.9,3.9,2.1,0.046,NO,,,Institutional
+186,Sugar maple,2.2,26.7,13.7,9.2,66.6,FAIR,165.6,2.0,2.5,0.026,NO,,,Institutional
+187,Ohio buckeye,9.1,44.1,26.0,22.9,410.1,FAIR,"2,829.2",42.4,6.9,0.452,NO,,,Institutional
+188,Swamp white oak,21.7,75.9,45.3,40.1,"1,263.0",FAIR,"7,953.4",160.1,6.3,2.569,NO,,,Institutional
+189,Thornless honeylocust,19.3,49.1,30.1,33.8,898.8,FAIR,"4,575.6",98.1,5.1,2.032,NO,,,Institutional
+190,Swamp white oak,5.6,34.4,19.2,14.9,173.3,FAIR,633.1,12.7,3.7,0.171,NO,,,Institutional
+191,Swamp white oak,26.2,81.3,48.8,46.8,"1,719.4",FAIR,"9,312.5",187.4,5.4,3.745,NO,,,Institutional
+192,White ash,36.7,78.5,39.5,53.1,"2,212.6",FAIR,"8,256.8",96.1,3.7,7.348,NO,,,Institutional
+193,Freeman maple,7.1,38.9,23.0,21.0,347.0,FAIR,"1,664.6",19.2,4.8,0.275,NO,,,Institutional
+194,Northern hackberry,20.8,74.0,49.1,39.3,"1,214.7",FAIR,"10,096.2",107.6,8.3,2.360,NO,,,Institutional
+195,Swamp white oak,27.6,82.4,49.5,48.8,"1,870.3",FAIR,"9,495.8",191.1,5.1,4.156,NO,,,Institutional
+196,Thornless honeylocust,24.1,55.4,33.5,38.5,"1,166.2",FAIR,"5,096.9",109.3,4.4,3.169,NO,,,Institutional
+197,Black oak,2.8,22.3,12.3,9.3,67.3,FAIR,148.0,2.1,2.2,0.043,NO,,,Institutional
+198,Swamp white oak,5.4,33.6,18.8,14.5,166.1,FAIR,586.5,11.8,3.5,0.159,NO,,,Institutional
+199,White ash,21.6,78.2,39.3,36.4,"1,041.1",FAIR,"7,141.1",83.1,6.9,2.545,NO,,,Institutional
+200,Kentucky Coffee tree,7.1,36.5,18.2,19.6,300.5,FAIR,"1,386.3",24.5,4.6,0.275,NO,,,Institutional
+201,American basswood,2.6,21.0,10.6,10.1,79.5,FAIR,180.8,1.1,2.3,0.037,NO,,,Institutional
+202,Kentucky Coffee tree,0.6,11.7,7.4,7.3,41.9,FAIR,56.1,1.0,1.3,0.002,NO,,,Institutional
+203,White oak,3.3,27.7,14.5,11.5,104.0,FAIR,275.8,4.1,2.7,0.059,NO,,,Institutional
+204,Kentucky Coffee tree,3.4,23.8,11.9,13.2,137.0,FAIR,354.7,6.3,2.6,0.063,NO,,,Institutional
+205,Thornless honeylocust,22.7,53.7,32.6,37.2,"1,088.2",FAIR,"5,035.0",108.0,4.6,2.811,NO,,,Institutional
+206,Thornless honeylocust,19.4,49.3,30.2,33.9,904.3,FAIR,"4,595.6",98.6,5.1,2.053,NO,,,Institutional
+207,Kentucky Coffee tree,2.9,21.7,11.0,12.2,117.1,FAIR,274.9,4.9,2.3,0.046,NO,,,Institutional
+208,Black oak,3.1,23.6,13.6,9.8,75.6,FAIR,183.5,2.7,2.4,0.052,NO,,,Institutional
+209,Swamp white oak,3.0,24.4,13.0,10.8,91.9,FAIR,202.0,4.1,2.2,0.049,NO,,,Institutional
+210,Swamp white oak,3.4,26.0,14.0,11.4,102.7,FAIR,246.6,5.0,2.4,0.063,NO,,,Institutional
+211,Swamp white oak,2.9,24.0,12.7,10.7,89.3,FAIR,191.9,3.9,2.1,0.046,NO,,,Institutional
+212,Northern red oak,2.9,24.8,14.1,11.7,106.7,FAIR,266.2,4.3,2.5,0.046,NO,,,Institutional
+213,Northern red oak,3.5,27.1,16.5,12.7,126.5,FAIR,381.9,6.2,3.0,0.067,NO,,,Institutional
+214,Sugar maple,10.7,57.6,33.1,20.1,318.4,FAIR,"2,934.1",36.2,9.2,0.625,NO,,,Institutional
+215,Kentucky Coffee tree,3.3,23.4,11.7,13.0,132.9,FAIR,337.7,6.0,2.5,0.059,NO,,,Institutional
+216,Tulip tree,0.5,11.5,9.0,5.6,24.7,FAIR,39.0,0.5,1.6,0.001,NO,,,Institutional
+217,Swamp white oak,2.0,20.3,10.4,9.3,67.7,FAIR,116.2,2.3,1.7,0.022,NO,,,Institutional
+218,Kentucky Coffee tree,2.6,20.4,10.4,11.6,105.5,FAIR,233.0,4.1,2.2,0.037,NO,,,Institutional
+219,Swamp white oak,3.9,27.9,15.2,12.2,117.1,FAIR,312.2,6.3,2.7,0.083,NO,,,Institutional
+220,Scots pine,23.8,81.7,36.4,42.4,"1,413.0",FAIR,"5,267.3",104.0,3.7,3.090,NO,,,Institutional
+221,White ash,21.4,78.2,39.2,36.2,"1,028.7",FAIR,"7,138.6",83.1,6.9,2.499,NO,,,Institutional
+222,Green ash,19.9,62.9,37.8,34.8,950.4,FAIR,"6,587.8",88.0,6.9,2.161,NO,,,Institutional
+223,Thornless honeylocust,27.3,59.3,35.2,41.4,"1,343.6",FAIR,"5,007.1",107.4,3.7,4.066,NO,,,Institutional
+224,Scots pine,22.1,80.2,35.2,40.8,"1,309.6",FAIR,"5,418.2",107.0,4.1,2.665,NO,,,Institutional
+225,Thornless honeylocust,25.6,57.3,34.4,39.9,"1,249.6",FAIR,"5,090.8",109.2,4.1,3.576,NO,,,Institutional
+226,Washington hawthorn,1.0,9.9,4.8,6.8,36.5,FAIR,25.7,0.4,0.7,0.005,NO,,,Institutional
+227,Washington hawthorn,1.1,10.6,5.0,7.1,39.6,FAIR,28.4,0.4,0.7,0.007,NO,,,Institutional
+228,Washington hawthorn,1.1,10.6,5.0,7.1,39.6,FAIR,28.4,0.4,0.7,0.007,NO,,,Institutional
+229,Thornless honeylocust,24.1,55.4,33.5,38.5,"1,166.2",FAIR,"5,096.9",109.3,4.4,3.169,NO,,,Institutional
+230,Pin oak,22.2,78.4,51.8,39.4,"1,222.1",FAIR,"9,584.7",177.7,7.8,2.689,NO,,,Institutional
+231,Thornless honeylocust,22.7,53.7,32.6,37.2,"1,088.2",FAIR,"5,035.0",108.0,4.6,2.811,NO,,,Institutional
+232,Thornless honeylocust,23.3,54.4,33.0,37.8,"1,121.6",FAIR,"5,070.1",108.7,4.5,2.962,NO,,,Institutional
+233,Thornless honeylocust,25.8,57.5,34.5,40.1,"1,260.7",FAIR,"5,084.8",109.1,4.0,3.632,NO,,,Institutional
+234,Eastern red cedar,2.6,16.9,13.0,7.0,38.5,FAIR,122.2,7.0,3.2,0.037,NO,,,Institutional
+235,Eastern red cedar,2.8,17.7,13.5,7.3,42.0,FAIR,137.6,7.8,3.3,0.043,NO,,,Institutional
+236,Scots pine,17.9,73.7,31.7,36.1,"1,023.5",FAIR,"5,287.2",104.4,5.2,1.748,NO,,,Institutional
+237,Scots pine,16.3,70.2,30.0,34.0,907.2,FAIR,"4,947.5",97.7,5.5,1.450,NO,,,Institutional
+238,Scots pine,19.2,76.1,32.9,37.7,"1,115.8",FAIR,"5,432.3",107.2,4.9,2.011,NO,,,Institutional
+239,Star magnolia,5.4,27.2,19.3,15.6,190.4,FAIR,682.9,9.3,3.6,0.159,NO,,,Institutional
+240,Thornless honeylocust,26.9,58.9,35.1,41.0,"1,321.5",FAIR,"5,033.3",108.0,3.8,3.948,NO,,,Institutional
+241,Northern red oak,1.3,18.2,5.6,8.8,61.3,FAIR,72.7,1.2,1.2,0.009,NO,,,Institutional
+242,Black oak,32.2,86.8,44.7,49.8,"1,946.2",FAIR,"6,673.1",96.6,3.4,5.657,NO,,,Institutional
+243,Scots pine,15.2,67.5,28.8,32.4,826.2,FAIR,"4,607.0",90.9,5.6,1.261,NO,,,Institutional
+244,Scots pine,16.5,70.7,30.2,34.3,921.9,FAIR,"5,000.1",98.7,5.4,1.485,NO,,,Institutional
+245,Scots pine,13.3,62.1,26.5,29.6,686.3,FAIR,"3,836.5",75.7,5.6,0.965,NO,,,Institutional
+246,Scots pine,8.3,44.3,19.5,20.8,341.2,FAIR,"1,445.8",28.5,4.2,0.376,NO,,,Institutional
+247,Scots pine,13.8,63.6,27.1,30.3,722.9,FAIR,"4,058.5",80.1,5.6,1.039,NO,,,Institutional
+248,Swamp white oak,2.6,22.7,12.0,10.2,81.7,FAIR,163.6,3.3,2.0,0.037,NO,,,Institutional
+249,Eastern white pine,26.6,89.9,46.2,35.7,"1,002.1",FAIR,"8,914.0",117.4,8.9,3.860,NO,,,Institutional
+250,Eastern white pine,19.8,71.7,41.3,30.8,743.4,FAIR,"6,344.6",83.6,8.5,2.139,NO,,,Institutional
+251,Scots pine,17.7,73.3,31.5,35.8,"1,009.1",FAIR,"5,254.8",103.7,5.2,1.709,NO,,,Institutional
+252,Scots pine,7.8,42.2,18.7,19.9,310.4,FAIR,"1,246.4",24.6,4.0,0.332,NO,,,Institutional
+253,Scots pine,12.7,60.3,25.7,28.6,642.5,FAIR,"3,555.8",70.2,5.5,0.880,NO,,,Institutional
+254,Washington hawthorn,7.1,23.5,10.7,17.0,227.5,FAIR,362.4,5.6,1.6,0.275,NO,,,Institutional
+255,American basswood,1.6,16.8,8.5,8.5,56.6,FAIR,102.0,0.6,1.8,0.014,NO,,,Institutional
+256,Green ash,22.3,66.6,40.3,37.6,"1,109.1",FAIR,"7,141.9",95.4,6.4,2.713,NO,,,Institutional
+257,Scots pine,16.8,71.4,30.5,34.7,943.8,FAIR,"5,073.5",100.2,5.4,1.540,NO,,,Institutional
+258,Northern red oak,18.0,71.9,37.4,34.0,910.4,FAIR,"6,038.1",98.5,6.6,1.768,NO,,,Institutional
+259,Scots pine,9.6,49.4,21.4,23.3,425.3,FAIR,"2,025.2",40.0,4.8,0.503,NO,,,Institutional
+260,Scots pine,11.5,56.3,24.1,26.6,556.3,FAIR,"2,964.6",58.5,5.3,0.722,NO,,,Institutional
+261,Scots pine,13.9,63.9,27.3,30.5,730.3,FAIR,"4,101.5",81.0,5.6,1.054,NO,,,Institutional
+262,Ginkgo,1.0,13.2,6.5,7.4,43.5,FAIR,45.0,0.9,1.0,0.005,NO,,,Institutional
+263,Northern hackberry,17.0,65.1,42.0,34.1,913.8,FAIR,"6,861.0",73.1,7.5,1.577,NO,,,Institutional
+264,Tulip tree,1.3,11.5,9.0,6.8,36.2,FAIR,67.2,0.8,1.9,0.009,NO,,,Institutional
+265,Black oak,3.8,26.7,16.3,11.1,96.5,FAIR,284.8,4.1,3.0,0.079,NO,,,Institutional
+266,Sugar maple,3.6,36.4,19.7,12.3,118.0,FAIR,451.8,5.6,3.8,0.071,NO,,,Institutional
+267,Scots pine,17.3,72.5,31.1,35.3,980.2,FAIR,"5,181.4",102.3,5.3,1.633,NO,,,Institutional
+268,Prairie crabapple,11.9,22.7,15.1,22.2,385.7,FAIR,"1,304.8",23.0,3.4,0.773,NO,,,Institutional
+269,Prairie crabapple,11.7,22.6,15.0,21.9,377.8,FAIR,"1,265.0",22.3,3.3,0.747,NO,,,Institutional
+270,Scots pine,16.9,71.6,30.6,34.8,951.1,FAIR,"5,096.5",100.6,5.4,1.558,NO,,,Institutional
+271,Blue spruce,2.6,11.8,9.8,7.6,44.8,FAIR,101.7,3.5,2.3,0.037,NO,,,Institutional
+272,Blue spruce,2.5,11.5,9.6,7.4,43.1,FAIR,96.2,3.3,2.2,0.034,NO,,,Institutional
+273,Blue spruce,2.8,12.5,10.3,7.8,48.3,FAIR,113.5,3.9,2.4,0.043,NO,,,Institutional
+274,Blue spruce,2.6,11.8,9.8,7.6,44.8,FAIR,101.7,3.5,2.3,0.037,NO,,,Institutional
+275,Blue spruce,2.6,11.8,9.8,7.6,44.8,FAIR,101.7,3.5,2.3,0.037,NO,,,Institutional
+276,Thornless honeylocust,16.3,44.8,27.5,30.6,733.9,FAIR,"3,810.1",81.7,5.2,1.450,NO,,,Institutional
+277,Blue spruce,2.8,12.5,10.3,7.8,48.3,FAIR,113.5,3.9,2.4,0.043,NO,,,Institutional
+278,Blue spruce,3.0,13.1,10.8,8.1,51.8,FAIR,126.2,4.3,2.4,0.049,NO,,,Institutional
+279,Blue spruce,2.8,12.5,10.3,7.8,48.3,FAIR,113.5,3.9,2.4,0.043,NO,,,Institutional
+280,Prairie crabapple,4.8,17.4,11.4,13.4,140.9,FAIR,280.7,5.0,2.0,0.126,NO,,,Institutional
+281,Thornless honeylocust,16.3,44.8,27.5,30.6,733.9,FAIR,"3,810.1",81.7,5.2,1.450,NO,,,Institutional
+282,Roughleaf dogwood,5.4,22.7,11.7,15.6,190.0,FAIR,341.3,4.3,1.8,0.159,NO,,,Institutional
+283,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+284,Blue spruce,2.9,12.8,10.6,8.0,50.0,FAIR,119.7,4.1,2.4,0.046,NO,,,Institutional
+285,Eastern red cedar,1.5,12.2,9.5,5.2,21.2,FAIR,56.5,3.2,2.7,0.012,NO,,,Institutional
+286,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+287,Eastern red cedar,1.3,11.2,8.8,4.8,18.5,FAIR,47.6,2.7,2.6,0.009,NO,,,Institutional
+288,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+289,Swamp white oak,2.6,22.7,12.0,10.2,81.7,FAIR,163.6,3.3,2.0,0.037,NO,,,Institutional
+290,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+291,Eastern red cedar,1.5,12.2,9.5,5.2,21.2,FAIR,56.5,3.2,2.7,0.012,NO,,,Institutional
+292,Blue spruce,2.9,12.8,10.6,8.0,50.0,FAIR,119.7,4.1,2.4,0.046,NO,,,Institutional
+293,Eastern red cedar,1.5,12.2,9.5,5.2,21.2,FAIR,56.5,3.2,2.7,0.012,NO,,,Institutional
+294,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+295,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+296,Eastern red cedar,1.3,11.2,8.8,4.8,18.5,FAIR,47.6,2.7,2.6,0.009,NO,,,Institutional
+297,Eastern red cedar,1.4,11.7,9.1,5.0,19.8,FAIR,52.0,3.0,2.6,0.011,NO,,,Institutional
+298,Thornless honeylocust,15.0,42.9,26.2,29.1,663.7,FAIR,"3,395.4",72.8,5.1,1.228,NO,,,Institutional
+299,Norway maple,7.5,33.7,21.7,13.8,148.8,FAIR,859.1,9.5,5.8,0.307,NO,,,Institutional
+300,Serviceberry spp,0.9,11.8,6.0,6.8,36.7,FAIR,28.7,0.4,0.8,0.004,NO,,,Institutional
+

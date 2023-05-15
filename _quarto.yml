@@ -12,8 +12,8 @@ website:
         text: Home
       - text: "Tree Map"
         file: tree-map.qmd
-      - text: "Our Trees"
-        file: our-trees.qmd
+      - text: "Tree Profiles"
+        file: tree-profiles.qmd
       - text: "By the Numbers"
         file: tree-numbers.qmd
       - text: "Tree Identification"

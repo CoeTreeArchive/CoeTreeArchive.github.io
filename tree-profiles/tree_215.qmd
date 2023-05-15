@@ -1,0 +1,222 @@
+---
+title: "**Kentucky Coffee Tree**"
+description: "Tree ID: 215"
+image: "/images/tree-profiles/Fall 2022/215/main.jpg"
+author: "Unnamed"
+author-title: 'Tree Name'
+---
+
+<br>
+
+
+Planted By:  Unknown
+
+
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+my_tree <- '215'
+library(tidyverse)
+library(sf)
+library(knitr)
+library(openxlsx)
+
+df <- read.xlsx("../data/coe-tree-archive-all-years.xlsx", detectDates = TRUE)
+
+df <- df %>%
+filter(Tree.ID == my_tree) %>%
+select(
+  Date, `DBH.(in)`, `Height.(ft)`, `Crown.Height.(ft)`, `Crown.Width.(ft)`,
+  `Replacement.Value.($)`, `Carbon.Storage.(lb)`,
+  `Gross.Carbon.Sequestration.(lb/yr)`, `Avoided.Runoff.(gal/yr)`,
+  `Pollution.Removal.(oz/yr)`
+)
+
+var_names <- c(
+   'Date',
+   'Diameter at Breast Height (inches)',
+   'Height (ft)',
+   'Crown Height (ft)',
+   'Crown Width (ft)',
+   'Replacement Value (\\$)',
+   'Carbon Storage (lbs)',
+   'Carbon Removal (lbs/year)',
+   'Avoided Runoff (gallons/year)',
+   'Air Pollution Removal (oz/year)'
+)
+
+colnames(df) <- var_names
+
+df <- df %>%
+  pivot_longer(cols = 2:10, values_to = 'i-Tree Eco Estimate', names_to = 'Variable')
+
+df <- df %>%
+  mutate(Variable = factor(Variable, levels = var_names[-1])) %>%
+  arrange(Variable, Date)
+
+df0 <- df %>% filter(Variable == 'Diameter at Breast Height (inches)')
+colnames(df0) <- c('Measurement Date', 'Variable', 'Measured Value')
+
+df1 <- df %>% filter(Variable != 'Diameter at Breast Height (inches)')
+colnames(df1) <- c('Measurement Date', 'Variable', 'i-Tree Eco Estimated Value')
+
+```
+## **Size Measurements**
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+#| tbl-colwidths: [30,40,30]
+kable(df0)
+```
+
+## **i-Tree Eco Estimates**
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+#| tbl-colwidths: [30,40,30]
+kable(df1)
+```
+
+
+[Read more about these estimates](https://www.itreetools.org/support/resources-overview/i-tree-methods-and-files).
+
+## **Location**
+
+Latitude, Longitude: 41.9887777916483, -91.6588058331741
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+my_tree <- '215'
+# Importing packages
+library(tidyverse)
+library(sf)
+library(tmap)
+library(leaflet)
+library(openxlsx)
+library(leaflet.extras)
+
+# Remove scientific notation
+options(scipen = 999)
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Formatting Set Up -----------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+tree_shp <- read.xlsx("../data/coe-tree-archive-all-years.xlsx",
+      detectDates = TRUE)
+tree_shp <- st_as_sf(tree_shp, coords = c("Longitude", "Latitude"),
+                            crs = "WGS84")
+
+# Formatting the names of planters
+format_names <- function(x){
+  if(is.na(x)){
+    output = "Unknown"
+  } else {
+    output = str_replace_all(x, pattern = ", ", replacement="<br>")
+    output = paste("<br>", output, sep="")
+  }
+  return(output)
+}
+
+# Setting up the tree icons
+treeIcons <- iconList(
+  Oak = makeIcon(
+    iconUrl = "../images/map-icons/oak.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Maple = makeIcon(
+    iconUrl = "../images/map-icons/maple.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  `Honey Locust` = makeIcon(
+    iconUrl = "../images/map-icons/honeylocust.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Elm = makeIcon(
+    iconUrl = "../images/map-icons/elm.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Ash = makeIcon(
+    iconUrl = "../images/map-icons/ash.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Evergreen = makeIcon(
+    iconUrl = "../images/map-icons/evergreen.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Crabapple = makeIcon(
+    iconUrl = "../images/map-icons/crabapple.png",
+    iconWidth = 25, iconHeight = 50
+  ),
+  Other = makeIcon(
+    iconUrl = "../images/map-icons/other.png",
+    iconWidth = 25, iconHeight = 50
+  )
+)
+
+# Processing
+
+tree_shp  <- tree_shp %>% 
+  rowwise %>% 
+  mutate(
+    formatted_names = format_names(Planters),
+  )
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# The Map ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+mini_map <- tree_shp %>% filter(Tree.ID == my_tree)
+mini_map <- mini_map[1,]
+my_coords <- st_coordinates(mini_map)
+
+leaflet(
+   mini_map,
+    options = leafletOptions(minZoom = 15, maxZoom = 20, maxNativeZoom=20)
+  ) %>%
+  addMarkers(
+    icon = ~treeIcons[Species.Group],
+    popup = ~paste(
+      "<h3>", Identification, "</h3>",
+      "<hr> </hr>",
+      "<table>
+    <tr>
+    <th>Tree ID#:</th>
+    <th>", Tree.ID, "</th>
+    </tr>",
+      "</table>"
+    )
+  ) %>%
+  addResetMapButton() %>%
+  addFullscreenControl() %>%
+  addProviderTiles(providers$OpenStreetMap.France) %>%
+  setView(lat = my_coords[2], lng = my_coords[1], zoom = 18)
+
+```
+
+## **Images**
+
+
+ ![Fall 2022](/images/tree-profiles/Fall 2022/215/IMG_7147.jpg)
+
+ ![Fall 2022](/images/tree-profiles/Fall 2022/215/IMG_7149.jpg)
+
+ ![Fall 2022](/images/tree-profiles/Fall 2022/215/main.jpg)
+
+::: column-margin
+<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>
+:::

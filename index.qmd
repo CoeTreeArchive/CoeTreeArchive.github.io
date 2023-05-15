@@ -13,7 +13,7 @@ The Coe College Tree Archive is an online record of trees on the west side of Co
 [**Explore**]{style="color: #89b04c;"} Whether you're interested in learning more about identifying local trees or are curious about just one tree, the Coe College Tree Archive offers several opportunities to engage with the trees around campus.
 
 -   Navigate the trees of Coe College using the [campus tree map](https://coetreearchive.github.io/tree-map.html)
--   Search for trees by their ID number or species on the [tree profiles](https://coetreearchive.github.io/our-trees.html) page
+-   Search for trees by their ID number or species on the [tree profiles](https://coetreearchive.github.io/tree-profiles.html) page
 -   Try identifying trees yourself with the help of the project's [guide to tree identification](https://coetreearchive.github.io/tree-identification.html)
 
 [**Study**]{style="color: #89b04c;"} Collecting and storing records on Coe's urban forest are an integral part of the project's mission, and for those interested, the archive makes these records readily available.
@@ -35,7 +35,7 @@ The Coe College Tree Archive is an online record of trees on the west side of Co
 
 Trees---particularly Oak trees---have long been an important part of the identity of Coe College. The College's yearbook, which ran from 1903 through 2007, was called *The Acorn*. Likewise, the College's sesquicentennial logo features an acorn and Oak leaves. The 2020 derecho reminded us of both the importance of our tree life on Coe's campus and the fragility of our tree life in the face of elevated climate risks. Recognizing that trees are both vital to our community identity and under threat, the Coe College Tree Archive seeks to preserve records and stories of our trees. In doing so, the archive solidifies trees and our natural environment as an integral part of the College's identify by recognizing the history of our trees as worthy of archiving alongside other aspects of our history.
 
-![Retired Coe logo circa 2001.](images/old_logo.png)
+![Retired Coe logo circa 2001.](images/home/old_logo.png)
 
 <br>
 
@@ -46,7 +46,7 @@ Humanity has demonstrated a remarkable ability to transform the planet. While we
 <br>
 
 ::: column-page
-![This panoramic view of the academic quad circa the 1930s looks barren relative to the academic quad today. The trees seen today are no accident of nature. Rather, the trees we see on our campus are the result of very intentional effort from members of our community---a reminder of the power we have as individuals and members of our close communities to affect our environment for the better.](images/academic_quad.png)
+![This panoramic view of the academic quad circa the 1930s looks barren relative to the academic quad today. The trees seen today are no accident of nature. Rather, the trees we see on our campus are the result of very intentional effort from members of our community---a reminder of the power we have as individuals and members of our close communities to affect our environment for the better.](images/home/academic_quad.png)
 :::
 
 <br>
@@ -66,7 +66,7 @@ The Coe College Tree Archive was created and is maintained by Evan Perry, a curr
 Any success of the project is the result of the inspiration, guidance, and efforts of many others. The project originated in Dr. Allison Carr's Environmental Rhetoric class. Dr. Carr challenged students in her class to find creative ways they could connect with nature and environmentalism in everyday life. Although the original project focused on observing trees for purely the intrinsic benefit, the opportunity to preserve the record of the College's trees in an accessible format became more apparent as it progressed and motivated the Coe College Tree Archive. Similar efforts by others, like [Dr. Marta Wells](https://eeb.yale.edu/people/faculty-lecturer/marta-wells) of [Yale Nature Walk](https://naturewalk.yale.edu/about), helped to push the effort into its current form. This project has benefited from the invaluable feedback of other students in Dr. Carr's Fall 2022 Environmental Rhetoric class.
 
 ::: column-margin
-<img src="images/evan_perry.png" align="left" width="100" hspace="20" vspace="20"/>
+<img src="images/home/evan_perry.png" align="left" width="100" hspace="20" vspace="20"/>
 :::
 
 Starting summer 2023, Evan will be joining the Federal Reserve Bank of New York as a Research Analyst in the Bank's recently formed Climate Risk Studies department. If you are interested in helping to maintain or expand the archive, please contact Evan by emailing [coe.tree.archive\@gmail.com](mailto:coe.tree.archive@gmail.com).

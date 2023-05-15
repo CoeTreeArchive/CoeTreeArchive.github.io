@@ -1,0 +1,301 @@
+TreeID,species_id,species_code,Species,DBH,dbh_height,Longitude,Latitude,Land Use
+1,324,AM,serviceberry spp (Amelanchier),0.9,4.5,-91.6562834179619,41.98658200719589,Institutional
+2,324,AM,serviceberry spp (Amelanchier),0.9,4.5,-91.65618814356377,41.98658723637167,Institutional
+3,324,AM,serviceberry spp (Amelanchier),0.8,4.5,-91.65623513154664,41.98661128082747,Institutional
+4,324,AM,serviceberry spp (Amelanchier),1,4.5,-91.65629041325059,41.98666613936655,Institutional
+5,3452,GIBI,Ginkgo (Ginkgo biloba),3.1,4.5,-91.65656020517862,41.98650858018138,Institutional
+6,3313,FASY,European beech (Fagus sylvatica),9.5,4.5,-91.65665073447013,41.98643617320311,Institutional
+7,4926,QUMA1,Bur oak (Quercus macrocarpa),2.4,4.5,-91.65676997952771,41.98636096061271,Institutional
+8,5903,ULAM,American elm (Ulmus americana),2.6,4.5,-91.65695992490588,41.98654473479197,Institutional
+9,1676,ACPL,Norway maple (Acer platanoides),2.8,4.5,-91.656952084906,41.98657786881581,Institutional
+10,3452,GIBI,Ginkgo (Ginkgo biloba),23.8,4.5,-91.65684930003518,41.98627056276531,Institutional
+11,5909,ULPU,Siberian elm (Ulmus pumila),2.9,4.5,-91.65696603705479,41.98638610405104,Institutional
+12,5857,TIAM,American basswood (Tilia americana),10.2,4.5,-91.65698655269594,41.98646649907076,Institutional
+13,4952,QUPA,Pin oak (Quercus palustris),33.6,4.5,-91.65701825730078,41.98664458949511,Institutional
+14,3394,FRPE,Green ash (Fraxinus pennsylvanica),24.9,4.5,-91.6569293595069,41.98667698339622,Institutional
+16,4970,QURU,Northern red oak (Quercus rubra),30.8,4.5,-91.65665224830235,41.98658311987565,Institutional
+17,324,AM,serviceberry spp (Amelanchier),1,4.5,-91.6563974824066,41.9865917858038,Institutional
+18,1674,ACPA,Japanese maple (Acer palmatum),7.4,4.5,-91.65715636105021,41.98667681090217,Institutional
+19,4926,QUMA1,Bur oak (Quercus macrocarpa),2.7,4.5,-91.65720079428878,41.98658199563413,Institutional
+20,2572,CODR,Roughleaf dogwood (Cornus drummondii),0.6,4.5,-91.65741561936792,41.98663000394573,Institutional
+21,4839,QUBI,Swamp white oak (Quercus bicolor),3.6,4.5,-91.65749938204151,41.98664147421036,Institutional
+22,4926,QUMA1,Bur oak (Quercus macrocarpa),2.3,4.5,-91.6575228869998,41.98658557415834,Institutional
+23,4839,QUBI,Swamp white oak (Quercus bicolor),3.4,4.5,-91.65764460981163,41.98657798243858,Institutional
+24,3852,LITU,Tulip tree (Liriodendron tulipifera),2.8,4.5,-91.65767732822873,41.98650195123355,Institutional
+25,1673,ACNI,Black maple (Acer nigrum),21.4,4.5,-91.65759294283568,41.98637449421486,Institutional
+26,3995,PYIO,Prairie crabapple (Malus ioensis),2.6,4.5,-91.65746523671211,41.98652138407348,Institutional
+27,5001,QUVE,Black oak (Quercus velutina),14.2,4.5,-91.65779408622032,41.98654883018814,Institutional
+28,4952,QUPA,Pin oak (Quercus palustris),23.9,4.5,-91.65788064487701,41.98651275484173,Institutional
+29,2302,CEOC,Northern hackberry (Celtis occidentalis),31.2,4.5,-91.65788297144081,41.98640108722537,Institutional
+30,3852,LITU,Tulip tree (Liriodendron tulipifera),0.8,4.5,-91.65802707631813,41.98656237623958,Institutional
+31,1028,PO,cottonwood spp (Populus),25.4,4.5,-91.65810739986671,41.98647518332932,Institutional
+32,1028,PO,cottonwood spp (Populus),20.9,4.5,-91.65815802444098,41.98650239829356,Institutional
+33,1680,ACSA2,Sugar maple (Acer saccharum),0.8,4.5,-91.65816297036348,41.98666645521732,Institutional
+34,3378,FRAM,White ash (Fraxinus americana),29.4,4.5,-91.65823032775816,41.98657555888154,Institutional
+35,1680,ACSA2,Sugar maple (Acer saccharum),8.6,4.5,-91.65829847877275,41.98655189879533,Institutional
+36,4926,QUMA1,Bur oak (Quercus macrocarpa),9.4,4.5,-91.65828483458486,41.98647155090984,Institutional
+37,4839,QUBI,Swamp white oak (Quercus bicolor),2.4,4.5,-91.65838386213748,41.98644766881663,Institutional
+38,1676,ACPL,Norway maple (Acer platanoides),9.8,4.5,-91.65830039049172,41.98638387041277,Institutional
+39,4970,QURU,Northern red oak (Quercus rubra),2.2,4.5,-91.65832319162953,41.98624592220207,Institutional
+40,14714,BEPEP,European silver birch (Betula pendula ssp. pendula),7.9,4.5,-91.65842260203739,41.9863343622868,Institutional
+41,3852,LITU,Tulip tree (Liriodendron tulipifera),13,4.5,-91.65851443008206,41.98641484481204,Institutional
+42,4926,QUMA1,Bur oak (Quercus macrocarpa),2.6,4.5,-91.65857012066816,41.98633747150569,Institutional
+43,4824,QUAL,White oak (Quercus alba),1.8,4.5,-91.65846890225147,41.9862494446438,Institutional
+44,5001,QUVE,Black oak (Quercus velutina),25.6,4.5,-91.65835738996323,41.98613144432757,Institutional
+45,5001,QUVE,Black oak (Quercus velutina),48.9,4.5,-91.65863428270657,41.98629100580941,Institutional
+47,4824,QUAL,White oak (Quercus alba),58.9,4.5,-91.65590427598343,41.98632028725705,Institutional
+48,4839,QUBI,Swamp white oak (Quercus bicolor),8.3,4.5,-91.65604987509643,41.98631485827387,Institutional
+49,5857,TIAM,American basswood (Tilia americana),18.7,4.5,-91.65602992332781,41.98623168437905,Institutional
+50,3394,FRPE,Green ash (Fraxinus pennsylvanica),17.2,4.5,-91.65609070364509,41.98619385480498,Institutional
+51,4824,QUAL,White oak (Quercus alba),39.5,4.5,-91.6561828072343,41.9861693905027,Institutional
+52,4970,QURU,Northern red oak (Quercus rubra),16.2,4.5,-91.65617314459948,41.98624031669575,Institutional
+53,3995,PYIO,Prairie crabapple (Malus ioensis),2.9,4.5,-91.65633850834688,41.98619153283261,Institutional
+54,4970,QURU,Northern red oak (Quercus rubra),14,4.5,-91.65635980837015,41.98612386305794,Institutional
+55,4839,QUBI,Swamp white oak (Quercus bicolor),2.8,4.5,-91.65638239204856,41.98603456742385,Institutional
+56,1678,ACRU,Red maple (Acer rubrum),9.9,4.5,-91.65648821177302,41.98610963583047,Institutional
+57,5909,ULPU,Siberian elm (Ulmus pumila),3,4.5,-91.6564920393477,41.98603500240529,Institutional
+58,4839,QUBI,Swamp white oak (Quercus bicolor),12.5,4.5,-91.65650322954633,41.98595910093677,Institutional
+59,3394,FRPE,Green ash (Fraxinus pennsylvanica),20.1,4.5,-91.65665184715525,41.98588051112632,Institutional
+60,3995,PYIO,Prairie crabapple (Malus ioensis),2.9,4.5,-91.65657584913195,41.98605244023041,Institutional
+61,3995,PYIO,Prairie crabapple (Malus ioensis),2.9,4.5,-91.6566764589909,41.98598836921467,Institutional
+62,5903,ULAM,American elm (Ulmus americana),3,4.5,-91.65680636123214,41.98596148718633,Institutional
+63,4926,QUMA1,Bur oak (Quercus macrocarpa),2.6,4.5,-91.65664607393109,41.98612016439756,Institutional
+64,5857,TIAM,American basswood (Tilia americana),3.4,4.5,-91.65679833809497,41.98608230098127,Institutional
+65,5903,ULAM,American elm (Ulmus americana),1.8,4.5,-91.65679987979797,41.98579481267939,Institutional
+66,5909,ULPU,Siberian elm (Ulmus pumila),3.6,4.5,-91.65690217139593,41.98590593144829,Institutional
+67,1680,ACSA2,Sugar maple (Acer saccharum),2.6,4.5,-91.65707105306979,41.98592861147052,Institutional
+68,4839,QUBI,Swamp white oak (Quercus bicolor),2.6,4.5,-91.65701352943762,41.98583711970596,Institutional
+69,4952,QUPA,Pin oak (Quercus palustris),20.1,4.5,-91.65692743775114,41.98572454129282,Institutional
+70,5903,ULAM,American elm (Ulmus americana),1.8,4.5,-91.65703858426019,41.98574802989335,Institutional
+71,4952,QUPA,Pin oak (Quercus palustris),26.8,4.5,-91.65710823075548,41.98561287870719,Institutional
+72,4497,PIST,Eastern white pine (Pinus strobus),18.2,4.5,-91.65717198702512,41.98572410050449,Institutional
+73,4497,PIST,Eastern white pine (Pinus strobus),17.7,4.5,-91.65720509041587,41.98565272447009,Institutional
+74,4497,PIST,Eastern white pine (Pinus strobus),16.8,4.5,-91.65729536889677,41.98565765284684,Institutional
+75,4970,QURU,Northern red oak (Quercus rubra),2.1,4.5,-91.65722077984519,41.98553547948743,Institutional
+78,3995,PYIO,Prairie crabapple (Malus ioensis),7.4,4.5,-91.65755349414536,41.98562017978937,Institutional
+79,3995,PYIO,Prairie crabapple (Malus ioensis),10.5,4.5,-91.6576229589036,41.98561612208042,Institutional
+80,3995,PYIO,Prairie crabapple (Malus ioensis),6.8,4.5,-91.65769895269165,41.98561268238905,Institutional
+81,1680,ACSA2,Sugar maple (Acer saccharum),1.8,4.5,-91.6574470226149,41.98558231471539,Institutional
+82,1680,ACSA2,Sugar maple (Acer saccharum),2.3,4.5,-91.65754936179255,41.98555773968071,Institutional
+83,1680,ACSA2,Sugar maple (Acer saccharum),2.4,4.5,-91.65764299622352,41.98554013248856,Institutional
+84,4970,QURU,Northern red oak (Quercus rubra),30,4.5,-91.65735796308255,41.9854800702664,Institutional
+85,5903,ULAM,American elm (Ulmus americana),2.9,4.5,-91.6574608874541,41.98546850111001,Institutional
+86,3961,MAST,Star magnolia (Magnolia stellata),9.5,4.5,-91.6575878713401,41.98544968221696,Institutional
+87,4970,QURU,Northern red oak (Quercus rubra),19.9,4.5,-91.65771902504734,41.98543291871147,Institutional
+88,1676,ACPL,Norway maple (Acer platanoides),10.4,4.5,-91.65748009357426,41.98537427456898,Institutional
+89,4431,PIPU,Blue spruce (Picea pungens),10.9,4.5,-91.65763609677238,41.98537037023226,Institutional
+90,1673,ACNI,Black maple (Acer nigrum),23.4,4.5,-91.65771080386769,41.98527222004381,Institutional
+91,4839,QUBI,Swamp white oak (Quercus bicolor),19.8,4.5,-91.65783660788217,41.985237741122,Institutional
+92,3394,FRPE,Green ash (Fraxinus pennsylvanica),21.9,4.5,-91.65779735521815,41.98531444321434,Institutional
+93,5858,TICO,Littleleaf linden (Tilia cordata),29.1,4.5,-91.65800060535491,41.98538718259486,Institutional
+94,3378,FRAM,White ash (Fraxinus americana),18.2,4.5,-91.65776666537197,41.98601945330486,Institutional
+95,5857,TIAM,American basswood (Tilia americana),18,4.5,-91.65790813118319,41.98604703494446,Institutional
+96,4824,QUAL,White oak (Quercus alba),18.2,4.5,-91.65808242543791,41.98594733752132,Institutional
+97,3995,PYIO,Prairie crabapple (Malus ioensis),6.4,4.5,-91.65817362940153,41.98596340382555,Institutional
+98,4952,QUPA,Pin oak (Quercus palustris),29.4,4.5,-91.65827811672014,41.98602202386881,Institutional
+99,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),23.9,4.5,-91.65830845096795,41.98589748066458,Institutional
+100,5001,QUVE,Black oak (Quercus velutina),32.1,4.5,-91.65737982960847,41.98688913321064,Institutional
+101,4970,QURU,Northern red oak (Quercus rubra),31.6,4.5,-91.65726202319136,41.98691822773492,Institutional
+102,4952,QUPA,Pin oak (Quercus palustris),31.7,4.5,-91.65736205167252,41.98699522891669,Institutional
+103,3995,PYIO,Prairie crabapple (Malus ioensis),9.1,4.5,-91.65720563412798,41.98697592162836,Institutional
+105,5903,ULAM,American elm (Ulmus americana),2.8,4.5,-91.65716214978103,41.98710895314953,Institutional
+106,4926,QUMA1,Bur oak (Quercus macrocarpa),2.5,4.5,-91.65706847795803,41.98716180342434,Institutional
+107,3394,FRPE,Green ash (Fraxinus pennsylvanica),37.7,4.5,-91.65691575031646,41.98711616627285,Institutional
+108,4970,QURU,Northern red oak (Quercus rubra),24.7,4.5,-91.65679280971119,41.98718248770117,Institutional
+109,1683,ACFR,Freeman maple (Acer x freemanii),5.5,4.5,-91.65668704578364,41.9872409664797,Institutional
+110,3995,PYIO,Prairie crabapple (Malus ioensis),5,4.5,-91.65688782002006,41.98735540738671,Institutional
+111,324,AM,serviceberry spp (Amelanchier),0.9,4.5,-91.65629444627874,41.9867089367708,Institutional
+112,3394,FRPE,Green ash (Fraxinus pennsylvanica),25.2,4.5,-91.6561784070351,41.98677194303147,Institutional
+113,3394,FRPE,Green ash (Fraxinus pennsylvanica),35.6,4.5,-91.65655139094824,41.98699728536548,Institutional
+114,4839,QUBI,Swamp white oak (Quercus bicolor),20.9,4.5,-91.65800899362631,41.98586488432012,Institutional
+115,1680,ACSA2,Sugar maple (Acer saccharum),13.9,4.5,-91.65804203094945,41.98578884521584,Institutional
+116,1680,ACSA2,Sugar maple (Acer saccharum),18,4.5,-91.65815788263046,41.98573284001962,Institutional
+117,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),25.8,4.5,-91.65808319241984,41.98566364906055,Institutional
+118,2302,CEOC,Northern hackberry (Celtis occidentalis),20.1,4.5,-91.65809841171517,41.98560817631176,Institutional
+119,1676,ACPL,Norway maple (Acer platanoides),21.6,4.5,-91.65801458335378,41.98557769281658,Institutional
+120,2302,CEOC,Northern hackberry (Celtis occidentalis),14.2,4.5,-91.6579585768569,41.98554199500949,Institutional
+121,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),7.8,4.5,-91.65786644568075,41.98556673700367,Institutional
+122,3852,LITU,Tulip tree (Liriodendron tulipifera),1,4.5,-91.65764489293426,41.98667386543758,Institutional
+123,4970,QURU,Northern red oak (Quercus rubra),2.1,4.5,-91.657806122747985,41.98663623947633,Institutional
+124,4926,QUMA1,Bur oak (Quercus macrocarpa),2.3,4.5,-91.65794559612065,41.98665895733344,Institutional
+125,4839,QUBI,Swamp white oak (Quercus bicolor),2.5,4.5,-91.65805991197799,41.98670003289348,Institutional
+126,4926,QUMA1,Bur oak (Quercus macrocarpa),9.4,4.5,-91.65815900464811,41.98678535920747,Institutional
+127,1683,ACFR,Freeman maple (Acer x freemanii),4,4.5,-91.65825143101776,41.98687050873172,Institutional
+128,4970,QURU,Northern red oak (Quercus rubra),23.9,4.5,-91.65832698235828,41.98697250465202,Institutional
+129,5857,TIAM,American basswood (Tilia americana),1.6,4.5,-91.6583800013922,41.98711285211981,Institutional
+130,4926,QUMA1,Bur oak (Quercus macrocarpa),30.3,4.5,-91.65831114956616,41.98721527506114,Institutional
+131,4839,QUBI,Swamp white oak (Quercus bicolor),25.3,4.5,-91.65808262576662,41.98731860520671,Institutional
+132,5903,ULAM,American elm (Ulmus americana),2.9,4.5,-91.65791356221939,41.98730125758571,Institutional
+133,5857,TIAM,American basswood (Tilia americana),36.7,4.5,-91.65783796774328,41.98725789598659,Institutional
+134,4824,QUAL,White oak (Quercus alba),9.5,4.5,-91.65769044933867,41.98717024174073,Institutional
+135,4839,QUBI,Swamp white oak (Quercus bicolor),2.5,4.5,-91.65765936969132,41.98710282292334,Institutional
+136,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),0.8,4.5,-91.65758793978506,41.98704295400747,Institutional
+137,4839,QUBI,Swamp white oak (Quercus bicolor),26.3,4.5,-91.65752835888635,41.98693000551766,Institutional
+138,5909,ULPU,Siberian elm (Ulmus pumila),3.5,4.5,-91.6575296985056,41.98677924823286,Institutional
+139,1678,ACRU,Red maple (Acer rubrum),12.3,4.5,-91.65745998178942,41.98709062042695,Institutional
+140,4952,QUPA,Pin oak (Quercus palustris),31,4.5,-91.65756684505214,41.98719122612732,Institutional
+141,5909,ULPU,Siberian elm (Ulmus pumila),0.8,4.5,-91.65767839383078,41.98728392005409,Institutional
+142,4824,QUAL,White oak (Quercus alba),35.7,4.5,-91.65760334808779,41.98738722381252,Institutional
+143,2302,CEOC,Northern hackberry (Celtis occidentalis),20.6,4.5,-91.65752349545255,41.98735243352154,Institutional
+144,5909,ULPU,Siberian elm (Ulmus pumila),2.7,4.5,-91.65743701473257,41.98720101511597,Institutional
+145,5001,QUVE,Black oak (Quercus velutina),7.6,4.5,-91.65721202836146,41.98720975794299,Institutional
+146,3452,GIBI,Ginkgo (Ginkgo biloba),1,4.5,-91.65712094019204,41.98725222965622,Institutional
+148,4970,QURU,Northern red oak (Quercus rubra),41.2,4.5,-91.65734108857153,41.98728438266227,Institutional
+149,14714,BEPEP,European silver birch (Betula pendula ssp. pendula),5,4.5,-91.65737088915695,41.98736503929292,Institutional
+150,4970,QURU,Northern red oak (Quercus rubra),35.5,4.5,-91.65733498648132,41.98747648357082,Institutional
+151,3394,FRPE,Green ash (Fraxinus pennsylvanica),32.2,4.5,-91.65833059511074,41.98682781107961,Institutional
+152,5903,ULAM,American elm (Ulmus americana),25.6,4.5,-91.6584332019969,41.98690382834284,Institutional
+153,4839,QUBI,Swamp white oak (Quercus bicolor),2.1,4.5,-91.65862922239454,41.9867913565611,Institutional
+154,1680,ACSA2,Sugar maple (Acer saccharum),2.1,4.5,-91.65864500883117,41.98668819364583,Institutional
+155,5903,ULAM,American elm (Ulmus americana),2.6,4.5,-91.65841056624728,41.98665703630507,Institutional
+156,1673,ACNI,Black maple (Acer nigrum),27.2,4.5,-91.65851494975715,41.98655428935026,Institutional
+157,3452,GIBI,Ginkgo (Ginkgo biloba),31.1,4.5,-91.65856965987366,41.98647694649181,Institutional
+158,1683,ACFR,Freeman maple (Acer x freemanii),7.6,4.5,-91.65911687492923,41.9867651219989,Institutional
+159,1683,ACFR,Freeman maple (Acer x freemanii),6.6,4.5,-91.65910997092392,41.98681457890521,Institutional
+160,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),26.6,4.5,-91.65804285943324,41.98745269787279,Institutional
+161,1680,ACSA2,Sugar maple (Acer saccharum),2.4,4.5,-91.65792229435297,41.98759366101719,Institutional
+162,1676,ACPL,Norway maple (Acer platanoides),19.4,4.5,-91.65776716784967,41.98767526935033,Institutional
+163,3394,FRPE,Green ash (Fraxinus pennsylvanica),23.3,4.5,-91.65755341677315,41.9877710354764,Institutional
+164,3452,GIBI,Ginkgo (Ginkgo biloba),1.4,4.5,-91.65755823019096,41.98788256918591,Institutional
+165,4970,QURU,Northern red oak (Quercus rubra),2.1,4.5,-91.65784534406102,41.98777518198354,Institutional
+166,1676,ACPL,Norway maple (Acer platanoides),17.8,4.5,-91.65794301780856,41.98773522033401,Institutional
+167,1676,ACPL,Norway maple (Acer platanoides),16.5,4.5,-91.65803796317616,41.98768753385873,Institutional
+168,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),11.9,4.5,-91.65829077522983,41.98751973525356,Institutional
+169,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),7.8,4.5,-91.65850083718723,41.98740179702058,Institutional
+170,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),7.4,4.5,-91.65849818784154,41.98733071612258,Institutional
+171,5001,QUVE,Black oak (Quercus velutina),32.6,4.5,-91.65855939247082,41.9873449029152,Institutional
+172,2572,CODR,Roughleaf dogwood (Cornus drummondii),12.3,4.5,-91.65867288250584,41.98740026631905,Institutional
+173,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),1.1,4.5,-91.65887237024899,41.9874496207186,Institutional
+174,3394,FRPE,Green ash (Fraxinus pennsylvanica),23.3,4.5,-91.65895891810041,41.98765414564393,Institutional
+175,1683,ACFR,Freeman maple (Acer x freemanii),7.6,4.5,-91.65877074798343,41.98792271266116,Institutional
+176,1028,PO,cottonwood spp (Populus),17.9,4.5,-91.65863400707298,41.98794894392129,Institutional
+177,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),6.8,4.5,-91.65848936152089,41.98789338357906,Institutional
+179,3394,FRPE,Green ash (Fraxinus pennsylvanica),40.1,4.5,-91.65839608262027,41.9878717120004,Institutional
+180,4498,PISY,Scots pine (Pinus sylvestris),15.7,4.5,-91.6583427146697,41.98784066623902,Institutional
+181,1678,ACRU,Red maple (Acer rubrum),2.5,4.5,-91.65827227455725,41.98777329504187,Institutional
+182,2572,CODR,Roughleaf dogwood (Cornus drummondii),7.9,4.5,-91.65821724124444,41.98772089068215,Institutional
+183,2572,CODR,Roughleaf dogwood (Cornus drummondii),18.4,4.5,-91.6582416955494,41.98763867027388,Institutional
+184,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),3.1,4.5,-91.65796510912988,41.98586351940517,Institutional
+185,5903,ULAM,American elm (Ulmus americana),2.9,4.5,-91.65883426861433,41.98805532984429,Institutional
+186,3378,FRAM,White ash (Fraxinus americana),18.7,4.5,-91.65891427341153,41.98793567024637,Institutional
+187,2302,CEOC,Northern hackberry (Celtis occidentalis),20.2,4.5,-91.65909095977942,41.98789068362466,Institutional
+188,1683,ACFR,Freeman maple (Acer x freemanii),7.5,4.5,-91.65921022307444,41.98791661847356,Institutional
+189,2572,CODR,Roughleaf dogwood (Cornus drummondii),0.6,4.5,-91.65911010106224,41.98779944907739,Institutional
+190,2572,CODR,Roughleaf dogwood (Cornus drummondii),0.6,4.5,-91.65907983947191,41.98779813873465,Institutional
+191,2572,CODR,Roughleaf dogwood (Cornus drummondii),0.5,4.5,-91.65909480479222,41.98777643838713,Institutional
+192,4839,QUBI,Swamp white oak (Quercus bicolor),2.9,4.5,-91.65892238688572,41.98812241318832,Institutional
+193,1680,ACSA2,Sugar maple (Acer saccharum),2.2,4.5,-91.65907140109759,41.98822094144253,Institutional
+195,1709,AEGL,Ohio buckeye (Aesculus glabra),9.1,4.5,-91.65929243897797,41.98812613047898,Institutional
+196,4839,QUBI,Swamp white oak (Quercus bicolor),21.7,4.5,-91.65942272724476,41.98812717997639,Institutional
+197,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),19.3,4.5,-91.65961456111252,41.98804792770766,Institutional
+198,4839,QUBI,Swamp white oak (Quercus bicolor),5.6,4.5,-91.65927358886739,41.98826488910403,Institutional
+199,4839,QUBI,Swamp white oak (Quercus bicolor),26.2,4.5,-91.65944374111517,41.98822673107706,Institutional
+200,3378,FRAM,White ash (Fraxinus americana),36.7,4.5,-91.65963448139458,41.98830916755451,Institutional
+201,1683,ACFR,Freeman maple (Acer x freemanii),7.1,4.5,-91.65970065214395,41.98844492760823,Institutional
+202,2302,CEOC,Northern hackberry (Celtis occidentalis),20.8,4.5,-91.65971078780245,41.98862742265734,Institutional
+203,4839,QUBI,Swamp white oak (Quercus bicolor),27.6,4.5,-91.65960071604023,41.98870058096557,Institutional
+204,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),24.1,4.5,-91.65947431891519,41.98876758104719,Institutional
+205,5001,QUVE,Black oak (Quercus velutina),2.8,4.5,-91.65931603999505,41.98870541355677,Institutional
+206,4839,QUBI,Swamp white oak (Quercus bicolor),5.4,4.5,-91.65920398138887,41.98859223155522,Institutional
+207,3378,FRAM,White ash (Fraxinus americana),21.6,4.5,-91.65918600573565,41.9884463763262,Institutional
+208,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),7.1,4.5,-91.65920186740247,41.98833894939465,Institutional
+209,5857,TIAM,American basswood (Tilia americana),2.6,4.5,-91.65940391603284,41.98889954794443,Institutional
+210,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),0.6,4.5,-91.65926755305932,41.98878603173102,Institutional
+211,4824,QUAL,White oak (Quercus alba),3.3,4.5,-91.65917037020898,41.98868627383462,Institutional
+212,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),3.4,4.5,-91.65908057519164,41.98864500263998,Institutional
+213,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),22.7,4.5,-91.65894238099503,41.98862795927506,Institutional
+214,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),19.4,4.5,-91.65881143230003,41.98866703747262,Institutional
+215,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),2.9,4.5,-91.65880583317406,41.98877779164825,Institutional
+216,5001,QUVE,Black oak (Quercus velutina),3.1,4.5,-91.65865618553188,41.98886755813029,Institutional
+217,4839,QUBI,Swamp white oak (Quercus bicolor),3,4.5,-91.65854671638606,41.98892596892566,Institutional
+218,4839,QUBI,Swamp white oak (Quercus bicolor),3.4,4.5,-91.65849821170532,41.98905743657141,Institutional
+219,4839,QUBI,Swamp white oak (Quercus bicolor),2.9,4.5,-91.65859427316819,41.98915843990142,Institutional
+220,4970,QURU,Northern red oak (Quercus rubra),2.9,4.5,-91.65907459311806,41.98964467852815,Institutional
+221,4970,QURU,Northern red oak (Quercus rubra),3.5,4.5,-91.65923595797271,41.98980180126896,Institutional
+222,1680,ACSA2,Sugar maple (Acer saccharum),10.7,4.5,-91.65930000115169,41.98985687173241,Institutional
+223,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),3.3,4.5,-91.65944348363314,41.98985295866621,Institutional
+224,3852,LITU,Tulip tree (Liriodendron tulipifera),0.5,4.5,-91.65955683926873,41.98996800455406,Institutional
+225,4839,QUBI,Swamp white oak (Quercus bicolor),2,4.5,-91.65963272481136,41.98993737378748,Institutional
+226,15400,GYDI1,Kentucky Coffee tree (Gymnocladus dioica),2.6,4.5,-91.65972173841926,41.98988771237492,Institutional
+227,4839,QUBI,Swamp white oak (Quercus bicolor),3.9,4.5,-91.65982092482682,41.98982652356759,Institutional
+229,4498,PISY,Scots pine (Pinus sylvestris),23.8,4.5,-91.65985935891952,41.99013704744329,Institutional
+230,3378,FRAM,White ash (Fraxinus americana),21.4,4.5,-91.657646279430793,41.98809662002753,Institutional
+231,3394,FRPE,Green ash (Fraxinus pennsylvanica),19.9,4.5,-91.6577647243877,41.98808846339775,Institutional
+232,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),27.3,4.5,-91.65763816233299,41.98818830198365,Institutional
+233,4498,PISY,Scots pine (Pinus sylvestris),22.1,4.5,-91.6577890707555,41.98816295477096,Institutional
+234,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),25.6,4.5,-91.65788824255212,41.98843489793836,Institutional
+235,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),1,4.5,-91.65808236955569,41.98855190517828,Institutional
+236,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),1.1,4.5,-91.65811597532827,41.98858613000795,Institutional
+237,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),1.1,4.5,-91.65814480206778,41.98862134073958,Institutional
+238,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),24.1,4.5,-91.65822421680251,41.98877314310845,Institutional
+240,4952,QUPA,Pin oak (Quercus palustris),22.2,4.5,-91.65861622847548,41.98859692468287,Institutional
+241,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),22.7,4.5,-91.6588932931043,41.98851661360267,Institutional
+242,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),23.3,4.5,-91.65865908771538,41.9883187009687,Institutional
+247,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),25.8,4.5,-91.65852759333801,41.98813048084901,Institutional
+249,3721,JUVI,Eastern red cedar (Juniperus virginiana),2.6,4.5,-91.65842302304372,41.98799915678287,Institutional
+250,3721,JUVI,Eastern red cedar (Juniperus virginiana),2.8,4.5,-91.65839292557622,41.98801354532915,Institutional
+252,4498,PISY,Scots pine (Pinus sylvestris),17.9,4.5,-91.65826660136767,41.98790520988224,Institutional
+253,4498,PISY,Scots pine (Pinus sylvestris),16.3,4.5,-91.65821816686632,41.9878916874212,Institutional
+254,4498,PISY,Scots pine (Pinus sylvestris),19.2,4.5,-91.6581601258983,41.9878977902261,Institutional
+255,3961,MAST,Star magnolia (Magnolia stellata),5.4,4.5,-91.65809824181873,41.98793434404654,Institutional
+256,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),26.9,4.5,-91.65806053328785,41.98798714747969,Institutional
+257,4970,QURU,Northern red oak (Quercus rubra),1.3,4.5,-91.65817512323332,41.98751659297817,Institutional
+258,5001,QUVE,Black oak (Quercus velutina),32.2,4.5,-91.65879559200876,41.98718376987634,Institutional
+259,4498,PISY,Scots pine (Pinus sylvestris),15.2,4.5,-91.65896273155668,41.98724726237807,Institutional
+260,4498,PISY,Scots pine (Pinus sylvestris),16.5,4.5,-91.65891687292405,41.98721587883732,Institutional
+261,4498,PISY,Scots pine (Pinus sylvestris),13.3,4.5,-91.65891690678679,41.98718614711836,Institutional
+262,4498,PISY,Scots pine (Pinus sylvestris),8.3,4.5,-91.65889330480049,41.98715372808987,Institutional
+263,4498,PISY,Scots pine (Pinus sylvestris),13.8,4.5,-91.65886507482725,41.98712300228645,Institutional
+264,4839,QUBI,Swamp white oak (Quercus bicolor),2.6,4.5,-91.65883082991911,41.98709248008018,Institutional
+265,4497,PIST,Eastern white pine (Pinus strobus),26.6,4.5,-91.65913341847306,41.9870224724454,Institutional
+266,4497,PIST,Eastern white pine (Pinus strobus),19.8,4.5,-91.65920353258622,41.98707213034755,Institutional
+267,4498,PISY,Scots pine (Pinus sylvestris),17.7,4.5,-91.65921001829628,41.98711728917587,Institutional
+268,4498,PISY,Scots pine (Pinus sylvestris),7.8,4.5,-91.65931830613268,41.98718400054225,Institutional
+269,4498,PISY,Scots pine (Pinus sylvestris),12.7,4.5,-91.65936095957841,41.98721385163915,Institutional
+270,2733,CRPH,Washington hawthorn (Crataegus phaenopyrum),7.1,4.5,-91.65922626411886,41.98727398907771,Institutional
+271,5857,TIAM,American basswood (Tilia americana),1.6,4.5,-91.65915233177299,41.98726657029014,Institutional
+272,3394,FRPE,Green ash (Fraxinus pennsylvanica),22.3,4.5,-91.65884888401528,41.98726889790717,Institutional
+275,4498,PISY,Scots pine (Pinus sylvestris),16.8,4.5,-91.65897741152975,41.9873113242648,Institutional
+276,4970,QURU,Northern red oak (Quercus rubra),18,4.5,-91.6589651917509,41.98736586744662,Institutional
+277,4498,PISY,Scots pine (Pinus sylvestris),9.6,4.5,-91.65903254234483,41.98734043050538,Institutional
+278,4498,PISY,Scots pine (Pinus sylvestris),11.5,4.5,-91.65905646189528,41.98737535287329,Institutional
+279,4498,PISY,Scots pine (Pinus sylvestris),13.9,4.5,-91.65904575927391,41.98740717276392,Institutional
+280,3452,GIBI,Ginkgo (Ginkgo biloba),1,4.5,-91.65917775331916,41.9874202567232,Institutional
+281,2302,CEOC,Northern hackberry (Celtis occidentalis),17,4.5,-91.65928462189565,41.98754168086376,Institutional
+283,3852,LITU,Tulip tree (Liriodendron tulipifera),1.3,4.5,-91.6592117556533,41.98769560117362,Institutional
+284,5001,QUVE,Black oak (Quercus velutina),3.8,4.5,-91.65929216328333,41.9877758379245,Institutional
+285,1680,ACSA2,Sugar maple (Acer saccharum),3.6,4.5,-91.65951255449924,41.98760927507082,Institutional
+286,4498,PISY,Scots pine (Pinus sylvestris),17.3,4.5,-91.65961485355729,41.987453378017364,Institutional
+287,3995,PYIO,Prairie crabapple (Malus ioensis),11.9,4.5,-91.659714096961,41.9873566633202,Institutional
+288,3995,PYIO,Prairie crabapple (Malus ioensis),11.7,4.5,-91.65957090121792,41.98716454903158,Institutional
+289,4498,PISY,Scots pine (Pinus sylvestris),16.9,4.5,-91.65949633891509,41.98714404578647,Institutional
+290,4431,PIPU,Blue spruce (Picea pungens),2.6,4.5,-91.66015459602643,41.98817163048724,Institutional
+291,4431,PIPU,Blue spruce (Picea pungens),2.5,4.5,-91.66014111771922,41.98823215624937,Institutional
+292,4431,PIPU,Blue spruce (Picea pungens),2.8,4.5,-91.66013213425005,41.98828579397318,Institutional
+293,4431,PIPU,Blue spruce (Picea pungens),2.6,4.5,-91.66012365191848,41.98834147227019,Institutional
+294,4431,PIPU,Blue spruce (Picea pungens),2.6,4.5,-91.66011053425827,41.98839814694699,Institutional
+295,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),16.3,4.5,-91.66045217782593,41.98843228391025,Institutional
+296,4431,PIPU,Blue spruce (Picea pungens),2.8,4.5,-91.66001361513186,41.98838904020536,Institutional
+297,4431,PIPU,Blue spruce (Picea pungens),3,4.5,-91.65997095508789,41.98835066677707,Institutional
+298,4431,PIPU,Blue spruce (Picea pungens),2.8,4.5,-91.65992899463932,41.98831334126052,Institutional
+299,3995,PYIO,Prairie crabapple (Malus ioensis),4.8,4.5,-91.6599064632618,41.98825572263144,Institutional
+300,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),16.3,4.5,-91.65999148225629,41.9882310491564,Institutional
+301,2572,CODR,Roughleaf dogwood (Cornus drummondii),5.4,4.5,-91.65969451286072,41.98822244745414,Institutional
+302,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.66002170667412,41.98851052555742,Institutional
+303,4431,PIPU,Blue spruce (Picea pungens),2.9,4.5,-91.66002364586004,41.98848772306187,Institutional
+304,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.5,4.5,-91.66002667881531,41.9884661687356,Institutional
+305,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.6600107120392,41.98844515841565,Institutional
+306,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.3,4.5,-91.65999400722875,41.98843022563271,Institutional
+307,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.65997773234355,41.98841651390874,Institutional
+308,4839,QUBI,Swamp white oak (Quercus bicolor),2.6,4.5,-91.65996218121128,41.98840452218703,Institutional
+309,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.65994287940855,41.98838930547345,Institutional
+310,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.5,4.5,-91.65991975244938,41.98837478337508,Institutional
+311,4431,PIPU,Blue spruce (Picea pungens),2.9,4.5,-91.6598948827431,41.98838026894472,Institutional
+312,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.5,4.5,-91.65989540553447,41.98835712645737,Institutional
+313,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.6598812548739,41.98833958011858,Institutional
+314,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.65986077638524,41.98832735565249,Institutional
+315,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.3,4.5,-91.6598452584902,41.98830533136001,Institutional
+316,3721,JUVI,Eastern red cedar (Juniperus virginiana),1.4,4.5,-91.65982047070364,41.98828169393689,Institutional
+317,15105,GLTR1,Thornless honeylocust (Gleditsia triacanthos v. inermis),15,4.5,-91.65763977328045,41.98801569082287,Institutional
+318,1676,ACPL,Norway maple (Acer platanoides),7.5,4.5,-91.65774221270112,41.98799237302124,Institutional
+319,324,AM,serviceberry spp (Amelanchier),0.9,4.5,-91.65632543176442,41.98662074252637,Institutional
