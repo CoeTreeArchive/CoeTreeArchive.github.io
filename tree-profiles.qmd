@@ -1,14 +1,18 @@
 ---
 title: "**Tree Profiles**"
-listing: 
-  type: grid 
-  id: trees 
+listing:
+  type: grid
+  id: trees
   contents: tree-profiles
   filter-ui: [description, title, author]
 ---
 
 ------------------------------------------------------------------------
 
-The archive contains a dedicated tree profile for each of our trees on the west side of Coe's campus. These tree profiles contain more detailed information on individual trees than the tree map including the date recorded, i-Tree's estimated replacement value, images (if available), in addition to all the data available on the tree map. To find a specific tree, try searching by the Tree ID or the species of the tree.
+The archive contains a dedicated tree profile for each tree on the west side of Coe's campus. These tree profiles contain more detailed information on individual trees, including the dates of previous measurements and estimates of the tree's height, carbon storage, annual carbon removal, annual runoff avoided, and annual air pollution removal. In addition, most tree profiles include a photograph of the entire tree, the tree's leaves, and the tree's bark. To find a specific tree, try searching by the Tree ID, the species of the tree, or the name of the tree. To find a tree that you planted, try entering your last name into the search feature in the top right corner of the page.
+
+Tree names are all tree-related puns based on the names of Coe's staff and faculty. Click the button to learn more about tree names and to view the full list of named trees.
+
+<center><a class="button" href="https://coetreearchive.github.io/tree-names.html">View All Tree Names</a></center>
 
 [Learn more about tree names.](tree-names.qmd)

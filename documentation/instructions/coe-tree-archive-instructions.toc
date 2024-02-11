@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Instructions for Maintenance}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Collection}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Data Preparation}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Data Analysis}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Website Updates}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Background on Software \& Project Organization}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}R, RStudio, \& Quarto}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}i-Tree Eco}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}GitHub}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Folder \& File Organization}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}How Do I\ldots }{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}How do I add more pictures of a tree to the website?}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}How do I add or change the names of trees on the website?}{4}{subsection.4.2}%

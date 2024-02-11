@@ -5,21 +5,28 @@ project:
 website:
   title: "Coe College Tree Archive"
   favicon: "images/logo.png"
+  open-graph: true
+  google-analytics: 
+    tracking-id: "G-3XLB5C4Z3N"
+    anonymize-ip: true
+    storage: none
   navbar:
     logo: "images/logo.png"
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - text: "Tree Map"
         file: tree-map.qmd
       - text: "Tree Profiles"
         file: tree-profiles.qmd
-      - text: "By the Numbers"
-        file: tree-numbers.qmd
-      - text: "Tree Identification"
-        file: tree-identification.qmd        
-      - text: "Get Connected"
-        file: get-connected.qmd
+      - text: "Data"
+        file: data.qmd
+      - text: "Identification"
+        file: identification.qmd
+      - text: "Contribute"
+        file: contribute.qmd
+      - text: "Connect"
+        file: connect.qmd
 
 format:
   html:

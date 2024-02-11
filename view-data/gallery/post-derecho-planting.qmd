@@ -1,0 +1,132 @@
+---
+title: "**Leafing a Mark After Disaster**"
+description: "*Follow up on the trees our campus community planted folling the 2020 derecho.*"
+image: "../../images/figure-previews/common-species.png"
+---
+
+<br>
+
+Intro text
+
+<br>
+
+```{r, results = 'hide'}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Set-Up ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# All packages needed
+my_packages <- c(
+  'tidyverse',
+  'openxlsx',
+  'plotly',
+  'leaflet',
+  'leaflet.extras',
+  'sf'
+)
+
+# Install any packages not already installed
+new_packages <- my_packages[!(my_packages %in% installed.packages()[,"Package"])]
+if(length(new_packages)){
+  install.packages(new_packages)
+}
+
+# Library all packages
+invisible(lapply(my_packages, library, character.only = TRUE))
+
+# Reduce scientific notation
+options(scipen = 9)
+
+# Remove unnecessary objects
+rm(new_packages, my_packages)
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+```
+
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+df <- read.xlsx('../../data/coe-tree-archive-all-years.xlsx')
+df <- df %>% 
+  mutate(
+    new_tree = ifelse(is.na(Planters), "Planted Pre-Derecho", "Planted Post-Derecho"),
+    new_tree = ifelse(Identification == "Autumn Brilliance Serviceberry", "Planted Post-Derecho", new_tree),
+    Species.Group = ifelse(Identification == "Unidentified", "Unidentified", Species.Group)
+  )
+
+# ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Species Distribution 
+
+temp <- df %>% 
+  count(new_tree, Species.Group)
+
+temp <- temp %>% 
+  pivot_wider(names_from = new_tree, values_from = n, values_fill = 0)
+
+fig1 <- plot_ly(temp, x = ~Species.Group, y= ~`Planted Pre-Derecho`, 
+                type = 'bar', name = 'Planted Pre-Derecho', 
+                marker = list(color = "rgb(137, 176, 76)", 
+                              line = list(color = "rgb(102, 102, 102)", width = 2)),
+                hovertemplate = "Species: %{x} <br>Number of trees: %{y}") %>% 
+  add_trace(y = ~`Planted Post-Derecho`, name = "Planted Post-Derecho", 
+            marker = list(color = "rgb(194, 208, 94)", 
+                          line = list(color = "rgb(102, 102, 102)", width = 2))) %>% 
+  layout(title = "Number of Trees by Species",
+         xaxis = list(title = "Tree Species",
+                      zeroline = FALSE,
+                      categoryorder = "total descending"),
+         yaxis = list(title = "Count", zeroline = FALSE), 
+         barmode = 'group')
+
+  
+  
+  
+  
+  
+df_list <- split(df, df$new_tree)
+
+fig2 <- plot_ly() %>% 
+  add_trace(type = "histogram", x = df_list[[2]]$`DBH.(in)`, 
+            name = unique(df_list[[2]]$new_tree), 
+            marker = list(color = "rgb(137, 176, 76)")) %>%
+  add_trace(type = "histogram", x = df_list[[1]]$`DBH.(in)`, 
+            name = unique(df_list[[1]]$new_tree), 
+            marker = list(color = "rgb(194, 208, 94)")) %>%
+  layout(barmode="stack", bargap=0.05, 
+         title = "Distribution of Tree Diameters",
+         xaxis = list(title = "Diameter at Breast Height (in)", 
+                      zeroline = FALSE),
+         yaxis = list(title = "Number of Trees", zeroline = FALSE))  
+  
+fig2
+
+
+```
+
+```{r}
+#| echo: false
+# fig1
+```
+
+<br>
+
+```{r}
+#| echo: false
+# fig2
+```
+
+<br>
+
+```{r}
+#| echo: false
+# fig5
+```

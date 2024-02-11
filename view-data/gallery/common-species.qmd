@@ -1,0 +1,260 @@
+---
+title: "**Our Most Common Tree Species**"
+description: "*Learn more about the composition of Coe's urban forest.*"
+image: "../../images/figure-previews/common-species.png"
+---
+
+<br>
+
+The Coe College Tree Archive creates a census of trees. Naturally, we are interested in the frequency of different tree species on campus. First, we can explore this using the broad tree groups.
+
+<br>
+
+```{r, results = 'hide'}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Set-Up ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# All packages needed
+my_packages <- c(
+  'tidyverse',
+  'openxlsx',
+  'plotly',
+  'leaflet',
+  'leaflet.extras',
+  'sf'
+)
+
+# Install any packages not already installed
+new_packages <- my_packages[!(my_packages %in% installed.packages()[,"Package"])]
+if(length(new_packages)){
+  install.packages(new_packages)
+}
+
+# Library all packages
+invisible(lapply(my_packages, library, character.only = TRUE))
+
+# Reduce scientific notation
+options(scipen = 9)
+
+# Remove unnecessary objects
+rm(new_packages, my_packages)
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+```
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+df <- read.xlsx('../../data/coe-tree-archive-all-years.xlsx')
+
+df <- df %>% 
+  rowwise() %>% 
+  mutate(
+    Species.Group = case_when(
+      Identification == "Unidentified" ~ "Unidentified",
+      T ~ Species.Group
+    )
+  )
+
+temp <- df %>% 
+  count(Species.Group)
+
+fig1 <- plot_ly() %>% 
+  add_trace(type = "bar",
+            x = temp$Species.Group,
+            y = temp$n,
+            marker = list(color = "rgb(251, 211, 51)",
+                            line = list(color = "rgb(102, 102, 102)",
+                                        width = 2))) %>% 
+  layout(title = "Number of Trees by Species",
+         xaxis = list(title = "Tree Species", 
+                      zeroline = FALSE, 
+                      categoryorder = "total descending"),
+         yaxis = list(title = "Count", zeroline = FALSE))
+
+temp <- df %>% 
+  filter(Species.Group == "Oak") %>% 
+  count(Identification)
+
+fig2 <- plot_ly() %>% 
+  add_trace(type = "bar",
+            x = temp$Identification,
+            y = temp$n,
+            marker = list(color = "rgb(251, 211, 51)",
+                            line = list(color = "rgb(102, 102, 102)",
+                                        width = 2))) %>% 
+  layout(title = "Number of Trees by Species",
+         xaxis = list(title = "Oak Species", 
+                      zeroline = FALSE, 
+                      categoryorder = "total descending"),
+         yaxis = list(title = "Count", zeroline = FALSE))
+
+temp <- df %>% 
+  filter(Species.Group == "Other") %>% 
+  count(Identification)
+
+fig3 <- plot_ly() %>% 
+  add_trace(type = "bar",
+            x = temp$Identification,
+            y = temp$n,
+            marker = list(color = "rgb(251, 211, 51)",
+                            line = list(color = "rgb(102, 102, 102)",
+                                        width = 2))) %>% 
+  layout(title = "Number of Trees by Species",
+         xaxis = list(title = "Other Species of Tree", 
+                      zeroline = FALSE, 
+                      categoryorder = "total descending"),
+         yaxis = list(title = "Count", zeroline = FALSE))
+
+
+# The map portion
+
+tree_shp <- read.xlsx("../../data/coe-tree-archive-all-years.xlsx", detectDates = T) 
+
+# Formatting the names of planters
+format_names <- function(x){
+  if(is.na(x)){
+    output = "Unknown"
+  } else {
+    output = str_replace_all(x, pattern = ", ", replacement="<br>")
+    output = paste("<br>", output, sep="")
+  }
+  return(output)
+}
+
+# Setting up the tree icons
+treeIcons <- iconList(  
+  Oak = makeIcon(
+    iconUrl = "../../images/map-icons/oak.png", iconWidth = 25, iconHeight = 50),
+  Maple = makeIcon(
+    iconUrl = "../../images/map-icons/maple.png", iconWidth = 25, iconHeight = 50), 
+  `Honey Locust` = makeIcon(
+    iconUrl = "../../images/map-icons/honeylocust.png", iconWidth = 25, iconHeight = 50),
+  Elm = makeIcon(
+    iconUrl = "../../images/map-icons/elm.png", iconWidth = 25, iconHeight = 50), 
+  Ash = makeIcon(
+    iconUrl = "../../images/map-icons/ash.png", iconWidth = 25, iconHeight = 50),
+  Evergreen = makeIcon(
+    iconUrl = "../../images/map-icons/evergreen.png", iconWidth = 25, iconHeight = 50),
+  Crabapple = makeIcon(
+    iconUrl = "../../images/map-icons/crabapple.png", iconWidth = 25, iconHeight = 50),
+  Other = makeIcon(
+    iconUrl = "../../images/map-icons/other.png", iconWidth = 25, iconHeight = 50)
+)
+
+# Processing
+tree_shp  <- tree_shp %>% 
+  rowwise %>% 
+  mutate(
+    formatted_names = format_names(Planters),
+    Name = ifelse(is.na(Name), 'Unnamed', Name),
+    my_url = paste(
+      "https://coetreearchive.github.io/tree-profiles/tree_", Tree.ID, ".html", 
+      sep="")
+  )
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# The Map ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+tree_shp <- st_as_sf(tree_shp, coords = c('Longitude','Latitude'), 
+                     crs = 'WGS84')
+
+fig4 <- leaflet(tree_shp, 
+        options = leafletOptions(minZoom = 15, maxZoom = 20, maxNativeZoom=20)) %>%
+  addMarkers(
+    icon = ~treeIcons[Species.Group], 
+    group = ~Species.Group,
+    label = ~paste(Tree.ID, Identification, Name, sep = ' - '), 
+    labelOptions = labelOptions(opacity = 0),
+    popup = ~paste(
+      "<h3>", Identification, "</h3>",
+      "<hr> </hr>",
+      "<table>
+        <tr>
+        <th>Tree ID#:</th>
+        <th>", Tree.ID, "</th>
+        </tr>",
+      "<tr>
+        <td>Name:</td>
+        <td>", Name, "</td>
+        </tr>",
+      "<tr>
+        <td>Diameter (in):</td>
+        <td>", `DBH.(in)`, "</td>
+        </tr>",
+      "<tr>
+        <td>Carbon Storage (lbs):</td>
+        <td>", `Carbon.Storage.(lb)`, "</td>
+        </tr>",
+      "<tr>
+        <td>Avoided Runoff (gal/year):</td>
+        <td>", `Avoided.Runoff.(gal/yr)`, "</td>
+        </tr>",
+      "<tr>
+        <td>Pollution Removal (oz/year):</td>
+        <td>", `Pollution.Removal.(oz/yr)`, "</td>
+        </tr>",
+      "<tr>
+        <td>Planted By:</td>
+        <td>", formatted_names, "</td>
+        </tr>",
+      "</table>",
+      "<a href=", my_url, ">More About This Tree</a>"
+    )
+  ) %>% 
+  addResetMapButton() %>%
+  addFullscreenControl()%>% 
+  addProviderTiles(providers$OpenStreetMap.France) %>% 
+  addLayersControl(
+    baseGroups = unique(tree_shp$Species.Group),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+
+```
+
+```{r}
+#| echo: false
+fig1
+```
+
+<br>
+
+This quick chart confirms that Oak tree are the most common around campus. Of course, there are several different types of Oak tree on campus. We can explore this as well.
+
+<br>
+
+```{r}
+#| echo: false
+fig2
+```
+
+<br>
+
+Something else
+
+<br>
+
+```{r}
+#| echo: false
+fig3
+```
+
+<br>
+
+```{r}
+#| echo: false
+fig4
+```
+
+<br>

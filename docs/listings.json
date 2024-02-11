@@ -322,5 +322,15 @@
       "/tree-profiles/tree_265.html",
       "/tree-profiles/tree_266.html"
     ]
+  },
+  {
+    "listing": "/view-data/gallery.html",
+    "items": [
+      "/view-data/gallery/carbon-storage.html",
+      "/view-data/gallery/post-derecho-planting.html",
+      "/view-data/gallery/common-species.html",
+      "/view-data/gallery/tree-diameter.html",
+      "/view-data/gallery/avoided-runoff.html"
+    ]
   }
 ]

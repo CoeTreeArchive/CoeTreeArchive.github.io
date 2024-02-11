@@ -1,0 +1,138 @@
+\documentclass[11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Preamble -- add your favorite packages, shortcuts, options, etc.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Math formatting necessities
+\usepackage{amsfonts,amssymb,amsmath,amsthm, mathrsfs}
+
+% Page margins
+\usepackage{geometry}
+\geometry{top=1in,bottom=1in,left=1in,right=1in}
+
+% Adding some better options with tables
+\usepackage{array}
+\renewcommand{\arraystretch}{1.15}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% Custom colors
+\usepackage[dvipsnames]{xcolor}
+\definecolor{good_red}{RGB}{136, 0, 17}
+\definecolor{good_blue}{RGB}{0, 100, 125}
+
+% Formatting internal and external links
+%\usepackage{hyperref}
+\usepackage[backref = page]{hyperref} % If you want to see what pages we cite something
+\hypersetup{
+	colorlinks=true,
+	linkcolor= black,
+	citecolor = good_blue,
+	urlcolor = good_blue
+	}
+\urlstyle{same}
+
+% For images and visualizations
+\usepackage{graphicx}
+\usepackage{tikz, pgfplots}
+\usepackage{caption, subcaption}
+
+% Citation management
+\usepackage{natbib}
+%\usepackage{harvar} % For getting some good citation styles
+
+% Other useful packages
+\usepackage{setspace} 
+\usepackage{pdflscape}
+\usepackage{enumitem}
+\usepackage{kpfonts} % For a better aesthetic
+
+% Document specifics
+\title{Coe College Tree Archive:\\ Instructions \& Documentation}
+\author{Evan Perry}
+\date{Fall 2023}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Begin Document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%\doublespacing
+\maketitle
+
+\tableofcontents
+
+\newpage
+\section{Introduction}
+
+\begin{itemize}
+	\item Introduction to the archive
+	\item Description of this document
+\end{itemize}
+
+For the most part, I have automated as much of the archive maintenance as possible. This is convenient in that manual steps are generally more time-intensive and more error prone, but is less convenient in that automation requires the use of specific softwares and some ability to troubleshoot these softwares when necessary.
+
+For some brief context, the Coe College Tree Archive was originally created by me, Evan Perry (also the current author of this document), in Professor Allison Carr's Fall 2022 Environmental Rhetoric class. I graduated in Spring 2023 with majors in Economics and Math. Dr. Carr assigned a project with the goal of having students reflect on how they interact with nature and the environment as a part of their everyday life. For the project, I decided I wanted to learn more about trees and ``meet'' trees around campus for what I originally described as a ``Tree Census.'' An early version of the Coe College Tree Archive was rolled out in December 2022, and many of the ancillary features of the website were rolled out the following spring.
+
+As a final note, I will just encourage anyone who reads these instructions and encounters issues to reach out to me. (Email \href{mailto:coe.tree.archive@gmail.com}{coe.tree.archive@gmail.com}.) If you experience an issue when trying to update the website, it is almost certainly because either (1) there is something that needs to be modified in the code, or (2) there is something that needs to be modified in the instructions. In either case, letting me know about errors is a massive help.
+
+\section{Instructions for Maintenance}
+
+At a high level, there are just four steps to update the tree archive:
+\begin{enumerate}
+	\item \emph{Data Collection}. The data collection step involves collecting data on trees new to the archive, trees already in the archive, changing the names of trees, and taking new pictures of trees. This is the most time-intensive step and the only step that cannot be done on the computer.
+	\item \emph{Data Preparation}. The data preparation step consists primarily of transforming and cleaning the field data so it is ready to pass along to i-Tree Eco, the program used to create the estimates of tree characteristics and the environmental benefits of trees. 
+	\item \emph{Data Analysis}. In the data analysis step, the prepared data is fed into i-Tree Eco, and the results are processed so they are in a format convenient for the map.
+	\item \emph{Website Updates}. The final step is to take the full set of processed data and use it to generate an updated version of the website. This is first done on a version of the website available only on your computer, and then afterwards, these updates are ``pushed'' to the public version of the website. 
+\end{enumerate}
+
+Updating the tree archive requires a few (fairly inexpensive) materials as well as a number of free softwares. Here is what you will need to update the project:
+\begin{itemize}
+	\item \emph{Outdoor notetaking materials.} You should print out some copies of the \href{https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/documentation/data-collection-sheet.xlsx}{Data Collection Sheet} and take with you a binder/clipboard and writing utensil so you can record information as you go. 
+	\item \emph{Measuring tape.} You will need a measuring tape, at least six feet in length, to measure the circumference of trees. This should be a flexible measuring tape (like what a tailor uses, not a construction worker), and ideally would have measurements in centimeters. 
+	\item \emph{A way to record GPS coordinates}. To place trees on the map, we need to know where they are located. When I originally did this, I just printed off close up maps of different parts of campus and marked the location of trees there. Later, I would then put those same dots from my drawn maps in Google Earth and get the GPS coordinates from there. For those more tech-savvy than myself, another device that allows you to mark many locations and their latitudes-longitudes would work well, provided you can get these coordinates into an Excel file or .KML file.
+	\item \emph{A device for taking pictures}. A phone is perfect for this. These do not need to, and actually should not be, high resolution pictures. 
+\end{itemize}
+If you plan on not just collecting additional data, but want to update the website yourself as well, then there are a number of software programs you will need to install as well. All software is available for free. 
+\begin{itemize}
+	\item \emph{Git}. \href{https://git-scm.com/downloads}{Download link}.
+	\item \emph{GitHub Desktop}. \href{https://desktop.github.com/}{Download link}.
+	\item \emph{R}. \href{https://mirror.las.iastate.edu/CRAN/}{Download link}. 
+	\item \emph{RStudio}. \href{https://posit.co/downloads/}{Download link}. 
+	\item \emph{i-Tree Eco}.  \href{https://www.itreetools.org/i-tree-tools-download}{Download link}. 
+\end{itemize}
+
+
+Of course depending on what you are interested in adding to or modifying in the tree archive, some of these steps may not be necessary. For instance, if you are only interested in changing the text of formatting on the tree profile pages, this would involve just modifying the code used to generate the website (only step 4). Understanding exactly what you would need to do to make specific changes outside of a simple update of the existing website can be difficult without understanding the full project. I have written some guidance for a handfull of these changes towards the end of this guide to assist in these circumstances. Generally though, it is best to ask someone familiar with the code underlying the project first.
+
+\subsection{Data Collection}
+
+\subsection{Data Preparation}
+
+\subsection{Data Analysis}
+
+\subsection{Website Updates}
+
+\section{Background on Software \& Project Organization}
+
+\subsection{R, RStudio, \& Quarto}
+
+\subsection{i-Tree Eco}
+
+\subsection{GitHub}
+
+\subsection{Folder \& File Organization}
+
+
+\section{How Do I\ldots}
+
+\subsection{How do I add more pictures of a tree to the website?}
+
+\subsection{How do I add or change the names of trees on the website?}
+
+
+
+\end{document}

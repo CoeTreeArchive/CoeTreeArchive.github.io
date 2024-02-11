@@ -2,7 +2,7 @@
 title: "**Autumn Brilliance Serviceberry**"
 description: "Tree ID: 004"
 image: "/images/tree-profiles/Fall 2022/004/main.jpg"
-author: "Unnamed"
+author: "Toby Leaf-ster"
 author-title: 'Tree Name'
 ---
 

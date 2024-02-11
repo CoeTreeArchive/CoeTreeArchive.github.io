@@ -6,8 +6,6 @@ title: "**Tree Map**"
 
 The Tree Map from the Coe College Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them.
 
-[Learn more about tree names.](tree-names.qmd)
-
 <br>
 
 ```{r,  results='hide'}
@@ -92,26 +90,26 @@ treeIcons <- iconList(
     iconUrl = "images/map-icons/other.png", iconWidth = 25, iconHeight = 50)
 )
 
-icon_legend <- "<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/oak.png'
+icon_legend <- "<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/oak.png'
 style='width:15px;height:30px;'>\tOak<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/maple.png'
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/maple.png'
 style='width:15px;height:30px;'>\tMaple<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/honeylocust.png'
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/honeylocust.png'
 style='width:15px;height:30px;'>\tHoney Locust<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/elm.png' style='width:15px;height:30px;'>\tElm<br/>
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/elm.png' style='width:15px;height:30px;'>\tElm<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/ash.png' style='width:15px;height:30px;'>\tAsh<br/>
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/ash.png' style='width:15px;height:30px;'>\tAsh<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/evergreen.png'
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/evergreen.png'
 style='width:15px;height:30px;'>\tEvergreen<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/crabapple.png'
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/crabapple.png'
 style='width:15px;height:30px;'>\tCrabapple<br/>
 
-<img src='https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/data%20analysis/raw%20data/tree_icons/other.png'
+<img src='https://raw.githubusercontent.com/CoeTreeArchive/CoeTreeArchive.github.io/main/images/map-icons/other.png'
 style='width:15px;height:30px;'>\tOther
 "
 
@@ -133,11 +131,13 @@ tree_shp  <- tree_shp %>%
 tree_shp <- st_as_sf(tree_shp, coords = c('Longitude','Latitude'), 
                      crs = 'WGS84')
 
-leaflet(tree_shp, 
+leaflet(tree_shp,
         options = leafletOptions(minZoom = 15, maxZoom = 20, maxNativeZoom=20)) %>%
   addMarkers(
-    icon = ~treeIcons[Species.Group], 
+    icon = ~treeIcons[Species.Group],
     group = ~Series,
+    label = ~paste(Tree.ID, Identification, Name, sep = ' - '),
+    labelOptions = labelOptions(opacity = 0),
     popup = ~paste(
       "<h3>", Identification, "</h3>",
       "<hr> </hr>",
@@ -173,19 +173,46 @@ leaflet(tree_shp,
       "</table>",
       "<a href=", my_url, ">More About This Tree</a>"
     )
-  ) %>% 
+  ) %>%
   addResetMapButton() %>%
-  addFullscreenControl()%>% 
-  addProviderTiles(providers$OpenStreetMap.France) %>% 
-  addControl(html = icon_legend, position = "bottomleft") %>% 
-  addLayersControl(overlayGroups = unique(tree_shp$Series))
+  addFullscreenControl()%>%
+  addProviderTiles(providers$OpenStreetMap.France) %>%
+  addControl(html = icon_legend, position = "bottomleft") %>%
+  addLayersControl(overlayGroups = unique(tree_shp$Series)) %>%
+  addSearchFeatures(
+    targetGroups = unique(tree_shp$Series),
+    options = searchFeaturesOptions(
+      openPopup = T,
+      zoom = 20,
+      hideMarkerOnCollapse = T,
+      position = "topright",
+      textPlaceholder = "Search Tree ID, species, or name")
+  )
 
 ```
 
 <br>
 
+## **How to Use the Tree Map**
+
+|                                                                        |                                                                                                                         |
+|:----------------:|------------------------------------------------------|
+|    ![](images/map-icons/map-features/zoom.png){fig-align="center"}     | Use this icon, your finger, or your mousepad to zoom in and zoom out on the map.                                        |
+| ![](images/map-icons/map-features/full-screen.png){fig-align="center"} | Click on this icon to expand the map to full screen.                                                                    |
+| ![](images/map-icons/map-features/reset-view.png){fig-align="center"}  | Click on this icon to reset the map to its original view.                                                               |
+|    ![](images/map-icons/map-features/tiles.png){fig-align="center"}    | Select the data series you would like to see on the map. (Currently, Fall 2022 is the only data series available.)      |
+|   ![](images/map-icons/map-features/search.png){fig-align="center"}    | Click on this icon and enter a Tree ID, tree species, or tree name, then select a tree and find its location on campus. |
+
 ## **About the Tree Map**
 
-In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service. For more detailed data on the trees, see [By the Numbers](/tree-numbers.qmd).
+In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service. For more detailed data on the trees, see the [Data](/data.qmd) tab.
 
 The Tree Map also displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all appreciate the opportunities we have support others through nature.
+
+Tree names are all tree-related puns based on the names of Coe's staff and faculty. Click the button to learn more about tree names and to view the full list of named trees.
+
+<center><a class="button" href="https://coetreearchive.github.io/tree-names.html">View All Tree Names</a></center>
+
+<br>
+
+You can also learn more about an individual tree by visiting its [Tree profile](tree-profile.html) and learn more about the data from all trees on campus by visiting the [Data](data.html) page.

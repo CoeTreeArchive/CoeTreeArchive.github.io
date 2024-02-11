@@ -4,16 +4,6 @@ title: "**Get Connected**"
 
 <br>
 
-## **Have Something to Share About Our Trees?**
-
-Do you have a story related to a tree on Coe's campus you'd be comfortable sharing? Maybe just a picture with one of our trees? Whether you have a tree on campus that you're fond of for no particular reason, an amusing anecdote involving one of our trees, or a nostalgic memory of planting a tree after the 2020 derecho, we want to hear it! Numerical measurements can give us great insight into the physical impact of our trees, but your stories are the best way for us to understand just how valuable trees are in our personal lives and social systems.
-
-If you have something (some words or a photo) you'd be willing to share, please consider contributing to the Coe College Tree Archive. We will preserve what you submit alongside the other records maintained in the Coe College Tree Archive, just click the button below.
-
-<center><a class="button" href="https://forms.gle/6acapE5m9WgEFQmp6">Say Something About Our Trees!</a></center>
-
-<br>
-
 ## **Interested in Connecting More With Your Environment?**
 
 There are many ways in which you can use your talents, your time, your financial resources, and your voice to support local trees. See the list below for some ideas on steps you can take to get connected to tree and environmental life around our community.
@@ -39,3 +29,21 @@ If you are interested in both connecting with the environment and connecting wit
 Are you interested in planting trees or supporting local tree planting efforts? Consider supporting [ReLeaf Cedar Rapids](https://www.cedar-rapids.org/residents/parks_and_recreation/releaf_cedar_rapids_.php). ReLeaf Cedar Rapids is a project partnership between the City of Cedar Rapids and the nonprofit group Tree's Forever. The project's website contains resources to help all individuals contribute to the effort to rebuild Cedar Rapids' natural infrastructure following the derecho in Fall 2020. To learn more about where to make financial contributions, how to volunteer, and how to become a designated Tree Keeper, [click the link here](https://www.cedar-rapids.org/residents/parks_and_recreation/how_can_i_help_/index.php).
 
 <br>
+
+### **Learn More**
+
+[**Local Environmental Research & Resources**]{style="color: #666666;"}
+
+- [Coe Water Quality Laboratory](https://cwql.weebly.com/) --- a longtime initiative of Professor Emeritus Marty St. Clair
+- [Coe College Alumni House Garden](https://coealumnigardens.weebly.com/) --- a website/blog maintained by Professor Emeritus and Alumni House Gardener Bob Mars
+- [Coe Green](https://www.coe.edu/why-coe/discover-coe/environmental-sustainability-coe-green) --- the College's sustainability page
+
+
+[**Tree Planting Program Research**]{style="color: #666666;"}
+
+- [Urban Forests: Envrionmental Health Values  and Risks](https://www.nber.org/system/files/working_papers/w31554/w31554.pdf) by Jianwei Xing, Zhiren Hu, Fan Xia, Jintao Xu, Eric Zou *National Bureau of Economic Research Working Paper Series* (2023)
+- [Rain Follows the Forest: Land Use Policy, Climate Change, and Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4333147) by Florian Grosset, Anna Papp, Charles Taylor *SSRN Working Paper* (2023)
+- [Environmental goods provision and gentrification: Evidence from MillionTreesNYC](https://doi.org/10.1016/j.jeem.2023.102828) by Liqing Li *Journal of Environmental Economics and Management* (2023)
+
+
+

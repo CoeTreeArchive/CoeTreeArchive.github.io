@@ -1,0 +1,69 @@
+---
+title: "**View the Dataset**"
+page-layout: full
+---
+
+Explore the Coe College Tree Archive data online through this interactive table. To use the interactive table, try:
+
+-   Scrolling across to see all columns in the table
+
+-   Filtering the observations by entering key words into the search box
+
+-   Sorting observations by column value using the arrows by the column name
+
+For additional details on the columns in the interactive table, consult the [data dictionary](https://github.com/CoeTreeArchive/CoeTreeArchive.github.io/raw/main/documentation/data-dictionary.xlsx).
+
+<br>
+
+```{r, results='hide'}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Set-Up ----------------------------------------------------------------------
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# All packages needed
+my_packages <- c(
+  'tidyverse',
+  'openxlsx',
+  'DT'
+)
+
+# Install any packages not already installed
+new_packages <- my_packages[!(my_packages %in% installed.packages()[,"Package"])]
+if(length(new_packages)){
+  install.packages(new_packages)
+}
+
+# Library all packages
+lapply(my_packages, library, character.only = TRUE)
+
+# Reduce scientific notation
+options(scipen = 9)
+
+# Remove unnecessary objects
+rm(new_packages, my_packages)
+
+# Read in the dataset
+df <- read.xlsx('../data/coe-tree-archive-all-years.xlsx', detectDates = T)
+```
+
+```{r}
+#| error: false
+#| echo: false
+#| message: false
+#| warning: false
+
+df <- df %>% 
+  select(-c('Special.Notes')) %>% 
+  mutate(
+    Tree.ID = paste(
+      '<a href="https://coetreearchive.github.io/tree-profiles/tree_', Tree.ID, 
+      '.html"> ', Tree.ID, '<a/>', sep = '')
+  )
+
+datatable(df, rownames = FALSE, escape = FALSE)
+```
