@@ -66,5 +66,5 @@ The Coe College Tree Archive originated in Dr. Allison Carr's Environmental Rhet
 The Coe College Tree Archive was created by Evan Perry (Economics & Math, '23), a student in Dr. Carr's Fall 2022 Environmental Rhetoric class. Evan currently works as a Research Analyst in the Climate Risk Studies department at the Federal Reserve Bank of New York. The views expressed in the Coe College Tree Archive are those of the author and do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System. **If you are interested in helping to maintain or expand the archive, please contact Evan by emailing [coe.tree.archive\@gmail.com](mailto:coe.tree.archive@gmail.com)**.
 
 ::: column-margin
-<img src="images/home/evan_perry.PNG" align="left" width="100" hspace="20" vspace="20"/>
+<img src="images/home/evan_perry.png" align="left" width="100" hspace="20" vspace="20"/>
 :::
