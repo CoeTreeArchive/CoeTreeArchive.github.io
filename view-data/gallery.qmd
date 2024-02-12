@@ -1,8 +1,0 @@
----
-title: "**Tree Data Gallery**"
-listing:
-  type: default
-  contents: gallery
----
-
-<br> 

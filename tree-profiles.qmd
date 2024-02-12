@@ -14,5 +14,3 @@ The archive contains a dedicated tree profile for each tree on the west side of 
 Tree names are all tree-related puns based on the names of Coe's staff and faculty. Click the button to learn more about tree names and to view the full list of named trees.
 
 <center><a class="button" href="https://coetreearchive.github.io/tree-names.html">View All Tree Names</a></center>
-
-[Learn more about tree names.](tree-names.qmd)

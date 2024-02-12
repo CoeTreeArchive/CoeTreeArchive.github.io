@@ -414,7 +414,7 @@ write_tree_profiles <- function(my_directory) {
       tree_images(my_tree),
       "",
       "::: column-margin",
-      '<center><a class="button" href="https://forms.gle/W6f5nwYxrM33hF4f7">Notice a Mistake?</a></center>',
+      '<center><a class="button" href="https://forms.gle/muU6Zn6NZFq4YES9A">Notice a Mistake?</a></center>',
       ":::"
     )
     

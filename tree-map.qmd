@@ -196,7 +196,7 @@ leaflet(tree_shp,
 ## **How to Use the Tree Map**
 
 |                                                                        |                                                                                                                         |
-|:----------------:|------------------------------------------------------|
+|:-----------------:|-----------------------------------------------------|
 |    ![](images/map-icons/map-features/zoom.png){fig-align="center"}     | Use this icon, your finger, or your mousepad to zoom in and zoom out on the map.                                        |
 | ![](images/map-icons/map-features/full-screen.png){fig-align="center"} | Click on this icon to expand the map to full screen.                                                                    |
 | ![](images/map-icons/map-features/reset-view.png){fig-align="center"}  | Click on this icon to reset the map to its original view.                                                               |
@@ -215,4 +215,4 @@ Tree names are all tree-related puns based on the names of Coe's staff and facul
 
 <br>
 
-You can also learn more about an individual tree by visiting its [Tree profile](tree-profile.html) and learn more about the data from all trees on campus by visiting the [Data](data.html) page.
+You can also learn more about an individual tree by visiting its [Tree profile](tree-profiles.html) and learn more about the data from all trees on campus by visiting the [Data](data.html) page.
