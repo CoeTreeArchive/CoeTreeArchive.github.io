@@ -8,10 +8,7 @@ author-title: 'Tree Name'
 
 <br>
 
-
-Planted By:  Unknown
-
-
+Planted By: Unknown
 
 ```{r}
 #| error: false
@@ -64,6 +61,7 @@ df1 <- df %>% filter(Variable != 'Diameter at Breast Height (inches)')
 colnames(df1) <- c('Measurement Date', 'Variable', 'i-Tree Eco Estimated Value')
 
 ```
+
 ## **Size Measurements**
 
 ```{r}
@@ -85,7 +83,6 @@ kable(df0)
 #| tbl-colwidths: [30,40,30]
 kable(df1)
 ```
-
 
 [Read more about these estimates](https://www.itreetools.org/support/resources-overview/i-tree-methods-and-files).
 
@@ -210,12 +207,11 @@ leaflet(
 
 ## **Images**
 
+![Fall 2022](/images/tree-profiles/Fall%202022/128/IMG_6851.jpg)
 
- ![Fall 2022](/images/tree-profiles/Fall 2022/128/IMG_6851.jpg)
+![Fall 2022](/images/tree-profiles/Fall%202022/128/IMG_6852.jpg)
 
- ![Fall 2022](/images/tree-profiles/Fall 2022/128/IMG_6852.jpg)
-
- ![Fall 2022](/images/tree-profiles/Fall 2022/128/main.jpg)
+![Fall 2022](/images/tree-profiles/Fall%202022/128/main.jpg)
 
 ::: column-margin
 <center><a class="button" href="https://forms.gle/muU6Zn6NZFq4YES9A">Notice a Mistake?</a></center>

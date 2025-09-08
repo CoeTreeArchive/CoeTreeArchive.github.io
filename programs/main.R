@@ -45,7 +45,7 @@
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Give the file path of the folder with your new data
-my_directory <- "C:/Users/eaper/CoeTreeArchive.github.io/data/Fall 2022"
+my_directory <- "C:/Users/eaper/OneDrive/CoeTreeArchive.github.io/data/Fall 2022"
 
 # Are coordinates (longitude/latitude) in the field data sheet? (Either: "Yes" 
 # or "No") If "No", then these must be a separate .kml file named 
@@ -53,7 +53,7 @@ my_directory <- "C:/Users/eaper/CoeTreeArchive.github.io/data/Fall 2022"
 coords_ind <- "No"
 
 # Ensure your working directory is set to the project location
-setwd('C:/Users/eaper/CoeTreeArchive.github.io')
+setwd('C:/Users/eaper/OneDrive/CoeTreeArchive.github.io')
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
